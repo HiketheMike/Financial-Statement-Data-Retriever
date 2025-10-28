@@ -1,0 +1,532 @@
+```json
+[
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Ngắn Hạn",
+    "year": 2024,
+    "value": 70046247450
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tiền Và Tương Đương Tiền",
+    "year": 2024,
+    "value": 30065258117
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tiền",
+    "year": 2024,
+    "value": 1510617611
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Tương Đương Tiền",
+    "year": 2024,
+    "value": 28554640506
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Đầu Tư Tài Chính Ngắn Hạn",
+    "year": 2024,
+    "value": 28200000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Đầu Tư Ngắn Hạn",
+    "year": 2024,
+    "value": 28200000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Thu Ngắn Hạn",
+    "year": 2024,
+    "value": 10853845327
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Trả Trước Cho Người Bán",
+    "year": 2024,
+    "value": 140685960
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Thu Hoạt Động Nghiệp Vụ",
+    "year": 2024,
+    "value": 8733659302
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Thu Khác",
+    "year": 2024,
+    "value": 2029851012
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Phải Thu Ngắn Hạn Khó Đòi",
+    "year": 2024,
+    "value": -50350947
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Ngắn Hạn Khác",
+    "year": 2024,
+    "value": 927144006
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Trả Trước Ngắn Hạn",
+    "year": 2024,
+    "value": 501091506
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Thuế Giá Trị Gia Tăng Được Khấu Trừ",
+    "year": 2024,
+    "value": 426052500
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Dài Hạn",
+    "year": 2024,
+    "value": 24796284082
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Cố Định",
+    "year": 2024,
+    "value": 1618407632
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Cố Định Hữu Hình",
+    "year": 2024,
+    "value": 808984834
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nguyên Giá (Tài Sản Cố Định Hữu Hình)",
+    "year": 2024,
+    "value": 3090675000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Giá Trị Hao Mòn Lũy Kế (Tài Sản Cố Định Hữu Hình)",
+    "year": 2024,
+    "value": -2281690166
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Cố Định Vô Hình",
+    "year": 2024,
+    "value": 809422798
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nguyên Giá (Tài Sản Cố Định Vô Hình)",
+    "year": 2024,
+    "value": 4507483613
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Giá Trị Hao Mòn Lũy Kế (Tài Sản Cố Định Vô Hình)",
+    "year": 2024,
+    "value": -3698060815
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Đầu Tư Tài Chính Dài Hạn",
+    "year": 2024,
+    "value": 22397835320
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Đầu Tư Nắm Giữ Đến Ngày Đáo Hạn",
+    "year": 2024,
+    "value": 20449689120
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Đầu Tư Dài Hạn",
+    "year": 2024,
+    "value": 1948146200
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Dài Hạn Khác",
+    "year": 2024,
+    "value": 780041130
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Trả Trước Dài Hạn",
+    "year": 2024,
+    "value": 720041130
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Dài Hạn Khác (Khác)",
+    "year": 2024,
+    "value": 60000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tổng Cộng Tài Sản",
+    "year": 2024,
+    "value": 94842531532
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nợ Phải Trả",
+    "year": 2024,
+    "value": 10924941443
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nợ Ngắn Hạn",
+    "year": 2024,
+    "value": 10924941443
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Cho Người Bán",
+    "year": 2024,
+    "value": 489226071
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Thuế Và Các Khoản Phải Nộp Nhà Nước",
+    "year": 2024,
+    "value": 2597731056
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Người Lao Động",
+    "year": 2024,
+    "value": 3466966862
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Phải Trả",
+    "year": 2024,
+    "value": 1715271141
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Trả Phải Nộp Ngắn Hạn Khác",
+    "year": 2024,
+    "value": 1565760123
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Quỹ Khen Thưởng, Phúc Lợi",
+    "year": 2024,
+    "value": 739986190
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Doanh Thu Chưa Thực Hiện Ngắn Hạn",
+    "year": 2024,
+    "value": 350000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Vốn Chủ Sở Hữu",
+    "year": 2024,
+    "value": 83917590089
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Vốn Đầu Tư Của Chủ Sở Hữu",
+    "year": 2024,
+    "value": 79000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Cổ Phiếu Phổ Thông Có Quyền Biểu Quyết",
+    "year": 2024,
+    "value": 79000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Thặng Dư Vốn Cổ Phần",
+    "year": 2024,
+    "value": 1989600000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Quỹ Khác Thuộc Vốn Chủ Sở Hữu",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Lợi Nhuận Sau Thuế Chưa Phân Phối",
+    "year": 2024,
+    "value": 2927990063
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tổng Cộng Nguồn Vốn",
+    "year": 2024,
+    "value": 94842531532
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chứng Khoán Lưu Ký Của Công Ty Quản Lý Quỹ",
+    "year": 2024,
+    "value": 21052000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tiền Gửi Của Nhà Đầu Tư Ủy Thác",
+    "year": 2024,
+    "value": 340716727
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tiền Gửi Của Nhà Đầu Tư Ủy Thác Trong Nước",
+    "year": 2024,
+    "value": 340716727
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Danh Mục Đầu Tư Của Nhà Đầu Tư Ủy Thác",
+    "year": 2024,
+    "value": 906486732928
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nhà Đầu Tư Ủy Thác Trong Nước",
+    "year": 2024,
+    "value": 906486732928
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Cổ Phiếu",
+    "year": 2024,
+    "value": 74574822928
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Trái Phiếu",
+    "year": 2024,
+    "value": 640211910000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Danh Mục Đầu Tư Khác",
+    "year": 2024,
+    "value": 191700000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Thu Của Nhà Đầu Tư Ủy Thác",
+    "year": 2024,
+    "value": 7961708385
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Trả Của Nhà Đầu Tư Ủy Thác",
+    "year": 2024,
+    "value": 3779183298
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Bán Hàng Và Cung Cấp Dịch Vụ",
+    "year": 2024,
+    "value": 54005048948
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Thuần Về Bán Hàng Và Cung Cấp Dịch Vụ",
+    "year": 2024,
+    "value": 54005048948
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Giá Vốn Hàng Bán Và Dịch Vụ Cung Cấp",
+    "year": 2024,
+    "value": 30584706537
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Gộp Về Bán Hàng Và Cung Cấp Dịch Vụ",
+    "year": 2024,
+    "value": 23420342411
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Hoạt Động Tài Chính",
+    "year": 2024,
+    "value": 3397883768
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Tài Chính",
+    "year": 2024,
+    "value": 23695734
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Quản Lý Doanh Nghiệp",
+    "year": 2024,
+    "value": 17682194387
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Thuần Từ Hoạt Động Kinh Doanh",
+    "year": 2024,
+    "value": 9112336058
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Khác",
+    "year": 2024,
+    "value": 126342453
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "(Lỗ) Khác",
+    "year": 2024,
+    "value": -126342453
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Lợi Nhuận Kế Toán Trước Thuế",
+    "year": 2024,
+    "value": 8985933605
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Thuế TNDN Hiện Hành",
+    "year": 2024,
+    "value": 2033023429
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Sau Thuế Thu Nhập Doanh Nghiệp",
+    "year": 2024,
+    "value": 6352970176
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lãi Cơ Bản Trên Cổ Phiếu",
+    "year": 2024,
+    "value": 1056
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Hoạt Động Nghiệp Vụ, Cung Cấp Dịch Vụ Và Doanh Thu Khác",
+    "year": 2024,
+    "value": 58601220103
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Trả Cho Hoạt Động Nghiệp Vụ Và Người Cung Cấp Hàng Hóa, Dịch Vụ",
+    "year": 2024,
+    "value": -12276784829
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Trả Cho Người Lao Động",
+    "year": 2024,
+    "value": -33809422838
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Nộp Thuế Thu Nhập Doanh Nghiệp",
+    "year": 2024,
+    "value": -2233709599
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Khác Từ Hoạt Động Kinh Doanh",
+    "year": 2024,
+    "value": 140449684
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Khác Từ Hoạt Động Kinh Doanh",
+    "year": 2024,
+    "value": -916328843
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Kinh Doanh",
+    "year": 2024,
+    "value": 9505423673
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Để Mua Sắm, Xây Dựng TSCĐ Và Các Tài Sản Dài Hạn Khác",
+    "year": 2024,
+    "value": -1099600000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Cho Vay, Mua Các Công Cụ Nợ Của Đơn Vị Khác",
+    "year": 2024,
+    "value": -44649689120
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Hồi Cho Vay, Bán Lại Các Công Cụ Nợ Đơn Vị Khác",
+    "year": 2024,
+    "value": 38200000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Đầu Tư Góp Vốn Vào Đơn Vị Khác",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Lãi Tiền Gửi, Tiền Vay, Cổ Tức, Lợi Nhuận Được Chia",
+    "year": 2024,
+    "value": 5383651064
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Đầu Tư",
+    "year": 2024,
+    "value": -2165638056
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Phát Hành Cổ Phiếu, Trái Phiếu, Nhận Vốn Góp Của Chủ Sở Hữu",
+    "year": 2024,
+    "value": 25989600000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lợi Nhuận Đã Trả Cho Chủ Sở Hữu",
+    "year": 2024,
+    "value": -5500000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Tài Chính",
+    "year": 2024,
+    "value": 20489600000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Trong Năm",
+    "year": 2024,
+    "value": 27829385617
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Và Tương Đương Tiền Đầu Năm",
+    "year": 2024,
+    "value": 2235872500
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Và Tương Đương Tiền Cuối Năm",
+    "year": 2024,
+    "value": 30065258117
+  }
+]
+```

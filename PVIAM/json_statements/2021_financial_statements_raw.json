@@ -1,0 +1,448 @@
+```json
+[
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "A. Tài Sản Ngắn Hạn",
+    "year": 2021,
+    "value": 67104084885
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "I. Tiền",
+    "year": 2021,
+    "value": 9136096761
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Tiền TTT",
+    "year": 2021,
+    "value": 9136096761
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "II. Các Khoản Đầu Tư Tài Chính Ngắn Hạn",
+    "year": 2021,
+    "value": 47000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Đầu Tư Ngắn Hạn",
+    "year": 2021,
+    "value": 47000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "III. Các Khoản Phải Thu Ngắn Hạn",
+    "year": 2021,
+    "value": 10928558147
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Trả Trước Cho Người Bán",
+    "year": 2021,
+    "value": 727900000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "2. Phải Thu Hoạt Động Nghiệp Vụ",
+    "year": 2021,
+    "value": 7872374856
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "3. Các Khoản Phải Thu Khác",
+    "year": 2021,
+    "value": 2328283291
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "IV. Tài Sản Ngắn Hạn Khác",
+    "year": 2021,
+    "value": 39429977
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Chi Phí Trả Trước Ngắn Hạn",
+    "year": 2021,
+    "value": 39429977
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "2. Thuế Và Các Khoản Khác Phải Thu Nhà Nước",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "B. Tài Sản Dài Hạn",
+    "year": 2021,
+    "value": 8804527279
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "I. Tài Sản Cố Định",
+    "year": 2021,
+    "value": 32071276
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Tài Sản Cố Định Hữu Hình",
+    "year": 2021,
+    "value": 32071276
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "- Nguyên Giá",
+    "year": 2021,
+    "value": 2040161363
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "- Giá Trị Hao Mòn Lũy Kế",
+    "year": 2021,
+    "value": -2008090087
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "2. Tài Sản Cố Định Vô Hình",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "- Nguyên Giá",
+    "year": 2021,
+    "value": 2658520000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "- Giá Trị Hao Mòn Lũy Kế",
+    "year": 2021,
+    "value": -2658520000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "II. Các Khoản Đầu Tư Tài Chính Dài Hạn",
+    "year": 2021,
+    "value": 8500000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Đầu Tư Dài Hạn Khác",
+    "year": 2021,
+    "value": 8500000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "III. Tài Sản Dài Hạn Khác",
+    "year": 2021,
+    "value": 272456003
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Chi Phí Trả Trước Dài Hạn",
+    "year": 2021,
+    "value": 222456003
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "2. Tài Sản Dài Hạn Khác",
+    "year": 2021,
+    "value": 50000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tổng Cộng Tài Sản",
+    "year": 2021,
+    "value": 75908612164
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "A. Nợ Phải Trả",
+    "year": 2021,
+    "value": 14886939810
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "I. Nợ Ngắn Hạn",
+    "year": 2021,
+    "value": 14886939810
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Phải Trả Người Bán",
+    "year": 2021,
+    "value": 419453951
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "2. Thuế Và Các Khoản Phải Nộp Nhà Nước",
+    "year": 2021,
+    "value": 1621077603
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "3. Phải Trả Người Lao Động",
+    "year": 2021,
+    "value": 10362522578
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "4. Chi Phí Phải Trả",
+    "year": 2021,
+    "value": 332050276
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "5. Các Khoản Phải Trả, Phải Nộp Ngắn Hạn Khác",
+    "year": 2021,
+    "value": 422986062
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "6. Quỹ Khen Thưởng, Phúc Lợi",
+    "year": 2021,
+    "value": 1728809300
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "B. Vốn Chủ Sở Hữu",
+    "year": 2021,
+    "value": 61021672354
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "1. Vốn Đầu Tư Của Chủ Sở Hữu",
+    "year": 2021,
+    "value": 50000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "2. Quỹ Dự Phòng Tài Chính",
+    "year": 2021,
+    "value": 2742882040
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "3. Quỹ Khác Thuộc Vốn Chủ Sở Hữu",
+    "year": 2021,
+    "value": 2742882040
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "4. Lợi Nhuận Sau Thuế Chưa Phân Phối",
+    "year": 2021,
+    "value": 5535908274
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tổng Cộng Nguồn Vốn",
+    "year": 2021,
+    "value": 75908612164
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "1. Doanh Thu",
+    "year": 2021,
+    "value": 35997699472
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "2. Doanh Thu Thuần Về Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": 35997699472
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "3. Chi Phí Hoạt Động Kinh Doanh, Giá Vốn Hàng Bán",
+    "year": 2021,
+    "value": 17417679758
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "4. Lợi Nhuận Gộp Của Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": 18580019714
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "5. Doanh Thu Hoạt Động Tài Chính",
+    "year": 2021,
+    "value": 3715582729
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "6. Chi Phí Tài Chính",
+    "year": 2021,
+    "value": 14059803
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "7. Chi Phí Quản Lý Doanh Nghiệp",
+    "year": 2021,
+    "value": 11985035737
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "8. Lợi Nhuận Thuần Từ Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": 10296506903
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "9. Chi Phí Khác",
+    "year": 2021,
+    "value": 60000000
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "10. Lỗ Khác",
+    "year": 2021,
+    "value": -60000000
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "11. Tổng Lợi Nhuận Kế Toán Trước Thuế",
+    "year": 2021,
+    "value": 10236506903
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "12. Chi Phí Thuế TNDN Hiện Hành",
+    "year": 2021,
+    "value": 2100987095
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "13. Lợi Nhuận Sau Thuế Thu Nhập Doanh Nghiệp",
+    "year": 2021,
+    "value": 8135519808
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "14. Lãi Cơ Bản Trên Cổ Phiếu",
+    "year": 2021,
+    "value": 1562
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "I. Lưu Chuyển Tiền Từ Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": null
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "1. Tiền Thu Từ Hoạt Động Nghiệp Vụ, Cung Cấp Dịch Vụ Và Doanh Thu Khác",
+    "year": 2021,
+    "value": 40373177984
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "2. Tiền Chi Trả Cho Hoạt Động Nghiệp Vụ Và Người Cung Cấp Hàng Hóa, Dịch Vụ",
+    "year": 2021,
+    "value": -5584149434
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "3. Tiền Chi Trả Cho Người Lao Động",
+    "year": 2021,
+    "value": -26001630874
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "4. Tiền Chi Nộp Thuế Thu Nhập Doanh Nghiệp",
+    "year": 2021,
+    "value": -973825247
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "5. Tiền Thu Khác Từ Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": 22500000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "6. Tiền Chi Khác Từ Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": -540753797
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Kinh Doanh",
+    "year": 2021,
+    "value": 7295318632
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "II. Lưu Chuyển Tiền Từ Hoạt Động Đầu Tư",
+    "year": 2021,
+    "value": null
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "1. Tiền Chi Để Mua Sắm, Xây Dựng TSCĐ Và Các Tài Sản Dài Hạn Khác",
+    "year": 2021,
+    "value": -42363636
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "2. Tiền Chi Mua Các Công Cụ Nợ Của Đơn Vị Khác",
+    "year": 2021,
+    "value": -38400000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "3. Tiền Thu Từ Thanh Lý Các Khoản Đầu Tư Công Cụ Nợ Của Đơn Vị Khác",
+    "year": 2021,
+    "value": 38000000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "4. Tiền Thu Lãi Tiền Gửi Ngân Hàng",
+    "year": 2021,
+    "value": 3175488205
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Đầu Tư",
+    "year": 2021,
+    "value": 2733124569
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "III. Lưu Chuyển Tiền Từ Hoạt Động Tài Chính",
+    "year": 2021,
+    "value": null
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "1. Cổ Tức, Lợi Nhuận Đã Trả Cho Chủ Sở Hữu",
+    "year": 2021,
+    "value": -7000000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Tài Chính",
+    "year": 2021,
+    "value": -7000000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Trong Năm",
+    "year": 2021,
+    "value": 3028443201
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Đầu Năm",
+    "year": 2021,
+    "value": 6107653560
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Cuối Năm",
+    "year": 2021,
+    "value": 9136096761
+  }
+]
+```

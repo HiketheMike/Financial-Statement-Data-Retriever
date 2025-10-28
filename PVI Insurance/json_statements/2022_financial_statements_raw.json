@@ -1,0 +1,892 @@
+```json
+[
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Ngắn Hạn",
+    "year": 2022,
+    "value": 17584720559693
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tiền Và Các Khoản Tương Đương Tiền",
+    "year": 2022,
+    "value": 583386027801
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tiền",
+    "year": 2022,
+    "value": 536146027801
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Tương Đương Tiền",
+    "year": 2022,
+    "value": 47240000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Đầu Tư Tài Chính Ngắn Hạn",
+    "year": 2022,
+    "value": 4780869883562
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Đầu Tư Ngắn Hạn",
+    "year": 2022,
+    "value": 4948842512469
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Giảm Giá Đầu Tư Ngắn Hạn",
+    "year": 2022,
+    "value": -167972628907
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Thu Ngắn Hạn",
+    "year": 2022,
+    "value": 2289325250808
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Thu Khách Hàng",
+    "year": 2022,
+    "value": 2127159061322
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Thu Về Hợp Đồng Bảo Hiểm",
+    "year": 2022,
+    "value": 1937666812024
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Thu Khác Của Khách Hàng",
+    "year": 2022,
+    "value": 189492249298
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Trả Trước Cho Người Bán",
+    "year": 2022,
+    "value": 6947772764
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Thu Khác",
+    "year": 2022,
+    "value": 207000428140
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Phải Thu Ngắn Hạn Khó Đòi",
+    "year": 2022,
+    "value": -51782011418
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Hàng Tồn Kho",
+    "year": 2022,
+    "value": 2114257865
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Hàng Tồn Kho",
+    "year": 2022,
+    "value": 2114257865
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Ngắn Hạn Khác",
+    "year": 2022,
+    "value": 491309294750
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Trả Trước Ngắn Hạn",
+    "year": 2022,
+    "value": 491049758821
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Hoa Hồng Chưa Phân Bổ",
+    "year": 2022,
+    "value": 324918431167
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Trả Trước Ngắn Hạn Khác",
+    "year": 2022,
+    "value": 166131327654
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Thuế GTGT Được Khấu Trừ",
+    "year": 2022,
+    "value": 259535929
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 9437715844907
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Phí Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 2580021803419
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Bồi Thường Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 6857694041488
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Dài Hạn",
+    "year": 2022,
+    "value": 2178163568388
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Thu Dài Hạn",
+    "year": 2022,
+    "value": 18871638618
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Thu Dài Hạn Khác",
+    "year": 2022,
+    "value": 18871638618
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Ký Quỹ Bảo Hiểm",
+    "year": 2022,
+    "value": 8000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Ký Quỹ, Ký Cược Khác",
+    "year": 2022,
+    "value": 10871638618
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Cố Định",
+    "year": 2022,
+    "value": 138310202018
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Cố Định Hữu Hình",
+    "year": 2022,
+    "value": 55377983022
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nguyên Giá",
+    "year": 2022,
+    "value": 182678036465
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Giá Trị Hao Mòn Lũy Kế",
+    "year": 2022,
+    "value": -127300053443
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Cố Định Vô Hình",
+    "year": 2022,
+    "value": 82932218996
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nguyên Giá",
+    "year": 2022,
+    "value": 178383041493
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Giá Trị Hao Mòn Lũy Kế",
+    "year": 2022,
+    "value": -95450822497
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Xây Dựng Cơ Bản Dở Dang",
+    "year": 2022,
+    "value": 1822922592455
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Đầu Tư Tài Chính Dài Hạn",
+    "year": 2022,
+    "value": 1825221294000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Đầu Tư Dài Hạn Khác",
+    "year": 2022,
+    "value": 1825221294000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Giảm Giá Đầu Tư Tài Chính Dài Hạn",
+    "year": 2022,
+    "value": -2298701545
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Dài Hạn Khác",
+    "year": 2022,
+    "value": 198059135297
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Trả Trước Dài Hạn",
+    "year": 2022,
+    "value": 187234376202
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tài Sản Thuế Thu Nhập Hoãn Lại",
+    "year": 2022,
+    "value": 10824759095
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tổng Cộng Tài Sản",
+    "year": 2022,
+    "value": 19762884128081
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nợ Phải Trả",
+    "year": 2022,
+    "value": 16166435990198
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nợ Ngắn Hạn",
+    "year": 2022,
+    "value": 16165100908362
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Vay Ngắn Hạn",
+    "year": 2022,
+    "value": 28958000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Cho Người Bán",
+    "year": 2022,
+    "value": 2708838285682
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Về Hợp Đồng Bảo Hiểm",
+    "year": 2022,
+    "value": 2620850784949
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Khác Cho Người Bán",
+    "year": 2022,
+    "value": 87987500733
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Người Mua Trả Tiền Trước",
+    "year": 2022,
+    "value": 73316070165
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Thuế Và Các Khoản Phải Nộp Nhà Nước",
+    "year": 2022,
+    "value": 152014120075
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Người Lao Động",
+    "year": 2022,
+    "value": 220640921321
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Chi Phí Phải Trả",
+    "year": 2022,
+    "value": 52942750174
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Các Khoản Phải Trả, Phải Nộp Ngắn Hạn Khác",
+    "year": 2022,
+    "value": 224362332980
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Doanh Thu Hoa Hồng Nhượng Tái Bảo Hiểm Chưa Được Hưởng",
+    "year": 2022,
+    "value": 445407919737
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Quỹ Khen Thưởng, Phúc Lợi",
+    "year": 2022,
+    "value": 7904984315
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Nghiệp Vụ",
+    "year": 2022,
+    "value": 12250675523913
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Phí Bảo Hiểm Gốc Và Nhận Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 4423343371125
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Bồi Thường Bảo Hiểm Gốc Và Nhận Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 7620352557580
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Dao Động Lớn",
+    "year": 2022,
+    "value": 206979595208
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Nợ Dài Hạn",
+    "year": 2022,
+    "value": 1335081836
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Phải Trả Dài Hạn Khác",
+    "year": 2022,
+    "value": 1335081836
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Dự Phòng Phải Trả Dài Hạn",
+    "year": 2022,
+    "value": 0
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Vốn Chủ Sở Hữu",
+    "year": 2022,
+    "value": 3596448137883
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Vốn Chủ Sở Hữu",
+    "year": 2022,
+    "value": 3596448137883
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Vốn Đầu Tư Của Chủ Sở Hữu",
+    "year": 2022,
+    "value": 3300000000000
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Quỹ Dự Trữ Bắt Buộc",
+    "year": 2022,
+    "value": 269520576174
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Lợi Nhuận Sau Thuế Chưa Phân Phối",
+    "year": 2022,
+    "value": 26927561709
+  },
+  {
+    "statement_type": "Bảng Cân Đối Kế Toán",
+    "item": "Tổng Cộng Nguồn Vốn",
+    "year": 2022,
+    "value": 19762884128081
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Thuần Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 5147083828692
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Hoạt Động Tài Chính",
+    "year": 2022,
+    "value": 600415378877
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Thu Nhập Khác",
+    "year": 2022,
+    "value": 43635217982
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Chi Phí Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 4427767207374
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Hoạt Động Tài Chính",
+    "year": 2022,
+    "value": 172537548382
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Quản Lý Doanh Nghiệp",
+    "year": 2022,
+    "value": 474682684221
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Khác",
+    "year": 2022,
+    "value": 36174388770
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Lợi Nhuận Kế Toán Trước Thuế",
+    "year": 2022,
+    "value": 679972596804
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Thuế TNDN Hiện Hành",
+    "year": 2022,
+    "value": 132638640082
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí/(Thu Nhập) Thuế TNDN Hoãn Lại",
+    "year": 2022,
+    "value": 1094418081
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Sau Thuế Thu Nhập Doanh Nghiệp",
+    "year": 2022,
+    "value": 546239538641
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Phí Bảo Hiểm",
+    "year": 2022,
+    "value": 10483621589526
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Phí Bảo Hiểm Gốc",
+    "year": 2022,
+    "value": 10032093736956
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Phí Nhận Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 1038323598192
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tăng Dự Phòng Phí Bảo Hiểm Gốc Và Nhận Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 586795745622
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Phí Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 6386920834919
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Phí Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 6801507105220
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tăng Dự Phòng Phí Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 414586270301
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Phí Bảo Hiểm Thuần",
+    "year": 2022,
+    "value": 4096700754607
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Hoa Hồng Nhượng Tái Bảo Hiểm Và Doanh Thu Khác Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 1050383074085
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Hoa Hồng Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 1032367985018
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Khác Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 18015089067
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Thuần Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 5147083828692
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Bồi Thường",
+    "year": 2022,
+    "value": 4031837579168
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Chi Bồi Thường",
+    "year": 2022,
+    "value": 4080414327917
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Các Khoản Giảm Trừ (Thu Đòi Người Thứ Ba Bồi Hoàn, Thu Hàng Đã Xử Lý 100%)",
+    "year": 2022,
+    "value": 48576748749
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Thu Bồi Thường Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 2356902645801
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tăng Dự Phòng Bồi Thường Bảo Hiểm Gốc Và Nhận Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 688808283476
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tăng Dự Phòng Bồi Thường Nhượng Tái Bảo Hiểm",
+    "year": 2022,
+    "value": 555794401352
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Chi Bồi Thường Bảo Hiểm",
+    "year": 2022,
+    "value": 1807948815491
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tăng Dự Phòng Dao Động Lớn",
+    "year": 2022,
+    "value": 24189102299
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Trong Đó: Chi Bồi Thường Từ Quỹ Dao Động Lớn",
+    "year": 2022,
+    "value": 18500000000
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Khác Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 2595629289584
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Hoa Hồng Bảo Hiểm",
+    "year": 2022,
+    "value": 637336717845
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Khác Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 1958292571739
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Chi Phí Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 4427767207374
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Gộp Hoạt Động Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": 719316621318
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Doanh Thu Hoạt Động Tài Chính",
+    "year": 2022,
+    "value": 600415378877
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Hoạt Động Tài Chính",
+    "year": 2022,
+    "value": 172537548382
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Gộp Hoạt Động Tài Chính",
+    "year": 2022,
+    "value": 427877830495
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Quản Lý Doanh Nghiệp",
+    "year": 2022,
+    "value": 474082684221
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Thuần Từ Hoạt Động Kinh Doanh",
+    "year": 2022,
+    "value": 672511767592
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Thu Nhập Khác",
+    "year": 2022,
+    "value": 43635217982
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Khác",
+    "year": 2022,
+    "value": 36174388770
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận/(Lỗ) Khác",
+    "year": 2022,
+    "value": 7460829212
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Tổng Lợi Nhuận Kế Toán Trước Thuế",
+    "year": 2022,
+    "value": 679972596804
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí Thuế TNDN Hiện Hành",
+    "year": 2022,
+    "value": 132638640082
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Chi Phí/(Thu Nhập) Thuế TNDN Hoãn Lại",
+    "year": 2022,
+    "value": 1094418081
+  },
+  {
+    "statement_type": "Báo Cáo Kết Quả Hoạt Động Kinh Doanh",
+    "item": "Lợi Nhuận Sau Thuế Thu Nhập Doanh Nghiệp",
+    "year": 2022,
+    "value": 546239538641
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Phí Bảo Hiểm Và Hoa Hồng",
+    "year": 2022,
+    "value": 11820615466487
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Các Khoản Thu Được Giảm Chi",
+    "year": 2022,
+    "value": 67034510386
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Các Hoạt Động Kinh Doanh Khác",
+    "year": 2022,
+    "value": 1033471056817
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Bồi Thường Bảo Hiểm",
+    "year": 2022,
+    "value": -3444242277105
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Hoa Hồng Và Các Khoản Nợ Khác Của Kinh Doanh Bảo Hiểm",
+    "year": 2022,
+    "value": -4769667392427
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Cho Người Bán, Người Cung Cấp Dịch Vụ",
+    "year": 2022,
+    "value": -1228514279403
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Cho Cán Bộ Công Nhân Viên",
+    "year": 2022,
+    "value": -883321567119
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Lãi Vay",
+    "year": 2022,
+    "value": -13280662726
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Nộp Thuế Và Các Khoản Nợ Nhà Nước",
+    "year": 2022,
+    "value": -846075008477
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Trả Tiền Cho Các Khoản Nợ Khác",
+    "year": 2022,
+    "value": -1104144023268
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Tạm Ứng Cho Cán Bộ Công Nhân Viên Và Ứng Trước Cho Người Bán",
+    "year": 2022,
+    "value": -312546938557
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Kinh Doanh",
+    "year": 2022,
+    "value": 262098884608
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Mua Sắm Tài Sản Cố Định",
+    "year": 2022,
+    "value": -5288378945
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Thanh Lý, Nhượng Bán TSCĐ Và Các Tài Sản Dài Hạn Khác",
+    "year": 2022,
+    "value": 860352495
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Chi Cho Vay, Mua Các Công Cụ Nợ Của Đơn Vị Khác",
+    "year": 2022,
+    "value": -5715029100000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Hồi Cho Vay, Bán Lại Các Công Cụ Nợ Đơn Vị Khác",
+    "year": 2022,
+    "value": 5892125274000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Đầu Tư Góp Vốn Vào Đơn Vị Khác",
+    "year": 2022,
+    "value": -300000000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Hồi Vốn Đầu Tư Vào Đơn Vị Khác",
+    "year": 2022,
+    "value": 455880460
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Lãi Tiền Gửi, Tiền Vay, Cổ Tức, Lợi Nhuận Được Chia",
+    "year": 2022,
+    "value": 662426061540
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Đầu Tư",
+    "year": 2022,
+    "value": 535550089550
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Nhận Vốn Góp Của Chủ Sở Hữu",
+    "year": 2022,
+    "value": 200000000000
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Thu Từ Đi Vay",
+    "year": 2022,
+    "value": 923391197059
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Đã Trả Nợ Vay",
+    "year": 2022,
+    "value": -1121884036750
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lợi Nhuận Đã Trả Cho Chủ Sở Hữu",
+    "year": 2022,
+    "value": -487172381755
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Từ Hoạt Động Tài Chính",
+    "year": 2022,
+    "value": -485665221446
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Lưu Chuyển Tiền Thuần Trong Năm",
+    "year": 2022,
+    "value": 312583752712
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Và Tương Đương Tiền Đầu Năm",
+    "year": 2022,
+    "value": 270306279092
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Ảnh Hưởng Của Thay Đổi Tỷ Giá Hối Đoái Quy Đổi Ngoại Tệ",
+    "year": 2022,
+    "value": 495995997
+  },
+  {
+    "statement_type": "Báo Cáo Lưu Chuyển Tiền Tệ",
+    "item": "Tiền Và Tương Đương Tiền Cuối Năm",
+    "year": 2022,
+    "value": 583386027801
+  }
+]
+```

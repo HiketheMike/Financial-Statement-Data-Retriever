@@ -1,0 +1,898 @@
+```json
+[
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "A. Tài sản ngắn hạn",
+    "year": 2021,
+    "value": 16195305050497
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "I. Tiền và các khoản tương đương tiền",
+    "year": 2021,
+    "value": 270306279092
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Tiền",
+    "year": 2021,
+    "value": 210306279092
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Các khoản tương đương tiền",
+    "year": 2021,
+    "value": 60000000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "II. Các khoản đầu tư tài chính ngắn hạn",
+    "year": 2021,
+    "value": 5157125274000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Đầu tư ngắn hạn",
+    "year": 2021,
+    "value": 5325097902907
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Dự phòng giảm giá đầu tư ngắn hạn",
+    "year": 2021,
+    "value": -167972628907
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "III. Các khoản phải thu ngắn hạn",
+    "year": 2021,
+    "value": 1919624913167
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Phải thu khách hàng",
+    "year": 2021,
+    "value": 1920442456149
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1.1. Phải thu về hợp đồng bảo hiểm",
+    "year": 2021,
+    "value": 1585609669203
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1.2. Phải thu khác của khách hàng",
+    "year": 2021,
+    "value": 334832786946
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Trả trước cho người bán",
+    "year": 2021,
+    "value": 19709107058
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "3. Các khoản phải thu khác",
+    "year": 2021,
+    "value": 33423536094
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "4. Dự phòng phải thu ngắn hạn khó đòi",
+    "year": 2021,
+    "value": -53950186134
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "IV. Hàng tồn kho",
+    "year": 2021,
+    "value": 613966230
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Hàng tồn kho",
+    "year": 2021,
+    "value": 613966230
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "V. Tài sản ngắn hạn khác",
+    "year": 2021,
+    "value": 380299444754
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Chi phí trả trước ngắn hạn",
+    "year": 2021,
+    "value": 380299444754
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1.1. Chi phí hoa hồng chưa phân bổ",
+    "year": 2021,
+    "value": 251454579926
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1.2. Chi phí trả trước ngắn hạn khác",
+    "year": 2021,
+    "value": 128844864828
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Thuế GTGT được khấu trừ",
+    "year": 2021,
+    "value": ""
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "VI. Tài sản tái bảo hiểm",
+    "year": 2021,
+    "value": 8467335173254
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Dự phòng phí nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 2165435533118
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Dự phòng bồi thường nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 6301899640136
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "B. Tài sản dài hạn",
+    "year": 2021,
+    "value": 1748165871326
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "I. Các khoản phải thu dài hạn",
+    "year": 2021,
+    "value": 16299510144
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Phải thu dài hạn khác",
+    "year": 2021,
+    "value": 16299510144
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1.1. Ký quỹ bảo hiểm",
+    "year": 2021,
+    "value": 8000000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1.2. Ký quỹ, ký cược khác",
+    "year": 2021,
+    "value": 8299510144
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "II. Tài sản cố định",
+    "year": 2021,
+    "value": 103144983527
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Tài sản cố định hữu hình",
+    "year": 2021,
+    "value": 59717818164
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nguyên giá (Tài sản cố định hữu hình)",
+    "year": 2021,
+    "value": 181940108056
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Giá trị hao mòn lũy kế (Tài sản cố định hữu hình)",
+    "year": 2021,
+    "value": -122222289892
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Tài sản cố định vô hình",
+    "year": 2021,
+    "value": 43046039199
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nguyên giá (Tài sản cố định vô hình)",
+    "year": 2021,
+    "value": 129010405493
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Giá trị hao mòn lũy kế (Tài sản cố định vô hình)",
+    "year": 2021,
+    "value": -85964366294
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "3. Chi phí xây dựng cơ bản dở dang",
+    "year": 2021,
+    "value": 381126164
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "III. Các khoản đầu tư tài chính dài hạn",
+    "year": 2021,
+    "value": 1452226830000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Đầu tư dài hạn khác",
+    "year": 2021,
+    "value": 1460221294000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Dự phòng giảm giá đầu tư tài chính dài hạn",
+    "year": 2021,
+    "value": -7994464000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "IV. Tài sản dài hạn khác",
+    "year": 2021,
+    "value": 176494547655
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Chi phí trả trước dài hạn",
+    "year": 2021,
+    "value": 164575370479
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Tài sản thuế thu nhập hoãn lại",
+    "year": 2021,
+    "value": 11919177176
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tổng cộng tài sản",
+    "year": 2021,
+    "value": 17943470921823
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "A. Nợ phải trả",
+    "year": 2021,
+    "value": 14601262322581
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "I. Nợ ngắn hạn",
+    "year": 2021,
+    "value": 14599851249068
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Vay và nợ ngắn hạn",
+    "year": 2021,
+    "value": 224192498189
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Phải trả cho người bán",
+    "year": 2021,
+    "value": 2185841049035
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2.1. Phải trả về hợp đồng bảo hiểm",
+    "year": 2021,
+    "value": 2160777556882
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2.2. Phải trả khác cho người bán",
+    "year": 2021,
+    "value": 25063492153
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "3. Người mua trả tiền trước",
+    "year": 2021,
+    "value": 54974021967
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "4. Thuế và các khoản phải nộp Nhà nước",
+    "year": 2021,
+    "value": 116878941631
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "5. Phải trả người lao động",
+    "year": 2021,
+    "value": 352579834244
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "6. Chi phí phải trả",
+    "year": 2021,
+    "value": 54540232718
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "7. Các khoản phải trả, phải nộp ngắn hạn khác",
+    "year": 2021,
+    "value": 235328225650
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "8. Doanh thu hoa hồng chưa được hưởng",
+    "year": 2021,
+    "value": 419435166637
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "9. Quỹ khen thưởng, phúc lợi",
+    "year": 2021,
+    "value": 5198886481
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "10. Dự phòng nghiệp vụ",
+    "year": 2021,
+    "value": 10950882392516
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "10.1. Dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2021,
+    "value": 3836547625503
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "10.2. Dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2021,
+    "value": 6931544274104
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "10.3. Dự phòng dao động lớn",
+    "year": 2021,
+    "value": 182790492909
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "II. Nợ dài hạn",
+    "year": 2021,
+    "value": 1411073513
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Phải trả dài hạn khác",
+    "year": 2021,
+    "value": 4000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Dự phòng phải trả dài hạn",
+    "year": 2021,
+    "value": 1407073513
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "B. Vốn chủ sở hữu",
+    "year": 2021,
+    "value": 3342208599242
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "I. Vốn chủ sở hữu",
+    "year": 2021,
+    "value": 3342208599242
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "1. Vốn đầu tư của chủ sở hữu",
+    "year": 2021,
+    "value": 3100000000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "2. Quỹ dự trữ bắt buộc",
+    "year": 2021,
+    "value": 242208599242
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tổng cộng nguồn vốn",
+    "year": 2021,
+    "value": 17943470921823
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "1. Doanh thu thuần hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 4233979508233
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "2. Doanh thu hoạt động tài chính",
+    "year": 2021,
+    "value": 537616370854
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "3. Thu nhập khác",
+    "year": 2021,
+    "value": 1100409745
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "4. Tổng chi phí hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 3365653614827
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "5. Chi phí hoạt động tài chính",
+    "year": 2021,
+    "value": 64545055473
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "6. Chi phí quản lý doanh nghiệp",
+    "year": 2021,
+    "value": 518190670807
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "7. Chi phí khác",
+    "year": 2021,
+    "value": 1681660794
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "8. Tổng lợi nhuận kế toán trước thuế",
+    "year": 2021,
+    "value": 802625286931
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "9. Chi phí thuế TNDN hiện hành",
+    "year": 2021,
+    "value": 168407212187
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "10. (Thu nhập) thuế TNDN hoãn lại",
+    "year": 2021,
+    "value": -1685969806
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "11. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+    "year": 2021,
+    "value": 635904044550
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "1. Doanh thu phí bảo hiểm",
+    "year": 2021,
+    "value": 8367407128192
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Phí bảo hiểm gốc",
+    "year": 2021,
+    "value": 8291246902592
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Phí nhận tái bảo hiểm",
+    "year": 2021,
+    "value": 582265913352
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tăng dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2021,
+    "value": 506105687752
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "2. Phí nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 4921190079583
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng phí nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 5261357995064
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tăng/(Giảm) dự phòng phí nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 340167915481
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "3. Doanh thu phí bảo hiểm thuần",
+    "year": 2021,
+    "value": 3446217048609
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "4. Hoa hồng nhượng tái bảo hiểm và doanh thu khác hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 787762459624
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Hoa hồng nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 768027355231
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Doanh thu khác hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 19735104393
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "5. Doanh thu thuần hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 4233979508233
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "6. Chi bồi thường",
+    "year": 2021,
+    "value": 3810594324358
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng chi bồi thường",
+    "year": 2021,
+    "value": 3836678322748
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Các khoản giảm trừ (Thu đòi người thứ ba bồi hoàn, thu hàng đã xử lý 100%)",
+    "year": 2021,
+    "value": 26083998390
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "7. Thu bồi thường nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 2565666935051
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "8. Tăng dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2021,
+    "value": 893403358474
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "9. Tăng dự phòng bồi thường nhượng tái bảo hiểm",
+    "year": 2021,
+    "value": 945510446215
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "10. Tổng chi bồi thường bảo hiểm",
+    "year": 2021,
+    "value": 1192820301566
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "11. Tăng dự phòng dao động lớn",
+    "year": 2021,
+    "value": 3714352884
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi bồi thường từ quỹ dao động lớn",
+    "year": 2021,
+    "value": 105000000000
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "12. Chi phí khác hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 2169118960377
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi hoa hồng bảo hiểm",
+    "year": 2021,
+    "value": 481520697517
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí khác hoạt động kinh doanh bảo hiểm (sub-item)",
+    "year": 2021,
+    "value": 1687598262860
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "13. Tổng chi phí hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 3365653614827
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "14. Lợi nhuận gộp hoạt động kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": 868325893406
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "15. Doanh thu hoạt động tài chính",
+    "year": 2021,
+    "value": 537616370854
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "16. Chi phí hoạt động tài chính",
+    "year": 2021,
+    "value": 64545055473
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "17. Lợi nhuận gộp hoạt động tài chính",
+    "year": 2021,
+    "value": 453071315381
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "18. Chi phí quản lý doanh nghiệp",
+    "year": 2021,
+    "value": 518190670807
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "19. Lợi nhuận thuần từ hoạt động kinh doanh",
+    "year": 2021,
+    "value": 803206537980
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "20. Thu nhập khác",
+    "year": 2021,
+    "value": 1100409745
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "21. Chi phí khác",
+    "year": 2021,
+    "value": 1681660794
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "22. (Lỗ)/Lợi nhuận khác",
+    "year": 2021,
+    "value": -581251049
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "23. Tổng lợi nhuận kế toán trước thuế",
+    "year": 2021,
+    "value": 802625286931
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "24. Chi phí thuế TNDN hiện hành",
+    "year": 2021,
+    "value": 168407212187
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "25. (Thu nhập) thuế TNDN hoãn lại",
+    "year": 2021,
+    "value": -1685969806
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "26. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+    "year": 2021,
+    "value": 635904044550
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "I. Lưu chuyển tiền từ hoạt động kinh doanh",
+    "year": 2021,
+    "value": ""
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "1. Tiền từ thu phí và hoa hồng",
+    "year": 2021,
+    "value": 9978151099397
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "2. Tiền thu từ các khoản thu được giảm chi",
+    "year": 2021,
+    "value": 101107395349
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "3. Tiền thu từ các hoạt động kinh doanh khác",
+    "year": 2021,
+    "value": 223711765354
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "4. Trả tiền bồi thường bảo hiểm",
+    "year": 2021,
+    "value": -2773597549145
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "5. Trả tiền hoa hồng và các khoản nợ khác của kinh doanh bảo hiểm",
+    "year": 2021,
+    "value": -4009025100297
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "6. Trả tiền cho người bán, người cung cấp dịch vụ",
+    "year": 2021,
+    "value": -902715833150
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "7. Trả tiền cho cán bộ công nhân viên",
+    "year": 2021,
+    "value": -853006872491
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "8. Trả tiền lãi vay",
+    "year": 2021,
+    "value": -2195572160
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "9. Trả tiền nộp thuế và các khoản nợ Nhà nước",
+    "year": 2021,
+    "value": -809283651317
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "10. Trả tiền cho các khoản nợ khác",
+    "year": 2021,
+    "value": -395214918223
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "11. Tiền tạm ứng cho cán bộ công nhân viên và ứng trước cho người bán",
+    "year": 2021,
+    "value": -223821179718
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+    "year": 2021,
+    "value": 334109583593
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "II. Lưu chuyển tiền từ hoạt động đầu tư",
+    "year": 2021,
+    "value": ""
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "1. Tiền mua sắm tài sản cố định",
+    "year": 2021,
+    "value": -7224750491
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+    "year": 2021,
+    "value": 84216091
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+    "year": 2021,
+    "value": -3761983794000
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "4. Tiền thu hồi cho vay, bán lại các công cụ nợ đơn vị khác",
+    "year": 2021,
+    "value": 3551858520000
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "5. Tiền đầu tư góp vốn vào đơn vị khác",
+    "year": 2021,
+    "value": -250000000000
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "6. Tiền thu hồi vốn đầu tư vào đơn vị khác",
+    "year": 2021,
+    "value": 82700000000
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "7. Tiền thu từ lãi tiền gửi, tiền vay, cổ tức, lợi nhuận được chia",
+    "year": 2021,
+    "value": 406715979834
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+    "year": 2021,
+    "value": 22150171434
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "III. Lưu chuyển tiền từ hoạt động tài chính",
+    "year": 2021,
+    "value": ""
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "1. Tiền thu do đi vay",
+    "year": 2021,
+    "value": 549668158889
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "2. Tiền đã trả nợ vay",
+    "year": 2021,
+    "value": -326188023162
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "3. Tiền lãi đã trả cho các nhà đầu tư vào doanh nghiệp",
+    "year": 2021,
+    "value": -637197311716
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+    "year": 2021,
+    "value": -413717175989
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần trong năm",
+    "year": 2021,
+    "value": -57457420956
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền và tương đương tiền đầu năm",
+    "year": 2021,
+    "value": 328805053755
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+    "year": 2021,
+    "value": ""
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền và tương đương tiền cuối năm",
+    "year": 2021,
+    "value": 270306279092
+  }
+]
+```

@@ -1,0 +1,832 @@
+```json
+[
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản ngắn hạn",
+    "year": 2023,
+    "value": 16773689256205
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tiền và các khoản tương đương tiền",
+    "year": 2023,
+    "value": 282292980159
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tiền",
+    "year": 2023,
+    "value": 282292980159
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản tương đương tiền",
+    "year": 2023,
+    "value": null
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản đầu tư tài chính ngắn hạn",
+    "year": 2023,
+    "value": 4294452980142
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Đầu tư ngắn hạn",
+    "year": 2023,
+    "value": 4462425609049
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng giảm giá đầu tư ngắn hạn",
+    "year": 2023,
+    "value": -167972628907
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản phải thu ngắn hạn",
+    "year": 2023,
+    "value": 1863939057438
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải thu của khách hàng",
+    "year": 2023,
+    "value": 1836353907160
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải thu về hợp đồng bảo hiểm",
+    "year": 2023,
+    "value": 1463921095860
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải thu khác của khách hàng",
+    "year": 2023,
+    "value": 372432811300
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Trả trước cho người bán",
+    "year": 2023,
+    "value": 11750445179
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản phải thu khác",
+    "year": 2023,
+    "value": 75783587340
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng phải thu ngắn hạn khó đòi",
+    "year": 2023,
+    "value": -59948882241
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Hàng tồn kho",
+    "year": 2023,
+    "value": 1158874766
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Hàng tồn kho",
+    "year": 2023,
+    "value": 1158874766
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản ngắn hạn khác",
+    "year": 2023,
+    "value": 502287242664
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Chi phí trả trước ngắn hạn",
+    "year": 2023,
+    "value": 501665947201
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Chi phí hoa hồng chưa phân bổ",
+    "year": 2023,
+    "value": 302365422127
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Chi phí trả trước ngắn hạn khác",
+    "year": 2023,
+    "value": 199300525074
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Thuế giá trị gia tăng được khấu trừ",
+    "year": 2023,
+    "value": 621295463
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản tái bảo hiểm",
+    "year": 2023,
+    "value": 9829558121036
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng phí nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 3045182747065
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng bồi thường nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 6784375373971
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản dài hạn",
+    "year": 2023,
+    "value": 4064824336363
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản phải thu dài hạn",
+    "year": 2023,
+    "value": 21240670338
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải thu dài hạn khác",
+    "year": 2023,
+    "value": 21240670338
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Ký quỹ bảo hiểm",
+    "year": 2023,
+    "value": 9000000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải thu dài hạn khác",
+    "year": 2023,
+    "value": 12240670338
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản cố định",
+    "year": 2023,
+    "value": 127081152907
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản cố định hữu hình",
+    "year": 2023,
+    "value": 60321954311
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nguyên giá",
+    "year": 2023,
+    "value": 195110335701
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Giá trị hao mòn lũy kế",
+    "year": 2023,
+    "value": -134788381390
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản cố định vô hình",
+    "year": 2023,
+    "value": 66759198596
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nguyên giá",
+    "year": 2023,
+    "value": 179183791493
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Giá trị hao mòn lũy kế",
+    "year": 2023,
+    "value": -112424592897
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản đầu tư tài chính dài hạn",
+    "year": 2023,
+    "value": 3737795732942
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Đầu tư dài hạn khác",
+    "year": 2023,
+    "value": 3740094434487
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng giảm giá đầu tư tài chính dài hạn",
+    "year": 2023,
+    "value": -2298701545
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản dài hạn khác",
+    "year": 2023,
+    "value": 178706780176
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Chi phí trả trước dài hạn",
+    "year": 2023,
+    "value": 165597464539
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tài sản thuế thu nhập hoãn lại",
+    "year": 2023,
+    "value": 13109315637
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tổng cộng tài sản",
+    "year": 2023,
+    "value": 20838513592568
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nợ phải trả",
+    "year": 2023,
+    "value": 17129010263952
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nợ ngắn hạn",
+    "year": 2023,
+    "value": 17105523208253
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Vay ngắn hạn",
+    "year": 2023,
+    "value": null
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải trả cho người bán",
+    "year": 2023,
+    "value": 2768545913671
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải trả về hợp đồng bảo hiểm",
+    "year": 2023,
+    "value": 2761493125548
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải trả khác cho người bán",
+    "year": 2023,
+    "value": 7052788123
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Người mua trả tiền trước",
+    "year": 2023,
+    "value": 68298574592
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Thuế và các khoản phải nộp Nhà nước",
+    "year": 2023,
+    "value": 166628608188
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải trả người lao động",
+    "year": 2023,
+    "value": 369173542226
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Chi phí phải trả",
+    "year": 2023,
+    "value": 71379078183
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Doanh thu chưa thực hiện ngắn hạn",
+    "year": 2023,
+    "value": 21448602740
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Các khoản phải trả, phải nộp ngắn hạn khác",
+    "year": 2023,
+    "value": 241589073383
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Doanh thu hoa hồng nhượng tái bảo hiểm chưa được hưởng",
+    "year": 2023,
+    "value": 427760147182
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Quỹ khen thưởng, phúc lợi",
+    "year": 2023,
+    "value": 7364044093
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng nghiệp vụ",
+    "year": 2023,
+    "value": 12963329623995
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2023,
+    "value": 5157245216524
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2023,
+    "value": 7572987994571
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng dao động lớn",
+    "year": 2023,
+    "value": 233096412900
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Nợ dài hạn",
+    "year": 2023,
+    "value": 23487055699
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Doanh thu chưa thực hiện dài hạn",
+    "year": 2023,
+    "value": 22047369863
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Phải trả dài hạn khác",
+    "year": 2023,
+    "value": 135000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Dự phòng phải trả dài hạn",
+    "year": 2023,
+    "value": 1304685836
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Vốn chủ sở hữu",
+    "year": 2023,
+    "value": 3709503328616
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Vốn đầu tư của chủ sở hữu",
+    "year": 2023,
+    "value": 3300000000000
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Quỹ dự trữ bắt buộc",
+    "year": 2023,
+    "value": 301319713795
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Lợi nhuận sau thuế chưa phân phối",
+    "year": 2023,
+    "value": 108183614821
+  },
+  {
+    "statement_type": "Bảng cân đối kế toán",
+    "item": "Tổng cộng nguồn vốn",
+    "year": 2023,
+    "value": 20838513592568
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Doanh thu thuần hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 5530879288267
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Doanh thu hoạt động tài chính",
+    "year": 2023,
+    "value": 810948198495
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Thu nhập khác",
+    "year": 2023,
+    "value": 90747151082
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng chi phí hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 4700858057900
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí hoạt động tài chính",
+    "year": 2023,
+    "value": 319046874640
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí quản lý doanh nghiệp",
+    "year": 2023,
+    "value": 528229353544
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí khác",
+    "year": 2023,
+    "value": 89449310444
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng lợi nhuận kế toán trước thuế",
+    "year": 2023,
+    "value": 794991041336
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí thuế TNDN hiện hành",
+    "year": 2023,
+    "value": 161292845436
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "(Thu nhập)/chi phí thuế TNDN hoãn lại",
+    "year": 2023,
+    "value": -2284556542
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+    "year": 2023,
+    "value": 635982752442
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Doanh thu phí bảo hiểm",
+    "year": 2023,
+    "value": 11879008620783
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Phí bảo hiểm gốc",
+    "year": 2023,
+    "value": 11002077073236
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Phí nhận tái bảo hiểm",
+    "year": 2023,
+    "value": 1610833392946
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tăng dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2023,
+    "value": 733901845399
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Phí nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 7386067753325
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng phí nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 7851228696971
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tăng dự phòng phí nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 465160943646
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Doanh thu phí bảo hiểm thuần",
+    "year": 2023,
+    "value": 4492940867458
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Hoa hồng nhượng tái bảo hiểm và doanh thu khác hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 1037938420829
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Hoa hồng nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 989749000137
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Doanh thu khác hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 48189420692
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi bồi thường",
+    "year": 2023,
+    "value": 3920622440397
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng chi bồi thường",
+    "year": 2023,
+    "value": 3951411725697
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Các khoản giảm trừ (Thu đòi người thứ ba bồi hoàn, thu hàng đã xử lý 100%)",
+    "year": 2023,
+    "value": 30789285300
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Thu bồi thường nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": 2096480288597
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "(Giảm)/tăng dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm",
+    "year": 2023,
+    "value": -47364563009
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "(Giảm)/tăng dự phòng bồi thường nhượng tái bảo hiểm",
+    "year": 2023,
+    "value": -73318667517
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng chi bồi thường bảo hiểm",
+    "year": 2023,
+    "value": 1850096256308
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tăng dự phòng dao động lớn",
+    "year": 2023,
+    "value": 26116817692
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Trong đó: Chi bồi thường từ quỹ dao động lớn",
+    "year": 2023,
+    "value": 21500000000
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí khác hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 2824644983900
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi hoa hồng bảo hiểm",
+    "year": 2023,
+    "value": 699800483627
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Chi phí khác hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 2124844500273
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Tổng chi phí hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 4700858057900
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Lợi nhuận gộp hoạt động kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": 830021230387
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Lợi nhuận gộp hoạt động tài chính",
+    "year": 2023,
+    "value": 491901323855
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Lợi nhuận thuần từ hoạt động kinh doanh",
+    "year": 2023,
+    "value": 793693200698
+  },
+  {
+    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
+    "item": "Lợi nhuận khác",
+    "year": 2023,
+    "value": 1297840638
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ phí bảo hiểm và hoa hồng",
+    "year": 2023,
+    "value": 13118664763011
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ các khoản thu được giảm chi",
+    "year": 2023,
+    "value": 105067874657
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ các hoạt động kinh doanh khác",
+    "year": 2023,
+    "value": 1998222445172
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền bồi thường bảo hiểm",
+    "year": 2023,
+    "value": -2808836413271
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền hoa hồng và các khoản nợ khác của kinh doanh bảo hiểm",
+    "year": 2023,
+    "value": -5791256992201
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền cho người bán, người cung cấp dịch vụ",
+    "year": 2023,
+    "value": -1362737727389
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền cho cán bộ công nhân viên",
+    "year": 2023,
+    "value": -885545232296
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền lãi vay",
+    "year": 2023,
+    "value": -23241345109
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền nộp thuế và các khoản nợ Nhà nước",
+    "year": 2023,
+    "value": -922936529975
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Trả tiền cho các khoản nợ khác",
+    "year": 2023,
+    "value": -2101399868863
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền tạm ứng cho cán bộ công nhân viên và ứng trước cho người bán",
+    "year": 2023,
+    "value": -374958278134
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+    "year": 2023,
+    "value": 951042695602
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền mua sắm tài sản cố định",
+    "year": 2023,
+    "value": -15719772147
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+    "year": 2023,
+    "value": 227500000
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+    "year": 2023,
+    "value": -6393793247629
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu hồi cho vay, bán lại các công cụ nợ đơn vị khác",
+    "year": 2023,
+    "value": 5096480846562
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền đầu tư góp vốn vào đơn vị khác",
+    "year": 2023,
+    "value": null
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu hồi vốn đầu tư vào đơn vị khác",
+    "year": 2023,
+    "value": 455880460
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ lãi tiền gửi, tiền vay, cổ tức, lợi nhuận được chia",
+    "year": 2023,
+    "value": 589272866781
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+    "year": 2023,
+    "value": -723531806433
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ nhận vốn góp của chủ sở hữu",
+    "year": 2023,
+    "value": null
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền thu từ đi vay",
+    "year": 2023,
+    "value": 696083802426
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền trả nợ gốc vay",
+    "year": 2023,
+    "value": -725081802426
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lợi nhuận đã trả cho chủ sở hữu",
+    "year": 2023,
+    "value": -501439597315
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+    "year": 2023,
+    "value": -530437597315
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Lưu chuyển tiền thuần trong năm",
+    "year": 2023,
+    "value": -302926708146
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền và tương đương tiền đầu năm",
+    "year": 2023,
+    "value": 583386027801
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+    "year": 2023,
+    "value": 1833660504
+  },
+  {
+    "statement_type": "Báo cáo lưu chuyển tiền tệ",
+    "item": "Tiền cuối năm",
+    "year": 2023,
+    "value": 282292980159
+  }
+]
+```
