@@ -1,0 +1,613 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net sales",
+    "year": 2025,
+    "value": 19486.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Cost of sales",
+    "year": 2025,
+    "value": 12753.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Selling, general, and administrative expenses",
+    "year": 2025,
+    "value": 3445.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Divestitures gain, net",
+    "year": 2025,
+    "value": -95.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Restructuring, transformation, impairment, and other exit costs",
+    "year": 2025,
+    "value": 78.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Operating profit",
+    "year": 2025,
+    "value": 3304.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Benefit plan non-service income",
+    "year": 2025,
+    "value": -54.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Interest, net",
+    "year": 2025,
+    "value": 524.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings before income taxes and after-tax earnings from joint ventures",
+    "year": 2025,
+    "value": 2835.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Income taxes",
+    "year": 2025,
+    "value": 573.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "After-tax earnings from joint ventures",
+    "year": 2025,
+    "value": 57.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings, including earnings attributable to noncontrolling interests",
+    "year": 2025,
+    "value": 2318.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to noncontrolling interests",
+    "year": 2025,
+    "value": 23.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to General Mills",
+    "year": 2025,
+    "value": 2295.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — basic",
+    "year": 2025,
+    "value": 4.12
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — diluted",
+    "year": 2025,
+    "value": 4.10
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Dividends per share",
+    "year": 2025,
+    "value": 2.40
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Cash and cash equivalents",
+    "year": 2025,
+    "value": 363.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Receivables",
+    "year": 2025,
+    "value": 1795.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Inventories",
+    "year": 2025,
+    "value": 1910.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2025,
+    "value": 464.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Assets held for sale",
+    "year": 2025,
+    "value": 740.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current assets",
+    "year": 2025,
+    "value": 5275.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Land, buildings, and equipment",
+    "year": 2025,
+    "value": 3632.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Goodwill",
+    "year": 2025,
+    "value": 15622.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other intangible assets",
+    "year": 2025,
+    "value": 7081.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other assets",
+    "year": 2025,
+    "value": 1459.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total assets",
+    "year": 2025,
+    "value": 33071.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accounts payable",
+    "year": 2025,
+    "value": 4009.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Current portion of long-term debt",
+    "year": 2025,
+    "value": 1528.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Notes payable",
+    "year": 2025,
+    "value": 677.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other current liabilities",
+    "year": 2025,
+    "value": 1624.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Liabilities held for sale",
+    "year": 2025,
+    "value": 18.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current liabilities",
+    "year": 2025,
+    "value": 7857.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Long-term debt",
+    "year": 2025,
+    "value": 12673.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Deferred income taxes",
+    "year": 2025,
+    "value": 2100.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other liabilities",
+    "year": 2025,
+    "value": 1228.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities",
+    "year": 2025,
+    "value": 23859.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock, 754.6 shares issued, $0.10 par value",
+    "year": 2025,
+    "value": 75.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Additional paid-in capital",
+    "year": 2025,
+    "value": 1218.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Retained earnings",
+    "year": 2025,
+    "value": 21917.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock in treasury, at cost, shares of 212.2 and 195.5",
+    "year": 2025,
+    "value": -11467.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accumulated other comprehensive loss",
+    "year": 2025,
+    "value": -2545.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total stockholders’ equity",
+    "year": 2025,
+    "value": 9199.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Noncontrolling interests",
+    "year": 2025,
+    "value": 12.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total equity",
+    "year": 2025,
+    "value": 9211.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities and equity",
+    "year": 2025,
+    "value": 33071.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net earnings, including earnings attributable to noncontrolling interests",
+    "year": 2025,
+    "value": 2318.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2025,
+    "value": 539.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "After-tax earnings from joint ventures",
+    "year": 2025,
+    "value": -57.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions of earnings from joint ventures",
+    "year": 2025,
+    "value": 44.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Stock-based compensation",
+    "year": 2025,
+    "value": 91.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2025,
+    "value": -120.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan contributions",
+    "year": 2025,
+    "value": -30.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan costs",
+    "year": 2025,
+    "value": -12.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Divestitures gain, net",
+    "year": 2025,
+    "value": -95.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Restructuring, transformation, impairment, and other exit costs",
+    "year": 2025,
+    "value": 74.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities, excluding the effects of acquisitions and divestitures",
+    "year": 2025,
+    "value": 192.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net (Operating Activities)",
+    "year": 2025,
+    "value": -24.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2025,
+    "value": 2918.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of land, buildings, and equipment",
+    "year": 2025,
+    "value": -625.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Acquisitions, net of cash acquired",
+    "year": 2025,
+    "value": -1419.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Investments in affiliates, net",
+    "year": 2025,
+    "value": 13.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from disposal of land, buildings, and equipment",
+    "year": 2025,
+    "value": 1.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from divestitures, net of cash divested",
+    "year": 2025,
+    "value": 241.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net (Investing Activities)",
+    "year": 2025,
+    "value": -6.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by investing activities",
+    "year": 2025,
+    "value": -1794.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Change in notes payable",
+    "year": 2025,
+    "value": 667.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Issuance of long-term debt",
+    "year": 2025,
+    "value": 2354.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Payment of long-term debt",
+    "year": 2025,
+    "value": -1300.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Repurchase of Class A limited membership interests in General Mills Cereals, LLC",
+    "year": 2025,
+    "value": -252.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from common stock issued on exercised options",
+    "year": 2025,
+    "value": 43.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of common stock for treasury",
+    "year": 2025,
+    "value": -1202.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Dividends paid",
+    "year": 2025,
+    "value": -1338.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions to noncontrolling interest holders",
+    "year": 2025,
+    "value": -21.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net (Financing Activities)",
+    "year": 2025,
+    "value": -129.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by financing activities",
+    "year": 2025,
+    "value": -1180.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Effect of exchange rate changes on cash and cash equivalents",
+    "year": 2025,
+    "value": 2.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Decrease in cash and cash equivalents",
+    "year": 2025,
+    "value": -54.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - beginning of year",
+    "year": 2025,
+    "value": 418.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - end of year",
+    "year": 2025,
+    "value": 363.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Receivables (Cash flow from changes in current assets and liabilities)",
+    "year": 2025,
+    "value": -79.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Inventories (Cash flow from changes in current assets and liabilities)",
+    "year": 2025,
+    "value": -18.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Prepaid expenses and other current assets (Cash flow from changes in current assets and liabilities)",
+    "year": 2025,
+    "value": 80.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Accounts payable (Cash flow from changes in current assets and liabilities)",
+    "year": 2025,
+    "value": 86.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other current liabilities (Cash flow from changes in current assets and liabilities)",
+    "year": 2025,
+    "value": 122.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities (Cash flow from changes in current assets and liabilities)",
+    "year": 2025,
+    "value": 192.4
+  }
+]
+```

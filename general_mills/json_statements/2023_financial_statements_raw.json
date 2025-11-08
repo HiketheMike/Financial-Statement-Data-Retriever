@@ -1,0 +1,606 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net sales",
+    "year": "2023",
+    "value": 20094.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Cost of sales",
+    "year": "2023",
+    "value": 13548.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Selling, general, and administrative expenses",
+    "year": "2023",
+    "value": 3500.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Divestitures (gain) loss, net",
+    "year": "2023",
+    "value": -444.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Restructuring, impairment, and other exit costs (recoveries)",
+    "year": "2023",
+    "value": 56.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Operating profit",
+    "year": "2023",
+    "value": 3433.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Benefit plan non-service income",
+    "year": "2023",
+    "value": -88.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Interest, net",
+    "year": "2023",
+    "value": 382.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings before income taxes and after-tax earnings from joint ventures",
+    "year": "2023",
+    "value": 3140.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Income taxes",
+    "year": "2023",
+    "value": 612.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "After-tax earnings from joint ventures",
+    "year": "2023",
+    "value": 81.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
+    "year": "2023",
+    "value": 2609.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to redeemable and noncontrolling interests",
+    "year": "2023",
+    "value": 15.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to General Mills",
+    "year": "2023",
+    "value": 2593.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — basic",
+    "year": "2023",
+    "value": 4.36
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — diluted",
+    "year": "2023",
+    "value": 4.31
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Dividends per share",
+    "year": "2023",
+    "value": 2.16
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Cash and cash equivalents",
+    "year": "May 28, 2023",
+    "value": 585.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Receivables",
+    "year": "May 28, 2023",
+    "value": 1683.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Inventories",
+    "year": "May 28, 2023",
+    "value": 2172.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Prepaid expenses and other current assets",
+    "year": "May 28, 2023",
+    "value": 735.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Assets held for sale",
+    "year": "May 28, 2023",
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current assets",
+    "year": "May 28, 2023",
+    "value": 5176.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Land, buildings, and equipment",
+    "year": "May 28, 2023",
+    "value": 3636.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Goodwill",
+    "year": "May 28, 2023",
+    "value": 14511.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other intangible assets",
+    "year": "May 28, 2023",
+    "value": 6967.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other assets",
+    "year": "May 28, 2023",
+    "value": 1160.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total assets",
+    "year": "May 28, 2023",
+    "value": 31451.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accounts payable",
+    "year": "May 28, 2023",
+    "value": 4194.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Current portion of long-term debt",
+    "year": "May 28, 2023",
+    "value": 1709.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Notes payable",
+    "year": "May 28, 2023",
+    "value": 31.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other current liabilities",
+    "year": "May 28, 2023",
+    "value": 1600.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current liabilities",
+    "year": "May 28, 2023",
+    "value": 7535.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Long-term debt",
+    "year": "May 28, 2023",
+    "value": 9965.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Deferred income taxes",
+    "year": "May 28, 2023",
+    "value": 2110.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other liabilities",
+    "year": "May 28, 2023",
+    "value": 1140.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities",
+    "year": "May 28, 2023",
+    "value": 20751.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock, 754.6 shares issued, $0.10 par value",
+    "year": "May 28, 2023",
+    "value": 75.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Additional paid-in capital",
+    "year": "May 28, 2023",
+    "value": 1222.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Retained earnings",
+    "year": "May 28, 2023",
+    "value": 19838.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock in treasury, at cost, shares of 168.0 and 155.7",
+    "year": "May 28, 2023",
+    "value": -8410.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accumulated other comprehensive loss",
+    "year": "May 28, 2023",
+    "value": -2276.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total stockholders' equity",
+    "year": "May 28, 2023",
+    "value": 10449.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Noncontrolling interests",
+    "year": "May 28, 2023",
+    "value": 250.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total equity",
+    "year": "May 28, 2023",
+    "value": 10700.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities and equity",
+    "year": "May 28, 2023",
+    "value": 31451.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
+    "year": "2023",
+    "value": 2609.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": "2023",
+    "value": 546.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "After-tax earnings from joint ventures",
+    "year": "2023",
+    "value": -81.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions of earnings from joint ventures",
+    "year": "2023",
+    "value": 69.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Stock-based compensation",
+    "year": "2023",
+    "value": 111.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": "2023",
+    "value": -22.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan contributions",
+    "year": "2023",
+    "value": -30.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan costs",
+    "year": "2023",
+    "value": -27.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Divestitures (gain) loss, net",
+    "year": "2023",
+    "value": -444.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Restructuring, impairment, and other exit costs (recoveries)",
+    "year": "2023",
+    "value": 24.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities, excluding the effects of acquisitions and divestitures",
+    "year": "2023",
+    "value": -48.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net",
+    "year": "2023",
+    "value": 71.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": "2023",
+    "value": 2778.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of land, buildings, and equipment",
+    "year": "2023",
+    "value": -689.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Acquisition, net of cash acquired",
+    "year": "2023",
+    "value": -251.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Investments in affiliates, net",
+    "year": "2023",
+    "value": -32.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from disposal of land, buildings, and equipment",
+    "year": "2023",
+    "value": 1.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from divestitures, net of cash divested",
+    "year": "2023",
+    "value": 633.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net",
+    "year": "2023",
+    "value": -7.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by investing activities",
+    "year": "2023",
+    "value": -346.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Change in notes payable",
+    "year": "2023",
+    "value": -769.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Issuance of long-term debt",
+    "year": "2023",
+    "value": 2324.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Payment of long-term debt",
+    "year": "2023",
+    "value": -1421.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Debt exchange participation incentive cash payment",
+    "year": "2023",
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from common stock issued on exercised options",
+    "year": "2023",
+    "value": 232.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of common stock for treasury",
+    "year": "2023",
+    "value": -1403.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Dividends paid",
+    "year": "2023",
+    "value": -1287.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions to noncontrolling and redeemable interest holders",
+    "year": "2023",
+    "value": -15.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net",
+    "year": "2023",
+    "value": -62.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by financing activities",
+    "year": "2023",
+    "value": -2404.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Effect of exchange rate changes on cash and cash equivalents",
+    "year": "2023",
+    "value": -12.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Increase (decrease) in cash and cash equivalents",
+    "year": "2023",
+    "value": 16.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - beginning of year",
+    "year": "2023",
+    "value": 569.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - end of year",
+    "year": "2023",
+    "value": 585.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Receivables (cash flow from changes in current assets and liabilities)",
+    "year": "2023",
+    "value": -41.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Inventories (cash flow from changes in current assets and liabilities)",
+    "year": "2023",
+    "value": -319.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Prepaid expenses and other current assets (cash flow from changes in current assets and liabilities)",
+    "year": "2023",
+    "value": 61.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Accounts payable (cash flow from changes in current assets and liabilities)",
+    "year": "2023",
+    "value": 199.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other current liabilities (cash flow from changes in current assets and liabilities)",
+    "year": "2023",
+    "value": 49.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities",
+    "year": "2023",
+    "value": -48.9
+  }
+]
+```

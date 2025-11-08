@@ -1,0 +1,613 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net sales",
+    "year": 2022,
+    "value": 18992.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Cost of sales",
+    "year": 2022,
+    "value": 12590.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Selling, general, and administrative expenses",
+    "year": 2022,
+    "value": 3147.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Divestitures (gain) loss",
+    "year": 2022,
+    "value": -194.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Restructuring, impairment, and other exit (recoveries) costs",
+    "year": 2022,
+    "value": -26.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Operating profit",
+    "year": 2022,
+    "value": 3475.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Benefit plan non-service income",
+    "year": 2022,
+    "value": -113.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Interest, net",
+    "year": 2022,
+    "value": 379.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings before income taxes and after-tax earnings from joint ventures",
+    "year": 2022,
+    "value": 3209.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Income taxes",
+    "year": 2022,
+    "value": 586.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "After-tax earnings from joint ventures",
+    "year": 2022,
+    "value": 111.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
+    "year": 2022,
+    "value": 2735.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to redeemable and noncontrolling interests",
+    "year": 2022,
+    "value": 27.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to General Mills",
+    "year": 2022,
+    "value": 2707.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — basic",
+    "year": 2022,
+    "value": 4.46
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — diluted",
+    "year": 2022,
+    "value": 4.42
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Dividends per share",
+    "year": 2022,
+    "value": 2.04
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Cash and cash equivalents",
+    "year": 2022,
+    "value": 569.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Receivables",
+    "year": 2022,
+    "value": 1692.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Inventories",
+    "year": 2022,
+    "value": 1867.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2022,
+    "value": 802.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Assets held for sale",
+    "year": 2022,
+    "value": 158.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current assets",
+    "year": 2022,
+    "value": 5089.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Land, buildings, and equipment",
+    "year": 2022,
+    "value": 3393.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Goodwill",
+    "year": 2022,
+    "value": 14378.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other intangible assets",
+    "year": 2022,
+    "value": 6999.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other assets",
+    "year": 2022,
+    "value": 1228.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total assets",
+    "year": 2022,
+    "value": 31090.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accounts payable",
+    "year": 2022,
+    "value": 3982.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Current portion of long-term debt",
+    "year": 2022,
+    "value": 1674.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Notes payable",
+    "year": 2022,
+    "value": 811.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other current liabilities",
+    "year": 2022,
+    "value": 1552.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current liabilities",
+    "year": 2022,
+    "value": 8019.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Long-term debt",
+    "year": 2022,
+    "value": 9134.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Deferred income taxes",
+    "year": 2022,
+    "value": 2218.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other liabilities",
+    "year": 2022,
+    "value": 929.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities",
+    "year": 2022,
+    "value": 20302.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Redeemable interest",
+    "year": 2022,
+    "value": 0.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock",
+    "year": 2022,
+    "value": 75.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Additional paid-in capital",
+    "year": 2022,
+    "value": 1182.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Retained earnings",
+    "year": 2022,
+    "value": 18532.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock in treasury",
+    "year": 2022,
+    "value": -7278.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accumulated other comprehensive loss",
+    "year": 2022,
+    "value": -1970.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total stockholders' equity",
+    "year": 2022,
+    "value": 10542.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Noncontrolling interests",
+    "year": 2022,
+    "value": 245.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total equity",
+    "year": 2022,
+    "value": 10788.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities and equity",
+    "year": 2022,
+    "value": 31090.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
+    "year": 2022,
+    "value": 2735.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2022,
+    "value": 570.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "After-tax earnings from joint ventures",
+    "year": 2022,
+    "value": -111.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions of earnings from joint ventures",
+    "year": 2022,
+    "value": 107.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Stock-based compensation",
+    "year": 2022,
+    "value": 98.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2022,
+    "value": 62.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan contributions",
+    "year": 2022,
+    "value": -31.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan costs",
+    "year": 2022,
+    "value": -30.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Divestitures (gain) loss",
+    "year": 2022,
+    "value": -194.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Restructuring, impairment, and other exit (recoveries) costs",
+    "year": 2022,
+    "value": -117.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities, excluding the effects of acquisition and divestitures",
+    "year": 2022,
+    "value": 277.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net (operating activities)",
+    "year": 2022,
+    "value": -50.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2022,
+    "value": 3316.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of land, buildings, and equipment",
+    "year": 2022,
+    "value": -568.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Acquisition",
+    "year": 2022,
+    "value": -1201.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Investments in affiliates, net",
+    "year": 2022,
+    "value": 15.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from disposal of land, buildings, and equipment",
+    "year": 2022,
+    "value": 3.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from divestitures, net of cash divested",
+    "year": 2022,
+    "value": 74.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net (investing activities)",
+    "year": 2022,
+    "value": -13.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by investing activities",
+    "year": 2022,
+    "value": -1690.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Change in notes payable",
+    "year": 2022,
+    "value": 551.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Issuance of long-term debt",
+    "year": 2022,
+    "value": 2203.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Payment of long-term debt",
+    "year": 2022,
+    "value": -3140.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Debt exchange participation incentive cash payment",
+    "year": 2022,
+    "value": 0.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from common stock issued on exercised options",
+    "year": 2022,
+    "value": 161.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of common stock for treasury",
+    "year": 2022,
+    "value": -876.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Dividends paid",
+    "year": 2022,
+    "value": -1244.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions to noncontrolling and redeemable interest holders",
+    "year": 2022,
+    "value": -129.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net (financing activities)",
+    "year": 2022,
+    "value": -28.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by financing activities",
+    "year": 2022,
+    "value": -2503.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Effect of exchange rate changes on cash and cash equivalents",
+    "year": 2022,
+    "value": -58.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "(Decrease) increase in cash and cash equivalents",
+    "year": 2022,
+    "value": -935.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - beginning of year",
+    "year": 2022,
+    "value": 1505.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - end of year",
+    "year": 2022,
+    "value": 569.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Receivables (changes in current assets and liabilities)",
+    "year": 2022,
+    "value": -166.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Inventories (changes in current assets and liabilities)",
+    "year": 2022,
+    "value": -85.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Prepaid expenses and other current assets (changes in current assets and liabilities)",
+    "year": 2022,
+    "value": -35.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Accounts payable (changes in current assets and liabilities)",
+    "year": 2022,
+    "value": 456.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other current liabilities (changes in current assets and liabilities)",
+    "year": 2022,
+    "value": 108.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities (cash flow from changes in current assets and liabilities breakdown)",
+    "year": 2022,
+    "value": 277.4
+  }
+]
+```

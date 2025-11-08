@@ -1,0 +1,592 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net sales",
+    "year": 2024,
+    "value": 19857.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Cost of sales",
+    "year": 2024,
+    "value": 12925.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Selling, general, and administrative expenses",
+    "year": 2024,
+    "value": 3259.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Divestitures gain, net",
+    "year": 2024,
+    "value": null
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Restructuring, impairment, and other exit costs (recoveries)",
+    "year": 2024,
+    "value": 241.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Operating profit",
+    "year": 2024,
+    "value": 3431.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Benefit plan non-service income",
+    "year": 2024,
+    "value": -75.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Interest, net",
+    "year": 2024,
+    "value": 479.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings before income taxes and after-tax earnings from joint ventures",
+    "year": 2024,
+    "value": 3028.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Income taxes",
+    "year": 2024,
+    "value": 594.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "After-tax earnings from joint ventures",
+    "year": 2024,
+    "value": 84.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
+    "year": 2024,
+    "value": 2518.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to redeemable and noncontrolling interests",
+    "year": 2024,
+    "value": 22.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Net earnings attributable to General Mills",
+    "year": 2024,
+    "value": 2496.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — basic",
+    "year": 2024,
+    "value": 4.34
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Earnings per share — diluted",
+    "year": 2024,
+    "value": 4.31
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Earnings",
+    "item": "Dividends per share",
+    "year": 2024,
+    "value": 2.36
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Cash and cash equivalents",
+    "year": 2024,
+    "value": 418.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Receivables",
+    "year": 2024,
+    "value": 1696.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Inventories",
+    "year": 2024,
+    "value": 1898.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2024,
+    "value": 568.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current assets",
+    "year": 2024,
+    "value": 4580.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Land, buildings, and equipment",
+    "year": 2024,
+    "value": 3863.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Goodwill",
+    "year": 2024,
+    "value": 14750.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other intangible assets",
+    "year": 2024,
+    "value": 6979.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other assets",
+    "year": 2024,
+    "value": 1294.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total assets",
+    "year": 2024,
+    "value": 31469.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accounts payable",
+    "year": 2024,
+    "value": 3987.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Current portion of long-term debt",
+    "year": 2024,
+    "value": 1614.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Notes payable",
+    "year": 2024,
+    "value": 11.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other current liabilities",
+    "year": 2024,
+    "value": 1419.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total current liabilities",
+    "year": 2024,
+    "value": 7033.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Long-term debt",
+    "year": 2024,
+    "value": 11304.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Deferred income taxes",
+    "year": 2024,
+    "value": 2200.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Other liabilities",
+    "year": 2024,
+    "value": 1283.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities",
+    "year": 2024,
+    "value": 21821.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock, 754.6 shares issued, $0.10 par value",
+    "year": 2024,
+    "value": 75.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Additional paid-in capital",
+    "year": 2024,
+    "value": 1227.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Retained earnings",
+    "year": 2024,
+    "value": 20971.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Common stock in treasury, at cost, shares of 195.5 and 168.0",
+    "year": 2024,
+    "value": -10357.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Accumulated other comprehensive loss",
+    "year": 2024,
+    "value": -2519.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total stockholders’ equity",
+    "year": 2024,
+    "value": 9396.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Noncontrolling interests",
+    "year": 2024,
+    "value": 251.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total equity",
+    "year": 2024,
+    "value": 9648.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Balance Sheets",
+    "item": "Total liabilities and equity",
+    "year": 2024,
+    "value": 31469.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
+    "year": 2024,
+    "value": 2518.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2024,
+    "value": 552.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "After-tax earnings from joint ventures",
+    "year": 2024,
+    "value": -84.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions of earnings from joint ventures",
+    "year": 2024,
+    "value": 50.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Stock-based compensation",
+    "year": 2024,
+    "value": 95.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2024,
+    "value": -48.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan contributions",
+    "year": 2024,
+    "value": -30.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Pension and other postretirement benefit plan costs",
+    "year": 2024,
+    "value": -27.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Divestitures gain, net",
+    "year": 2024,
+    "value": null
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Restructuring, impairment, and other exit costs (recoveries)",
+    "year": 2024,
+    "value": 223.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities, excluding the effects of acquisitions and divestitures",
+    "year": 2024,
+    "value": 10.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net",
+    "year": 2024,
+    "value": 41.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2024,
+    "value": 3302.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of land, buildings, and equipment",
+    "year": 2024,
+    "value": -774.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Acquisitions, net of cash acquired",
+    "year": 2024,
+    "value": -451.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Investments in affiliates, net",
+    "year": 2024,
+    "value": -2.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from disposal of land, buildings, and equipment",
+    "year": 2024,
+    "value": 0.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from divestitures, net of cash divested",
+    "year": 2024,
+    "value": null
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net",
+    "year": 2024,
+    "value": 30.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by investing activities",
+    "year": 2024,
+    "value": -1197.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Change in notes payable",
+    "year": 2024,
+    "value": -20.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Issuance of long-term debt",
+    "year": 2024,
+    "value": 2065.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Payment of long-term debt",
+    "year": 2024,
+    "value": -901.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Proceeds from common stock issued on exercised options",
+    "year": 2024,
+    "value": 25.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Purchases of common stock for treasury",
+    "year": 2024,
+    "value": -2002.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Dividends paid",
+    "year": 2024,
+    "value": -1363.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Distributions to redeemable and noncontrolling interest holders",
+    "year": 2024,
+    "value": -21.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other, net",
+    "year": 2024,
+    "value": -53.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Net cash used by financing activities",
+    "year": 2024,
+    "value": -2272.3
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Effect of exchange rate changes on cash and cash equivalents",
+    "year": 2024,
+    "value": -0.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "(Decrease) increase in cash and cash equivalents",
+    "year": 2024,
+    "value": -167.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - beginning of year",
+    "year": 2024,
+    "value": 585.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Cash and cash equivalents - end of year",
+    "year": 2024,
+    "value": 418.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Receivables",
+    "year": 2024,
+    "value": -1.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Inventories",
+    "year": 2024,
+    "value": 287.6
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2024,
+    "value": 167.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Accounts payable",
+    "year": 2024,
+    "value": -251.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Other current liabilities",
+    "year": 2024,
+    "value": -191.0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Consolidated Statements of Cash Flows",
+    "item": "Changes in current assets and liabilities",
+    "year": 2024,
+    "value": 10.6
+  }
+]
+```
