@@ -1,142 +1,18 @@
 ```json
 [
   {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Doanh thu",
-    "year": 2022,
-    "value": 44851172588
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Doanh thu hoạt động kinh doanh",
-    "year": 2022,
-    "value": 41625860148
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Doanh thu tài chính",
-    "year": 2022,
-    "value": 3225312440
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Thu nhập khác",
-    "year": 2022,
-    "value": 5271906320
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Chi phí hoạt động kinh doanh",
+    "item_number": "",
+    "statement_type": "Chi Phí Hoạt động Kinh Doanh, Giá Vốn Bán Hàng",
+    "item": "Chi Phí Hoạt Động Kinh Doanh",
     "year": 2022,
     "value": 20400570242
   },
   {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Chi phí quản lý doanh nghiệp",
+    "item_number": "",
+    "statement_type": "Chi Phí Hoạt động Kinh Doanh, Giá Vốn Bán Hàng",
+    "item": "Giá Vốn Bán Hàng",
     "year": 2022,
-    "value": 13253662884
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Chi phí khác",
-    "year": 2022,
-    "value": 109315609
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Chi phí tài chính",
-    "year": 2022,
-    "value": 13957585
-  },
-  {
-    "statement_type": "Báo cáo kết quả hoạt động kinh doanh",
-    "item": "Lợi nhuận trước thuế",
-    "year": 2022,
-    "value": 11070000000
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Tổng tài sản",
-    "year": 2022,
-    "value": 70888000324
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Tiền và các khoản tương đương tiền",
-    "year": 2022,
-    "value": 7591754469
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Các khoản đầu tư tài chính ngắn hạn",
-    "year": 2022,
-    "value": 18300000000
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Các khoản phải thu ngắn hạn",
-    "year": 2022,
-    "value": 10175628817
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Tài sản ngắn hạn khác",
-    "year": 2022,
-    "value": 733021838
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Cộng tài sản ngắn hạn",
-    "year": 2022,
-    "value": 36067389628
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Tài sản cố định",
-    "year": 2022,
-    "value": 967806342
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Các khoản đầu tư tài chính dài hạn",
-    "year": 2022,
-    "value": 31000000000
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Tài sản dài hạn khác",
-    "year": 2022,
-    "value": 2852804354
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Cộng tài sản dài hạn",
-    "year": 2022,
-    "value": 34820610696
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Nợ phải trả",
-    "year": 2022,
-    "value": 11342080052
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Vốn điều lệ",
-    "year": 2022,
-    "value": 50000000000
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Quỹ khác thuộc vốn chủ sở hữu",
-    "year": 2022,
-    "value": 2742882040
-  },
-  {
-    "statement_type": "Bảng cân đối kế toán",
-    "item": "Lợi nhuận sau thuế chưa phân phối",
-    "year": 2022,
-    "value": 5222908274
+    "value": ""
   }
 ]
 ```

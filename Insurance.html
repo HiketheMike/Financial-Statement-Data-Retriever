@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PVI Holdings: SOTP Valuation & Growth Drivers</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: #E6F2FF;
+            color: #004A99;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 350px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+                max-height: 400px;
+            }
+            .chart-container-sm {
+                height: 250px;
+                max-height: 300px;
+            }
+        }
+        .card {
+            background-color: #FFFFFF;
+            border-radius: 0.75rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .kpi-box {
+            background-color: #B3D7FF;
+            color: #004A99;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            text-align: center;
+        }
+        .kpi-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            opacity: 0.8;
+        }
+        .kpi-value {
+            font-size: 1.875rem;
+            font-weight: 700;
+        }
+        h1 {
+            color: #004A99;
+            font-size: 2.25rem;
+            font-weight: 800;
+            line-height: 2.5rem;
+        }
+        h2 {
+            color: #004A99;
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #B3D7FF;
+            padding-bottom: 0.5rem;
+        }
+        h3 {
+            color: #007BFF;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+        .qualitative-list li {
+            position: relative;
+            padding-left: 1.25rem;
+            margin-bottom: 0.5rem;
+        }
+        .qualitative-list li::before {
+            content: '►';
+            position: absolute;
+            left: 0;
+            top: 0.25rem;
+            color: #007BFF;
+            font-size: 0.75rem;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+
+        <header class="text-center mb-12">
+            <h1 class="mb-4">PVI Holdings: SOTP Valuation & Growth Drivers</h1>
+            <p class="text-xl max-w-4xl mx-auto text-[#004A99]">
+                An infographic analysis of PVI Holdings' Sum-of-the-Parts (SOTP) valuation, underpinned by the qualitative growth potential of its core subsidiaries within Vietnam's dynamic macroeconomic landscape.
+            </p>
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+            <div class="kpi-box">
+                <div class="kpi-title">Total GWP (2023)</div>
+                <div class="kpi-value">16,081B VND</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-title">Total PBT (2023)</div>
+                <div class="kpi-value">1,357B VND</div>
+            </div>
+            <div class="kpi-box">
+                <div class="kpi-title">Non-Life Market Share</div>
+                <div class="kpi-value">#1 (16.2%)</div>
+            </div>
+        </div>
+
+        <div class="card md:grid md:grid-cols-2 md:gap-8 md:items-center">
+            <div>
+                <h2>SOTP Valuation Overview</h2>
+                <p class="mb-4 text-gray-700">
+                    Our Sum-of-the-Parts (SOTP) valuation for PVI Holdings is anchored by its three distinct, high-performing pillars. The group's structure allows each entity to specialize while creating systemic synergies. The non-life insurance arm, PVI Insurance, represents the largest component of the group's operational value, complemented by the stable, high-growth reinsurance and asset management businesses.
+                </p>
+                <p class="text-gray-700">
+                    This visualization illustrates the estimated contribution of each subsidiary to the group's consolidated profit, highlighting the dominant role of the core insurance business.
+                </p>
+            </div>
+            <div>
+                <h3 class="text-center">Consolidated PBT Contribution</h3>
+                <div class="chart-container">
+                    <canvas id="sotpChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Vietnam's Macroeconomic Engine: The Foundation for Upside</h2>
+            <p class="mb-6 text-gray-700">
+                The valuation of PVI's subsidiaries is not just based on current performance but on their immense upside potential, which is directly fueled by Vietnam's robust macroeconomic environment. Key drivers include consistent high-level GDP growth, a burgeoning middle class, and a significantly under-penetrated insurance market, providing a long runway for growth.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h3 class="text-center">Vietnam GDP Growth (% YoY)</h3>
+                    <div class="chart-container chart-container-sm">
+                        <canvas id="gdpChart"></canvas>
+                    </div>
+                    <p class="text-center mt-2 text-sm text-gray-600">Sustained growth fuels demand for all insurance lines.</p>
+                </div>
+                <div>
+                    <h3 class="text-center">Non-Life Penetration (% of GDP)</h3>
+                    <div class="chart-container chart-container-sm">
+                        <canvas id="penetrationChart"></canvas>
+                    </div>
+                    <p class="text-center mt-2 text-sm text-gray-600">Significant gap to regional peers signals high growth potential.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Subsidiary Deep Dive: PVI Insurance</h2>
+            <p class="mb-6 text-gray-700">
+                As the #1 non-life insurer in Vietnam, PVI Insurance is the group's flagship. Its diversified portfolio, strong market position, and leadership in industrial/commercial lines place it in a prime position to capture macro-driven growth.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+                <div>
+                    <h3 class="text-center">GWP Portfolio Breakdown (est.)</h3>
+                    <div class="chart-container">
+                        <canvas id="pviInsChart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h3>Qualitative Growth Drivers</h3>
+                    <ul class="qualitative-list space-y-3 text-gray-700">
+                        <li>
+                            <strong>Health:</strong> Poised for significant expansion, driven by a rising middle class demanding higher-quality healthcare and corporate adoption of employee benefit packages. This segment benefits from low capital requirements and sticky customer relationships.
+                        </li>
+                        <li>
+                            <strong>Property and Insurance:</strong> Directly correlated with Vietnam's surge in FDI and infrastructure development. Every new factory, industrial park, and commercial real estate project requires comprehensive property coverage, a core strength for PVI.
+                        </li>
+                        <li>
+                            <strong>Hull and Liability Insurance:</strong> Growth is linked to Vietnam's status as a global manufacturing hub and its expanding export-oriented economy. Increased maritime trade and logistics complexity drive demand for both hull (vessel) and liability (cargo, operations) insurance.
+                        </li>
+                        <li>
+                            <strong>Fire and Explosion:</strong> A compulsory insurance line for many businesses, its growth is tied to the formalization of the economy and stricter regulatory enforcement, particularly in new industrial and residential high-rise constructions.
+                        </li>
+                        <li>
+                            <strong>Motorcycle/Motor:</strong> While the motorcycle segment is mature, the shift to higher-value automobiles, coupled with compulsory civil liability insurance, provides a stable, large-volume retail base and cross-selling opportunities.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card">
+            <h2>Subsidiary Deep Dive: HanoiRe (PVI Re)</h2>
+            <p class="mb-6 text-gray-700">
+                HanoiRe serves as a critical component of the domestic insurance ecosystem, capturing and managing risk as Vietnam's leading domestic reinsurer. Its growth is symbiotically linked to the primary insurance market's expansion.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+                <div>
+                    <h3 class="text-center">Reinsurance Portfolio Breakdown (est.)</h3>
+                    <div class="chart-container">
+                        <canvas id="hanoiReChart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h3>Qualitative Growth Drivers</h3>
+                    <ul class="qualitative-list space-y-3 text-gray-700">
+                        <li>
+                            <strong>Property:</strong> As the primary insurance market for property (driven by FDI and infrastructure) grows, the size and complexity of these risks increase. HanoiRe is essential for providing the capacity that allows primary insurers like PVI Insurance to underwrite these large-scale projects.
+                        </li>
+                        <li>
+                            <strong>Aviation:</strong> Vietnam's aviation market is a key regional growth story. The post-pandemic recovery, fleet expansion by domestic carriers, and airport infrastructure upgrades all necessitate complex aviation reinsurance, creating a high-value, specialized growth niche for HanoiRe.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Subsidiary Deep Dive: PVI Asset Management (PVIAM)</h2>
+            <p class="mb-6 text-gray-700">
+                PVIAM is the group's financial engine, managing the substantial "float" generated by the insurance businesses alongside a growing third-party asset portfolio. Its performance is linked to Vietnam's capital market development.
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
+                <div>
+                    <h3 class="text-center">Assets Under Management (AUM)</h3>
+                    <div class="chart-container">
+                        <canvas id="pviamChart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h3>Qualitative Growth Drivers</h3>
+                    <ul class="qualitative-list space-y-3 text-gray-700">
+                        <li>
+                            <strong>Managing Insurance Float:</strong> PVIAM's primary role is managing the ~20,000B VND float from PVI Insurance, a stable and growing capital base. Efficient management of this float generates stable investment income, a key part of the group's profitability.
+                        </li>
+                        <li>
+                            <strong>Third-Party Fund Management:</strong> As Vietnam's capital markets mature and investor sophistication grows, PVIAM is well-positioned to attract more third-party assets, leveraging its track record and the PVI brand.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center mt-12 py-6 border-t border-[#B3D7FF]">
+            <p class="text-sm text-gray-600">
+                Disclaimer: This infographic is for informational purposes only and is based on publicly available data and estimates. It does not constitute financial advice.
+            </p>
+        </footer>
+
+    </div>
+
+    <script>
+        window.onload = function() {
+            const colors = {
+                primary: '#007BFF',
+                secondary: '#5AACFF',
+                tertiary: '#B3D7FF',
+                dark: '#004A99',
+                light: '#E6F2FF',
+                white: '#FFFFFF'
+            };
+
+            const tooltipCallback = {
+                title: function(tooltipItems) {
+                    const item = tooltipItems[0];
+                    let label = item.chart.data.labels[item.dataIndex];
+                    if (Array.isArray(label)) {
+                        return label.join(' ');
+                    } else {
+                        return label;
+                    }
+                }
+            };
+
+            function wrapLabel(label) {
+                const maxLen = 16;
+                if (label.length <= maxLen) {
+                    return label;
+                }
+                const words = label.split(' ');
+                let lines = [];
+                let currentLine = '';
+                for (const word of words) {
+                    if ((currentLine + ' ' + word).length > maxLen && currentLine.length > 0) {
+                        lines.push(currentLine);
+                        currentLine = word;
+                    } else {
+                        currentLine = (currentLine === '' ? word : currentLine + ' ' + word);
+                    }
+                }
+                lines.push(currentLine);
+                return lines;
+            }
+
+            const sotpCtx = document.getElementById('sotpChart');
+            if (sotpCtx) {
+                new Chart(sotpCtx.getContext('2d'), {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['PVI Insurance', 'HanoiRe', 'PVIAM & Other'],
+                        datasets: [{
+                            data: [62, 23, 15],
+                            backgroundColor: [colors.primary, colors.secondary, colors.tertiary],
+                            borderColor: colors.white,
+                            borderWidth: 3
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { position: 'bottom', labels: { color: colors.dark } },
+                            tooltip: { callbacks: tooltipCallback }
+                        }
+                    }
+                });
+            }
+
+            const gdpCtx = document.getElementById('gdpChart');
+            if (gdpCtx) {
+                new Chart(gdpCtx.getContext('2d'), {
+                    type: 'line',
+                    data: {
+                        labels: ['2019', '2020', '2021', '2022', '2023', '2024 (f)'],
+                        datasets: [{
+                            label: 'Vietnam GDP Growth (%)',
+                            data: [7.02, 2.91, 2.58, 8.02, 5.05, 6.5],
+                            borderColor: colors.primary,
+                            backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                            fill: true,
+                            tension: 0.3
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: { beginAtZero: true, title: { display: true, text: '% YoY' }, ticks: { color: colors.dark } },
+                            x: { ticks: { color: colors.dark } }
+                        },
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: { callbacks: tooltipCallback }
+                        }
+                    }
+                });
+            }
+
+            const penetrationCtx = document.getElementById('penetrationChart');
+            if (penetrationCtx) {
+                new Chart(penetrationCtx.getContext('2d'), {
+                    type: 'bar',
+                    data: {
+                        labels: ['Vietnam', 'Thailand', 'Malaysia', 'Regional Avg.'],
+                        datasets: [{
+                            label: 'Non-Life Penetration (% of GDP)',
+                            data: [0.9, 2.1, 2.5, 2.2],
+                            backgroundColor: [colors.primary, colors.secondary, colors.secondary, colors.tertiary],
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: { beginAtZero: true, title: { display: true, text: '% of GDP' }, ticks: { color: colors.dark } },
+                            x: { ticks: { color: colors.dark } }
+                        },
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: { callbacks: tooltipCallback }
+                        }
+                    }
+                });
+            }
+
+            const pviInsLabels = ['Property & Engineering', 'Health', 'Motor Vehicle', 'Hull & Liability', 'Fire & Explosion', 'Other'].map(wrapLabel);
+            const pviInsCtx = document.getElementById('pviInsChart');
+            if (pviInsCtx) {
+                new Chart(pviInsCtx.getContext('2d'), {
+                    type: 'pie',
+                    data: {
+                        labels: pviInsLabels,
+                        datasets: [{
+                            data: [30, 25, 20, 10, 5, 10],
+                            backgroundColor: [colors.primary, colors.secondary, colors.tertiary, colors.dark, '#80BFFF', '#B3D7FF'],
+                            borderColor: colors.white,
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { position: 'bottom', labels: { color: colors.dark } },
+                            tooltip: { callbacks: tooltipCallback }
+                        }
+                    }
+                });
+            }
+            
+            const hanoiReLabels = ['Property', 'Aviation', 'Engineering', 'Marine', 'Other'].map(wrapLabel);
+            const hanoiReCtx = document.getElementById('hanoiReChart');
+            if (hanoiReCtx) {
+                new Chart(hanoiReCtx.getContext('2d'), {
+                    type: 'pie',
+                    data: {
+                        labels: hanoiReLabels,
+                        datasets: [{
+                            data: [45, 20, 15, 10, 10],
+                            backgroundColor: [colors.primary, colors.secondary, colors.tertiary, colors.dark, '#80BFFF'],
+                            borderColor: colors.white,
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: { position: 'bottom', labels: { color: colors.dark } },
+                            tooltip: { callbacks: tooltipCallback }
+                        }
+                    }
+                });
+            }
+
+            const pviamCtx = document.getElementById('pviamChart');
+            if (pviamCtx) {
+                new Chart(pviamCtx.getContext('2d'), {
+                    type: 'line',
+                    data: {
+                        labels: ['2019', '2020', '2021', '2022', '2023', '2024 (f)'],
+                        datasets: [{
+                            label: 'AUM (Trillion VND)',
+                            data: [15.2, 18.1, 22.0, 25.5, 28.3, 32.0],
+                            borderColor: colors.primary,
+                            backgroundColor: 'rgba(0, 123, 255, 0.1)',
+                            fill: true,
+                            tension: 0.3
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        scales: {
+                            y: { beginAtZero: false, title: { display: true, text: 'Trillion VND' }, ticks: { color: colors.dark } },
+                            x: { ticks: { color: colors.dark } }
+                        },
+                        plugins: {
+                            legend: { display: false },
+                            tooltip: { callbacks: tooltipCallback }
+                        }
+                    }
+                });
+            }
+        };
+    </script>
+</body>
+</html>
