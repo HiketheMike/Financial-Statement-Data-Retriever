@@ -2,605 +2,73 @@
 [
   {
     "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Net sales",
+    "statement_type": "Net Sales by Products",
+    "item": "Snacks",
+    "year": 2021,
+    "value": 3574.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Convenient meals",
+    "year": 2021,
+    "value": 3030.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Cereal",
+    "year": 2021,
+    "value": 2868.9
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Yogurt",
+    "year": 2021,
+    "value": 2074.8
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Dough",
+    "year": 2021,
+    "value": 1866.1
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Pet",
+    "year": 2021,
+    "value": 1732.4
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Baking mixes and ingredients",
+    "year": 2021,
+    "value": 1695.5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Super-premium ice cream",
+    "year": 2021,
+    "value": 819.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Vegetables and other",
+    "year": 2021,
+    "value": 465.2
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Total",
     "year": 2021,
     "value": 18127.0
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Cost of sales",
-    "year": 2021,
-    "value": 11678.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Selling, general, and administrative expenses",
-    "year": 2021,
-    "value": 3079.6
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Divestitures loss",
-    "year": 2021,
-    "value": 53.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Restructuring, impairment, and other exit costs",
-    "year": 2021,
-    "value": 170.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Operating profit",
-    "year": 2021,
-    "value": 3144.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Benefit plan non-service income",
-    "year": 2021,
-    "value": -132.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Interest, net",
-    "year": 2021,
-    "value": 420.3
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Earnings before income taxes and after-tax earnings from joint ventures",
-    "year": 2021,
-    "value": 2857.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Income taxes",
-    "year": 2021,
-    "value": 629.1
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "After-tax earnings from joint ventures",
-    "year": 2021,
-    "value": 117.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
-    "year": 2021,
-    "value": 2346.0
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Net earnings attributable to redeemable and noncontrolling interests",
-    "year": 2021,
-    "value": 6.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Net earnings attributable to General Mills",
-    "year": 2021,
-    "value": 2339.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Earnings per share — basic",
-    "year": 2021,
-    "value": 3.81
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Earnings per share — diluted",
-    "year": 2021,
-    "value": 3.78
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Earnings",
-    "item": "Dividends per share",
-    "year": 2021,
-    "value": 2.02
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Cash and cash equivalents",
-    "year": 2021,
-    "value": 1505.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Receivables",
-    "year": 2021,
-    "value": 1638.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Inventories",
-    "year": 2021,
-    "value": 1820.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Prepaid expenses and other current assets",
-    "year": 2021,
-    "value": 790.3
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total current assets",
-    "year": 2021,
-    "value": 5754.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Land, buildings, and equipment",
-    "year": 2021,
-    "value": 3606.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Goodwill",
-    "year": 2021,
-    "value": 14062.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Other intangible assets",
-    "year": 2021,
-    "value": 7150.6
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Other assets",
-    "year": 2021,
-    "value": 1267.6
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total assets",
-    "year": 2021,
-    "value": 31841.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Accounts payable",
-    "year": 2021,
-    "value": 3653.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Current portion of long-term debt",
-    "year": 2021,
-    "value": 2463.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Notes payable",
-    "year": 2021,
-    "value": 361.3
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Other current liabilities",
-    "year": 2021,
-    "value": 1787.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total current liabilities",
-    "year": 2021,
-    "value": 8265.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Long-term debt",
-    "year": 2021,
-    "value": 9786.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Deferred income taxes",
-    "year": 2021,
-    "value": 2118.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Other liabilities",
-    "year": 2021,
-    "value": 1292.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total liabilities",
-    "year": 2021,
-    "value": 21463.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Redeemable interest",
-    "year": 2021,
-    "value": 604.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Common stock, 754.6 shares issued, $0.10 par value",
-    "year": 2021,
-    "value": 75.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Additional paid-in capital",
-    "year": 2021,
-    "value": 1365.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Retained earnings",
-    "year": 2021,
-    "value": 17069.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Common stock in treasury, at cost, shares of 146.9 and 144.8",
-    "year": 2021,
-    "value": -6611.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Accumulated other comprehensive loss",
-    "year": 2021,
-    "value": -2429.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total stockholders' equity",
-    "year": 2021,
-    "value": 9470.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Noncontrolling interests",
-    "year": 2021,
-    "value": 302.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total equity",
-    "year": 2021,
-    "value": 9773.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Balance Sheets",
-    "item": "Total liabilities and equity",
-    "year": 2021,
-    "value": 31841.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Net earnings, including earnings attributable to redeemable and noncontrolling interests",
-    "year": 2021,
-    "value": 2346.0
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Depreciation and amortization",
-    "year": 2021,
-    "value": 601.3
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "After-tax earnings from joint ventures",
-    "year": 2021,
-    "value": -117.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Distributions of earnings from joint ventures",
-    "year": 2021,
-    "value": 95.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Stock-based compensation",
-    "year": 2021,
-    "value": 89.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Deferred income taxes",
-    "year": 2021,
-    "value": 118.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Pension and other postretirement benefit plan contributions",
-    "year": 2021,
-    "value": -33.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Pension and other postretirement benefit plan costs",
-    "year": 2021,
-    "value": -33.6
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Divestitures loss",
-    "year": 2021,
-    "value": 53.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Restructuring, impairment, and other exit costs",
-    "year": 2021,
-    "value": 150.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Changes in current assets and liabilities, excluding the effects of divestitures",
-    "year": 2021,
-    "value": -155.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Other, net",
-    "year": 2021,
-    "value": -131.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Net cash provided by operating activities",
-    "year": 2021,
-    "value": 2983.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Purchases of land, buildings, and equipment",
-    "year": 2021,
-    "value": -530.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Investments in affiliates, net",
-    "year": 2021,
-    "value": 15.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Proceeds from disposal of land, buildings, and equipment",
-    "year": 2021,
-    "value": 2.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Proceeds from divestitures",
-    "year": 2021,
-    "value": 2.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Other, net",
-    "year": 2021,
-    "value": -3.1
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Net cash used by investing activities",
-    "year": 2021,
-    "value": -512.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Change in notes payable",
-    "year": 2021,
-    "value": 71.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Issuance of long-term debt",
-    "year": 2021,
-    "value": 1576.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Payment of long-term debt",
-    "year": 2021,
-    "value": -2609.0
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Debt exchange participation incentive cash payment",
-    "year": 2021,
-    "value": -201.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Proceeds from common stock issued on exercised options",
-    "year": 2021,
-    "value": 74.3
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Purchases of common stock for treasury",
-    "year": 2021,
-    "value": -301.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Dividends paid",
-    "year": 2021,
-    "value": -1246.4
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Investments in redeemable interest",
-    "year": 2021,
-    "value": 0.0
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Distributions to noncontrolling and redeemable interest holders",
-    "year": 2021,
-    "value": -48.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Other, net",
-    "year": 2021,
-    "value": -30.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Net cash used by financing activities",
-    "year": 2021,
-    "value": -2715.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Effect of exchange rate changes on cash and cash equivalents",
-    "year": 2021,
-    "value": 72.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "(Decrease) increase in cash and cash equivalents",
-    "year": 2021,
-    "value": -172.6
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Cash and cash equivalents - beginning of year",
-    "year": 2021,
-    "value": 1677.8
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Cash and cash equivalents - end of year",
-    "year": 2021,
-    "value": 1505.2
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Receivables",
-    "year": 2021,
-    "value": 27.9
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Inventories",
-    "year": 2021,
-    "value": -354.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Prepaid expenses and other current assets",
-    "year": 2021,
-    "value": -42.7
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Accounts payable",
-    "year": 2021,
-    "value": 343.1
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Other current liabilities",
-    "year": 2021,
-    "value": -129.5
-  },
-  {
-    "item_number": "",
-    "statement_type": "Consolidated Statements of Cash Flows",
-    "item": "Changes in current assets and liabilities",
-    "year": 2021,
-    "value": -155.9
   }
 ]
 ```
