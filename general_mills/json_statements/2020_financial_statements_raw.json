@@ -1,0 +1,46 @@
+```json
+[
+  {
+    "item_number": "18",
+    "statement_type": "Net Sales by Products",
+    "item": "Revenue regarding the management of securities investment funds and securities investment",
+    "year": 2020,
+    "value": 23917388177
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Revenue regarding investment portfolio management operations",
+    "year": 2020,
+    "value": 2199732274
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Revenue regarding securities investment consultancy operations",
+    "year": 2020,
+    "value": 12027272728
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Total operating revenue",
+    "year": 2020,
+    "value": 38144413277
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Revenue deductions",
+    "year": 2020,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Net Sales by Products",
+    "item": "Net revenue",
+    "year": 2020,
+    "value": 38144413277
+  }
+]
+```

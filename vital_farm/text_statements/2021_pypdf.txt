@@ -1,0 +1,1873 @@
+--- PAGE 60 ---
+ 
+ 
+ 
+Contingencies
+ 
+We recognize the costs of legal defense for the legal proceedings to which we are a party during the periods in which the costs are incurred. After
+considerable analysis of the facts and circumstances of each case, we determine the amount of reserves required, if any.
+At this time, we have not accrued any reserves for any legal proceedings. Future reserves may be required if losses are deemed reasonably estimable and
+probable due to changes in our assumptions, the effectiveness of legal strategies, or other factors beyond our control. Future results of operations may be
+materially affected by the creation of reserves or by accruals of losses to reflect any adverse determinations in these legal proceedings.
+Recent Accounting Pronouncements
+See the sections titled “Summary of Significant Accounting Policies—Recently Adopted Accounting Pronouncements” and    “—Recently Issued
+Accounting Pronouncements Not Yet Adopted” in Note 2 to our consolidated financial statements included elsewhere in this Annual Report for a discussion of
+recent accounting pronouncements.
+Emerging Growth Company Status
+In April 2012, the JOBS Act was enacted. Section 107 of the JOBS Act provides that an “emerging growth company” may take advantage of the
+extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. Therefore, an emerging
+growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to
+use the extended transition period under the JOBS Act. Accordingly, our financial statements may not be comparable to the financial statements of public
+companies that comply with such new or revised accounting standards.
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+We are exposed to market risks in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due
+to adverse changes in financial market prices and rates. Our market risk exposure is primarily the result of fluctuations in raw materials, ingredients, inflation
+and interest rates.
+Raw Materials Pricing Risk
+The packaging materials used for our products include cardboard, glass, corrugated fiberboard, kraft paper, flexible plastic, flexible film and paperboard.
+These raw materials are subject to price fluctuations that may create price risk. A hypothetical 10% increase or decrease in the weighted-average cost of these
+raw materials as of December 26, 2021 would have resulted in an increase or decrease to cost of sales for the year ended December 26, 2021 of
+approximately $2.1 million. We seek to mitigate the impact of raw materials cost increases by negotiating pricing agreements. We strive to offset the impact of
+raw materials cost increases with a combination of cost savings initiatives and efficiencies and price increases to our customers.
+59
+
+--- PAGE 61 ---
+ 
+Ingredient Risk
+We source our eggs and cream for our products from our network of family farms. The price we pay to purchase shell eggs from farmers fluctuates
+based on pallet weight, and under our buy-sell contracts, which account for 98% of the laying hens in our network of family farms as of December 26, 2021,
+the price we pay is also indexed quarterly in arrears for changes in feed cost, which may cause our agreed-upon pricing under these contracts to fluctuate on a
+quarterly basis. Under the remainder of our contracts, we are directly responsible for purchasing feed. Either type of contract subjects us to risk of price
+fluctuations in feed ingredients, primarily consisting of corn and soy. The price we pay for cream is subject to butter commodity fluctuations. We do not attempt
+to hedge against fluctuations in the prices of these ingredients by using future, forward, option or other derivative instruments. A hypothetical 10% increase or
+decrease in the weighted-average cost of these ingredients across our product lines as of December 26, 2021 would have resulted in an increase or decrease to
+cost of sales for the year ended December 26, 2021 of approximately $4.9 million. We strive to offset the impact of ingredient cost increases with a combination
+of cost savings initiatives and efficiencies and price increases to our customers.
+Inflation Risk
+If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our
+inability or failure to do so could harm our business, results of operations and financial condition.
+Interest Rate Risk
+We are subject to interest rate risk in connection with our credit facility agreement with PNC Bank, National Association, or the Credit Facility. See the
+section titled “—Liquidity and Capital Resources—Credit Facility” above for additional details related to our Credit Facility. Based on the average interest rate
+on the instruments under the Credit Facility during the fiscal year ended December 26, 2021, and to the extent that borrowings were outstanding, we do not
+believe that a hypothetical 10% change in the interest rate would have a material effect on our results of operations or financial condition for the fiscal year
+ended December 26, 2021.
+Our interest-earning instruments also carry a degree of interest rate risk. As of December 26, 2021, we had cash and cash equivalents of $31.0 million
+and investments in available for sale securities of $68.6 million.
+We do not enter into investments for trading or speculative purposes and have not used any derivative financial instruments to manage our interest rate
+risk exposure.
+Foreign Currency Exchange Risk
+All of our sales are denominated in U.S. dollars, and therefore our net revenue is not currently subject to significant foreign currency risk. We purchase
+certain equipment from foreign countries, and the cost related to this equipment is denominated in the currency of the applicable country. Additionally, to the
+extent our sourcing strategy changes or we commence generating revenue outside of the United States that is denominated in currencies other than the U.S.
+dollar, our results of operations could be impacted by changes in exchange rates. To date, we have not entered into any hedging arrangements with respect to
+foreign currency risk or other derivative financial instruments, although we may choose to do so in the future. A hypothetical 10% change in the relative value
+of the U.S. dollar to other currencies would not have had a material effect on our results of operations for the fiscal year ended December 26, 2021.
+60
+
+--- PAGE 62 ---
+ 
+Item 8. Financial Statements and Supplementary Data
+ 
+Index to Financial Statements   
+   
+Report of Independent Registered Accounting Firm (KPMG LLP, Austin, TX, PCAOB ID: 185)  62
+   
+Consolidated Balance Sheets  63
+   
+Consolidated Statements of Operations  64
+   
+Consolidated Statements of Comprehensive Income  65
+   
+Consolidated Statements of Redeemable Convertible Preferred Stock, Redeemable Noncontrolling Interest and Stockholders’ Equity  66
+   
+Consolidated Statements of Cash Flows  67
+   
+Notes to the Consolidated Financial Statements  68
+ 
+ 
+ 
+61
+
+--- PAGE 63 ---
+ 
+ 
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and Board of Directors
+Vital Farms, Inc.:
+Opinion on the Consolidated Financial Statements
+We have audited the accompanying consolidated balance sheets of Vital Farms, Inc. and subsidiaries (the Company) as of December 26, 2021 and December
+27, 2020, the related consolidated statements of operations, comprehensive income, redeemable convertible preferred stock, redeemable noncontrolling interest
+and stockholders’ equity and cash flows for each of the years in the three-year period ended December 26, 2021, and the related notes (collectively, the
+consolidated financial statements). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the
+Company as of December 26, 2021 and December 27, 2020, and the results of its operations and its cash flows for each of the years in the three-year period
+ended December 26, 2021, in conformity with U.S. generally accepted accounting principles.
+Basis for Opinion
+These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States)
+(PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial
+reporting. Accordingly, we express no such opinion.
+ 
+Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud,
+and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in
+the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as
+well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion.
+ 
+ 
+/s/ KPMG LLP
+ 
+We have served as the Company’s auditor since 2019.
+Austin, Texas
+March 10, 2022
+ 
+62
+
+--- PAGE 64 ---
+ 
+ 
+ 
+VITAL FARMS, INC.
+CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands, except share amounts)
+ 
+  December 26,2021   December 27,2020  Assets         Current assets:         Cash and cash equivalents  $ 30,966  $ 29,544 Investment securities available-for-sale   68,621   68,357 Accounts receivable, net   26,938   20,934 Inventories   10,945   12,902 Income taxes receivable   199   1,554 Prepaid expenses and other current assets   3,539   3,965 
+Total current assets   141,208   137,256 Property, plant and equipment, net   44,608   30,118 Goodwill   3,858   3,858 Deferred tax asset, net   79   — Deposits and other assets   189   142 
+Total assets  $ 189,942  $ 171,374 
+Liabilities, Redeemable Noncontrolling Interest and Stockholders’ Equity         Current liabilities:         Accounts payable  $ 22,520  $ 15,489 Accrued liabilities   15,124   9,845 Lease obligation, current   327   471 Contingent consideration, current   19   109 
+Total current liabilities   37,990   25,914 
+Lease obligation, net of current portion   -   327 Contingent consideration, non-current   —   18 Deferred tax liabilities, net   —   2,537 Other liability, non-current   192   192 
+Total liabilities   38,182   28,988 
+Commitments and contingencies (Note 16)         Redeemable noncontrolling interest   175   175 Stockholders’ equity:         Common stock, $0.0001 par value per share, 310,000,000 shares authorized as of   December 26, 2021 and December 27, 2020; 40,493,969 and 39,444,040 shares issued as of   December 26, 2021 and December 27, 2020, respectively; 40,493,969 and 39,440,040 shares   outstanding as of December 26, 2021 and December 27, 2020, respectively   5   5 Treasury stock, at cost, zero and 5,494,918 common shares as of December 26, 2021    and December 27, 2020, respectively   —   (16,276)Additional paid-in capital   149,000   144,311 Retained earnings   2,746   14,039 Accumulated other comprehensive loss   (281)   (31)
+Total stockholders’ equity attributable to Vital Farms, Inc. stockholders   151,470   142,048 Noncontrolling interests   115   163 
+Total stockholders’ equity  $ 151,585  $ 142,211 
+Total liabilities, redeemable noncontrolling interest, redeemable   convertible preferred stock and stockholders’ equity  $ 189,942  $ 171,374
+ 
+ 
+ 
+ 
+See accompanying notes to the consolidated financial statements.
+63
+
+--- PAGE 65 ---
+ 
+VITAL FARMS, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in thousands, except share and per share data)
+ 
+  Fiscal Year Ended  
+  December 26,2021   December 27,2020   December 29,2019  
+Net revenue  $ 260,901  $ 214,280  $ 140,733 
+Cost of goods sold   178,002   139,752   97,856 
+Gross profit   82,899   74,528   42,877 
+Operating expenses:             
+Selling, general and administrative   57,868   47,396   29,526 
+Shipping and distribution   24,979   14,904   10,001 
+Total operating expenses   82,847   62,300   39,527 
+Income from operations   52   12,228   3,350 
+Other income (expense), net:             
+Interest expense   (52)  (488)  (349)
+Other income (expense), net   354   (86)  1,417 
+Total other income (expense), net   302   (574)  1,068 
+Net income before income taxes   354   11,654   4,418 
+(Benefit) provision for income taxes   (2,028)  2,770   1,106 
+Net income   2,382   8,884   3,312 
+Less: Net (loss) income attributable to
+   noncontrolling interests   (47)  84   927 
+Net income attributable to Vital Farms, Inc. common
+   stockholders  $ 2,429  $ 8,800  $ 2,385 
+Net income per share attributable to Vital Farms, Inc.
+   stockholders:             
+Basic:  $ 0.06  $ 0.31  $ 0.09 
+Diluted:  $ 0.06  $ 0.27  $ 0.07 
+Weighted average common shares outstanding:             
+Basic:   40,027,278   28,667,264   25,897,223 
+Diluted:   43,321,733   32,914,653   36,071,015
+ 
+ 
+See accompanying notes to the consolidated financial statements
+ 
+64
+
+--- PAGE 66 ---
+ 
+ 
+VITAL FARMS, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Amounts in thousands)
+ 
+  Fiscal Year Ended  
+  December 26,2021   December 27,2020   December 29,2019  
+Net income  $ 2,382  $ 8,884  $ 3,312 
+Other comprehensive loss             
+Unrealized holding loss on available-for-sale securities, net of deferred tax benefit of $80
+and $10 for the years ended December 26, 2021 and December 27, 2020, respectively   (250)  (31)  — 
+Total comprehensive income  $ 2,132  $ 8,853  $ 3,312
+ 
+ 
+See accompanying notes to the consolidated financial statements.
+ 
+ 
+65
+
+--- PAGE 67 ---
+ 
+ 
+VITAL FARMS, INC.
+CONSOLIDATED STATEMENTS OF REDEEMABLE CONVERTIBLE PREFERRED STOCK, REDEEMABLE NONCONTROLLING INTEREST AND
+STOCKHOLDERS’ EQUITY
+(Amounts in thousands, except share amounts)
+  
+RedeemableConvertiblePreferred Stock   
+RedeemableNoncontrollingInterest   Common Stock   Treasury Stock   AdditionalPaid-In   RetainedEarnings  
+AccumulatedOtherComprehensive  
+TotalStockholders’EquityAttributableto VitalFarms, Inc.   Noncontrolling  TotalStockholders’ 
+  Shares   Amount  Amount   Shares   Amount  Shares   Amount   Capital   (Deficit)   Loss   Stockholders’  Interests   Equity  Balances atDecember 30, 2018   8,192,876  $ 23,036  $ 175   28,461,978  $ 3   (2,642,148) $ (1,987) $ 4,245  $ 2,854  $ —  $ 5,115  $ (848) $ 4,267 Issuance ofcommon stock, netof   issuance costs of$903
+ 
+ —   —   —   2,815,012   —   —   —   14,097   —   —   14,097   —   14,097 Exercise of stockoptions   —   —   —   152,908   —   —   —   222   —   —   222   —   222 Repurchase ofcommon stock   —   —   —   —   —   (2,852,770)  (14,289)  —   —   —   (14,289)  —   (14,289)Stock-basedcompensation expense  —   —   —   —   —   —   —   1,029   —   —   1,029   —   1,029 Net incomeattributable to non-   controllinginterests -stockholders
+ 
+ —   —   —   —   —   —   —   —   —   —   —   927   927 Net incomeattributable to Vital   Farms, Inc.
+ 
+ —   —   —   —   —   —   —   —   2,385   —   2,385   —   2,385 
+Balances atDecember 29, 2019   8,192,876  $ 23,036  $ 175   31,429,898  $ 3   (5,494,918) $ (16,276) $ 19,593  $ 5,239  $ —  $ 8,559  $ 79  $ 8,638 Issuance ofcommon stockpursuant to   initial publicoffering, net of   issuance costs of12,215
+ 
+ —   —   —   5,040,323   1   —   —   98,670   —   —   98,671   —   98,671 Issuance of commonstock upon   conversion ofpreferred stock
+ 
+ (8,192,876)  (23,036)  —   8,192,876   1   —   —   23,035   —   —   23,036   —   23,036 Exercise of stockoptions   —   —   —   75,964   —   —   —   221   —   —   221   —   221 Exercise of warrant   —   —   —   196,800   —   —   —   283   —   —   283   —   283 Vested restricted stock  —   —   —   3,097   —   —   —   —   —   —   —   —   — Stock-basedcompensation expense  —   —   —   —   —   —   —   2,509   —   —   2,509   —   2,509 Net incomeattributable to non-    controlling interests- stockholders
+ 
+ —   —   —   —   —   —   —   —   —   —       83   83 Other comprehensiveloss, net   —   —   —   —   —   —   —   —   —   (31)  (31)  —   (31)Net incomeattributable to VitalFarms, Inc.
+ 
+ —   —   —   —   —   —   —   —   8,800   —   8,800   —   8,800 
+Balances atDecember 27, 2020   —  $ —  $ 175   44,938,958  $ 5   (5,494,918) $ (16,276) $ 144,311  $ 14,039  $ (31) $ 142,048  $ 162  $ 142,210 Exercise of stockoptions   —   —   —   1,034,929   —   —   —   2,803   —   —   2,803   —   2,803 Vesting of restrictedstock   —   —   —   15,000   —   —   —   —   —   —   0   —   0 Stock-basedcompensation expense  —   —   —   —   —   —   —   4,440   —   —   4,440   —   4,440 Net loss attributable tonon-controllinginterests -stockholders
+ 
+ —   —   —   —   —   —   —   —   —   —   0   (47)  (47)Retirement of treasurystock   —   —   —   (5,494,918)  —   5,494,918   16,276   (2,554)  (13,722)  —   —   —   — Other comprehensiveloss, net   —   —   —   —   —   —   —   —   —   (250)  (250)  —   (250)Net incomeattributable to   Vital Farms, Inc.
+ 
+ —   —   —   —   —   —   —   —   2,429   —   2,429   —   2,429 
+Balances atDecember 26, 2021   —  $ —  $ 175   40,493,969  $ 5   —  $ —  $ 149,000  $ 2,746  $ (281) $ 151,470  $ 115  $ 151,585
+ 
+ 
+ 
+  
+See accompanying notes to the consolidated financial statements.
+ 
+66
+
+--- PAGE 68 ---
+ 
+ 
+VITAL FARMS, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands)
+ 
+  Fiscal Year Ended  
+  December 26,2021   December 27,2020   December 29,2019  
+Cash flows provided by operating activities:             Net income  $ 2,382  $ 8,884  $ 3,312 Adjustments to reconcile net income to net cash provided by operating activities:             Depreciation and amortization   3,540   2,550   1,921 Amortization of debt issuance costs   —   68   9 Bad debt expense (recovery)   73   (108)   304 Inventory provisions   224   16   189 Change in fair value of contingent consideration   44   (333)   70 Stock-based compensation expense   4,440   2,509   1,029 Loss on write-off of construction in progress   173   259   — Deferred taxes   (2,536)   1,782   52 Non-cash interest income   (229)   (33)   — Changes in operating assets and liabilities:             Accounts receivable   (6,078)   (4,718)   (6,182)Inventories   1,733   29   (9,270)Income taxes receivable   1,354   61   (1,563)Prepaid expenses and other current assets   426   (2,255)   (582)Deposits and other assets   (46)   11   93 Accounts payable   6,796   1,807   3,192 Accrued liabilities and other liabilities   4,029   1,173   2,074 
+Net cash provided by (used in) operating activities  $ 16,325  $ 11,702  $ (5,352)
+Cash flows used in investing activities:             Purchases of property, plant and equipment   (16,711)   (10,300)   (4,799)Purchases of available-for-sale debt securities   (52,017)   (68,388)   — Sales, maturities, and call redemptions of available-for-sale debt securities   51,645   —   — Proceeds from the sale of property, plant and equipment   —   —   7 Notes receivable provided to related parties   —   —   (4,031)Repayment of notes receivable provided to related parties   —   846   3,200 
+Net cash used in investing activities  $ (17,083)  $ (77,842)  $ (5,623)
+Cash flows provided by (used in) financing activities:             Proceeds from issuance of common stock pursuant to the initial public offering, net of   issuance costs   —   99,671   — Proceeds from borrowings under term loan   —   5,000   — Proceeds from borrowings under equipment loan   —   1,461   587 Proceeds from Paycheck Protection Program loan   —   2,593   — Proceeds from issuance of redeemable noncontrolling interest   —   —   14,097 Proceeds from borrowing under revolving line of credit   —   —   1,325 Repayment of revolving line of credit   —   (1,325)   — Repayment of equipment loan   —   (2,015)   — Repayment of term loan   —   (8,245)   (671)Repayment of Paycheck Protection Program loan   —   (2,593)   — Repurchase of common stock   —   —   (14,289)Payment of contingent consideration   (152)   (192)   (409)Principal payments under finance lease obligation   (471)   (449)   (428)Proceeds from exercise of stock options   2,803   221   222 Proceeds from exercise of warrant   —   283   — 
+Net cash provided by (used in) financing activities  $ 2,180  $ 94,410  $ 434 
+Net increase in cash and cash equivalents  $ 1,422  $ 28,270  $ (10,541)Cash and cash equivalents at beginning of the period   29,544   1,274   11,815 
+Cash and cash equivalents at end of the period  $ 30,966  $ 29,544  $ 1,274 
+Supplemental disclosure of cash flow information:             Cash paid for interest  $ 43  $ 414  $ 340 Cash paid for income taxes  $ 102  $ 2,214  $ 2,256 Supplemental disclosure of non-cash investing and financing   activities:             Purchases of property, plant and equipment included in accounts payable and accrued liabilities  $ 1,493  $ 167  $ 928 Deferred offering costs in accounts payable and accrued liabilities  $ -  $ -  $ 1,001
+ 
+ 
+See accompanying notes to the consolidated financial statements.
+67
+
+--- PAGE 69 ---
+ 
+VITAL FARMS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Amounts in thousands, except share and per share amounts)
+1. Nature of the Business and Basis of Presentation
+Vital Farms, Inc. (“Vital Farms” or “the Company”) was incorporated in Delaware on June 6, 2013 and is headquartered in Austin, Texas. Vital Farms
+packages, markets and distributes shell eggs, butter and other products. These products are sold under the trade names Vital Farms, Alfresco Farms, Lucky
+Ladies and RedHill Farms, primarily to retail and foodservice channels in the United States.
+Vital Farms of Missouri, LLC, Backyard Eggs, LLC, Barn Door Farms, LLC, Sagebrush Foodservice, LLC and Vital Farms, LLC re all wholly owned
+subsidiaries of Vital Farms. All significant intercompany transactions and balances have been eliminated in the audited consolidated financial statements.
+Fiscal Year: The Company’s fiscal year ends on the last Sunday in December and contains either 52 or 53 weeks. Therefore, the financial results of
+certain 53-week years will not be exactly comparable to the prior and subsequent 52-week years. The years ended December 26, 2021, December 27, 2020, and
+December 29, 2019 all contain operating results for 52 weeks.
+Impact of COVID-19 Pandemic: Due to the ongoing COVID-19 pandemic, the Company has implemented business continuity plans designed to
+address and mitigate the impact of the COVID-19 pandemic on the Company’s business. The Company does not currently anticipate that the COVID-19
+pandemic will have a material impact on the timelines for the Company’s product development and expansion efforts. However, the extent to which the
+COVID-19 pandemic impacts the Company’s business, product development and expansion efforts, corporate development objectives and the value of and
+market for the Company’s common stock will depend on future developments that are highly uncertain and cannot be predicted with confidence at this time,
+such as the ultimate duration of the pandemic, travel restrictions, quarantines, social distancing and business closure requirements in the United States, and the
+effectiveness of actions taken globally to contain and treat the disease, including the roll-out of vaccines. The global economic slowdown, the overall disruption
+of global supply chains and distribution systems and the other risks and uncertainties associated with the pandemic could have a material adverse effect on the
+Company’s business, financial condition, results of operations and growth prospects.
+ 
+Forward Stock Split: In July 2020, the board of directors and the stockholders of the Company approved a 2.46-for-1 forward stock split of the
+Company’s outstanding common stock and preferred stock, which was effected on July 22, 2020. Stockholders entitled to fractional shares as a result of the
+forward stock split received a cash payment in lieu of receiving fractional shares. All common stock, preferred stock, and per share information has been
+retroactively adjusted to give effect to this forward stock split for all periods presented. Shares of common stock underlying outstanding stock options and other
+equity instruments were proportionately increased and the respective per share value and exercise prices, if applicable, were proportionately decreased in
+accordance with the terms of the agreements governing such securities. There were no changes in the par values of the Company’s common stock and preferred
+stock as a result of the forward stock split.
+ 
+Initial Public Offering: In August 2020, the Company completed its initial public offering (“IPO”) of 10,699,573 shares of common stock at an offering
+price of $22.00 per share.  The Company offered 5,040,323 shares of common stock and the selling stockholders offered an additional 5,659,250 shares of
+common stock, including the underwriter’s option to purchase up to an additional 1,395,596 shares of common stock from the selling stockholders. The
+Company received gross proceeds of approximately $110,887 before deducting underwriting discounts, commissions and offering related transaction costs; the
+Company did not receive any proceeds from the sale of shares by the selling stockholders.  Upon the closing of the IPO in August 2020, all of the then-
+outstanding shares of preferred stock automatically converted into 8,192,876 shares of common stock on a one-for-one basis. Subsequent to the closing of the
+IPO, there were no shares of preferred stock outstanding. The consolidated financial statements as of December 26, 2021, including share and per share
+amounts, include the effects of the IPO.
+Secondary Public Offering: In November 2020, the Company completed a secondary public offering of 5,000,000 shares of common stock from selling
+stockholders in which no proceeds from the sale of shares were received by the Company and the Company incurred $0.5 million of expenses.
+68
+
+--- PAGE 70 ---
+ 
+2. Summary of Significant Accounting Policies
+Use of Estimates: The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Such estimates principally include revenue recognition, determination of useful lives for property and
+equipment, trade spend accruals, goodwill, allowance for doubtful accounts, inventory obsolescence, valuation of common stock prior to IPO, stock option
+valuations, accrual liabilities and income taxes. Actual results could differ from those estimates.
+ 
+As of the date of issuance of these consolidated financial statements, the Company is not aware of any specific event or circumstance related to the ongoing
+COVID-19 pandemic that would require the Company to update its estimates, assumptions and judgments or revise the carrying value of its assets or liabilities.
+These estimates may change as new events occur and additional information is obtained and are recognized in the consolidated financial statements as soon as
+they become known. Actual results could differ from those estimates and any such differences may be material to the Company’s consolidated
+financial statements.
+Deferred Offering Costs: The Company capitalized certain legal, accounting and other third-party fees that are directly related to the Company’s in-
+process equity financings until such financings were completed.  Upon closing the IPO in August 2020, all deferred offering costs were reclassified from
+prepaid and other current assets and recorded against the IPO proceeds reducing additional paid-in capital.
+Concentrations of Credit Risk and Significant Customers: Financial instruments that potentially subject the Company to concentrations of credit risk
+consist principally of cash and cash equivalents, investments and accounts receivable. The Company maintains deposits with large financial institutions that the
+Company believes are of high credit quality. At times the Company’s cash and cash equivalents balances with individual banking institutions are in excess of
+federally insured limits. The Company has not experienced any losses related to its cash and cash equivalents balances.
+As of December 26, 2021 and December 27, 2020, the Company had customers that individually represented 10% or more of the Company’s accounts
+receivable, net. During fiscal years 2021, 2020, and 2019 the Company also had customers that individually exceeded 10% or more of the Company’s net
+revenue. Significant customer information is presented below as follows:
+ 
+  
+Net Revenue YearEndedDecember 26,2021   
+Net RevenueYear EndedDecember 27,2020   
+Net RevenueYear EndedDecember 29,2019   
+AccountsReceivable, NetAs OfDecember 26,2021   
+AccountsReceivable, NetAs OfDecember 27,2020  
+Customer A  18%   15%   35%   19%   *  
+Customer B  14%   18%   *   *   20%  
+Customer C  10%   12%   11%   *   *  
+Customer D  12%   13%   14%   13%   15%
+ 
+ 
+*Revenue and/or accounts receivable was less than 10%.
+ 
+The increase in net revenue for Customer A for fiscal 2021 is due a net shift in the Company’s distribution channels from Customer B to Customer A
+during the year ended December 26, 2021. Net revenue for Customers C and D increased from 2020 to 2021; however, growth from other existing customers
+and new customers resulted in net revenue from Customers C and D comprising a lower percentage of total net revenue.
+ 
+Cash and Cash Equivalents: The Company considers all short-term, highly liquid investments purchased with an original maturity of three months or
+less at the date of purchase to be cash equivalents. Cash deposits are all in financial institutions in the United States. As of December 26, 2021, cash and cash
+equivalents consisted of cash on deposit with balances denominated in U.S. dollars and investments in money market funds.
+ 
+Investment Securities: The Company accounts for its investment securities in accordance with ASC Topic 320, Investments-Debt and Equity
+Securities. The Company considers all of its debt securities for which there is a determinable fair market value, and there are no restrictions on the Company's
+ability to sell within the next 12 months as available-for-sale. We have classified these securities as current, because the amounts invested are available for
+current operations. Available-for-sale securities are carried at fair value, with unrealized gains and losses reported as a separate component of stockholders'
+equity.
+ 
+The amortized cost of debt securities is adjusted for premiums and accretion of discounts to maturity. Such amortization is recorded in interest income.
+The cost of securities sold is based on the specific identification method. Realized gains and losses on the sale of debt securities and declines in value due to
+credit-related factors are recorded in other income. Interest and dividends on securities classified as available-for-sale are recorded in interest income.
+69
+
+--- PAGE 71 ---
+ 
+Variable Interest Entity: The Company consolidates all entities where a controlling financial interest exists. The Company has considered its
+relationships with a certain entity to determine whether the Company has a variable interest in that entity, and if so, whether the Company is the primary
+beneficiary of the relationship. GAAP requires variable interest entities (“VIEs”) to be consolidated if an entity’s interest in the VIE is a controlling financial
+interest. Under the variable model, a controlling financial interest is determined based on which entity, if any, has (i) the power to direct the activities of the VIE
+that most significantly impacts the VIE’s economic performance and (ii) the obligations to absorb losses that could potentially be significant to the VIE or the
+right to receive benefits from the VIE that could potentially be significant to the VIE.
+Management performs ongoing reassessments of whether changes in the facts and circumstances regarding the Company’s involvement with a VIE will
+cause the consolidation conclusion to change. The consolidation status of a VIE may change as a result of such reassessments. Changes in consolidation status
+are applied prospectively in accordance with GAAP.
+Segment Information: The Company operates and manages its business as one reportable and operating segment. The Company’s chief executive
+officer, who is the chief operating decision maker, reviews financial information on an aggregate basis for purposes of evaluating financial performance and
+allocating resources. All of the Company’s long-lived assets and customers are located in the United States.
+Fair Value of Financial Instruments: Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date. The three levels of inputs that may be used to measure fair value are defined below:
+ 
+ •  Level 1 - Quoted prices in active markets for identical assets or liabilities.
+ 
+ 
+•  Level 2 - Inputs other than quoted prices included in Level 1 that are observable for the asset or liability, such as quoted prices for
+similar assets or liabilities, quoted prices in markets that are not active, or other inputs that are observable or can be corroborated
+by observable market data for substantially the full term of the assets or liabilities.
+ 
+ •  Level 3 - Unobservable inputs that are supported by little or no market activity that are significant to determining the fair value of
+the assets or liabilities, including pricing models, discounted cash flow methodologies and similar techniques.
+ 
+The carrying values of cash and cash equivalents, accounts receivable, accounts payable, accrued expenses and other current liabilities approximate
+their fair values due to the short-term nature of these assets and liabilities.
+Accounts Receivable: Accounts receivable are stated at invoice value less estimated allowances for doubtful accounts. The Company establishes an
+allowance for doubtful accounts as losses are estimated to have occurred through a provision for bad debts charged to earnings. Losses are charged against the
+allowance when management believes the receivable is no longer collectible. These losses have been immaterial to date. Subsequent recoveries, if any, are
+credited to the allowance. The allowance for doubtful accounts is evaluated on a regular basis by management and is based on the credit risk of specific
+customers, past collection history, and management’s evaluation of accounts receivable. The evaluation is inherently subjective, as it requires estimates that are
+susceptible to significant revision as more information becomes available. As of December 26, 2021 and December 27, 2020, the Company recorded an
+allowance for doubtful accounts of $269 and $196 in the accompanying consolidated balance sheets.
+Inventories: Inventories are stated at the lower of cost (determined under the first-in, first-out method) or net realizable value. Inventory includes eggs
+and egg related products, butter and butter related products, packaging, feed, laying hens, pullets, merchandise and equipment parts. A reduction in the carrying
+value of an inventory item from cost to net realizable value is recorded in cost of goods sold with the offset to inventory. Any inventory that does not meet the
+quality control standards of the Company is separated and written down to its net realizable value.
+Property, Plant and Equipment, Net: Property, plant and equipment are stated at cost, net of accumulated depreciation and amortization. Depreciation
+and amortization are computed using the straight-line method over the estimated useful lives. The general range of useful lives of other property, plant and
+equipment is as follows:
+    
+   Estimated Useful Life
+Land   N/A
+Building and improvements   39 years
+Vehicles   5 years
+Machinery and equipment   2 to 7 years
+Furniture and fixtures   5 years
+Leasehold improvements   Lesser of lease term or 5 years
+70
+
+--- PAGE 72 ---
+ 
+ 
+When assets are sold or retired, the cost and related accumulated depreciation or amortization of assets disposed of are removed from the accounts, with
+any resulting gain or loss recorded in other income (expense), net in the consolidated statements of operations. Costs of repairs and maintenance are expensed
+as incurred.
+Goodwill: Goodwill represents the excess of cost over the fair value of the net tangible and identifiable intangible assets acquired in a business
+combination. Goodwill is not amortized but is tested for impairment annually on the first day of the fourth fiscal quarter or more frequently if events or changes
+in circumstances indicate that the asset may be impaired. The Company’s goodwill impairment test is performed at the enterprise level given the single
+reporting unit.
+ 
+The Company first assesses qualitative factors to determine whether events or circumstances existed that would lead the Company to conclude that it is
+more likely than not that the fair value of the reporting unit is below its carrying amount. If the Company determines that it is more likely than not that the fair
+value of the reporting unit is below the carrying amount, a quantitative goodwill assessment is required. In the quantitative evaluation, the fair value of the
+reporting unit is determined and compared to the carrying value. If the fair value is greater than the carrying value, then the carrying value is deemed to be
+recoverable and no further action is required. If the fair value estimate is less than the carrying value, goodwill is considered impaired for the amount by which
+the carrying amount exceeds the reporting unit’s fair value and a charge is reported as impairment of goodwill in the consolidated statements of operations. To
+date, the Company has not recorded any impairment charges associated with its goodwill.
+Impairment of Long-Lived Assets: The Company reviews the carrying value of property, plant and equipment for impairment whenever events and
+circumstances indicate the carrying value of an asset may not be recoverable from the estimated future cash flows expected to result from its use and eventual
+disposition. In cases where undiscounted expected future cash flows are less than the carrying value, an impairment loss is recognized equal to an amount by
+which the carrying value exceeds the fair value of assets. The factors considered by management in performing this assessment include current operating
+results, trends and prospects and the effects of obsolescence, demand, competition and other economic factors. The Company did not recognize an impairment
+loss during the years ended December 26, 2021, December 27, 2020, and December 29, 2019.
+Contingent Consideration: In connection with the Company’s acquisition of certain assets of Heartland Eggs, LLC in 2014, the Company was
+required to make royalty payments to prior owners of certain assets of Heartland Eggs. The royalty payments are contingent on the Company’s future purchase
+of eggs from supplier contracts that were acquired in the certain assets of Heartland Eggs acquisition. The royalty payments are deemed to be contingent
+because the future egg purchases are not guaranteed, and the timing and amount of any such purchases are unknown. The fair value of the contingent
+consideration was determined at the acquisition date using unobservable inputs (Level 3 inputs). These inputs included projected financial information, market
+volatility, risk-adjusted discount rates and timing of contractual payments. Subsequent to the acquisition date, at each reporting date, the contingent
+consideration liability is remeasured to fair value with changes in fair value recorded within selling, general and administrative expenses in the Company’s
+consolidated statements of operations.
+Noncontrolling Interest: The Company recognizes noncontrolling interest related to VIEs, in which the Company is the primary beneficiary, as equity
+in the consolidated financial statements separate from the parent entity’s equity. The amount of net income or loss attributable to noncontrolling interests is
+included in consolidated net income on the face of the consolidated statements of operations. Changes in the parent entity’s ownership interest in a subsidiary
+that do not result in deconsolidation are treated as equity transactions if the parent entity retains its controlling financial interest. In addition, when a subsidiary
+is deconsolidated, any retained noncontrolling equity investment in the former subsidiary will be initially measured at fair value and the difference between the
+carrying value and fair value of the retained interest will be recorded as a gain or loss. Affiliate equity interests where the Company has certain rights to demand
+settlement are presented at their current redemption values, as redeemable noncontrolling interest in the consolidated balance sheet. Because these transactions
+take place between entities under common control, any gains or losses attributable to these transactions are required to be included within additional paid-in-
+capital on the consolidated balance sheets.
+Income Taxes: Income taxes are computed using the asset and liability approach that requires the recognition of deferred tax assets and liabilities for
+the expected future tax consequences of events that have been recognized in the consolidated financial statements. In estimating future tax consequences, the
+Company considers all expected future events other than enactment of changes in tax laws or rates. A valuation allowance is recorded, if necessary, to reduce
+net deferred tax assets to their realizable values if management does not believe it is more likely than not that the net deferred tax assets will be realized.
+The Company follows the provisions of the authoritative guidance from the Financial Accounting Standards Board (“FASB”) on accounting for
+uncertainty in income taxes. These provisions provide a comprehensive model for the recognition, measurement and disclosure in financial statements of
+uncertain income tax positions that a company has taken or expects to take on a tax return. Under these provisions, a company can recognize the benefit of an
+income tax position only if it is more likely than not (greater than 50%) that the tax position will be sustained upon tax examination, based solely on the
+technical merits of the tax position. Otherwise, no benefit can be recognized. Assessing an uncertain tax position begins with the initial determination of the
+sustainability of the position and is measured at the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement. As of
+each balance sheet date, unresolved uncertain tax positions must be reassessed. Additionally, the Company must accrue interest and related penalties, if
+applicable, on all tax exposures for which reserves have been established consistent with jurisdictional tax laws.
+71
+
+--- PAGE 73 ---
+ 
+The Company’s policy is to recognize interest and penalties related to uncertain tax positions in the provision for income taxes. As of December 26,
+2021 and December 27, 2020 the Company had no accrued interest or penalties related to uncertain tax positions.
+Net Income (Loss) per Share Attributable to Vital Farms, Inc. Common Stockholders: The Company applies the two-class method to compute
+basic and diluted net (loss) income per share attributable to the Company’s common stockholders when shares meet the definition of participating securities.
+The two-class method determines net income per share for each class of the Company’s common stock and Preferred Stock according to dividends declared or
+accumulated and participation rights in undistributed earnings. The two-class method requires income available to common stockholders for the period to be
+allocated between the Company’s common stock and Preferred Stock based upon their respective rights to share in the earnings as if all income for the period
+had been distributed. During periods of loss, there is no allocation required under the two-class method since the Preferred Stock does not have a contractual
+obligation to share in the Company’s losses.
+Basic net income per share attributable to the Company’s stockholders is computed by dividing net income by the weighted-average number of shares
+outstanding during the period without consideration of potentially dilutive common stock. Diluted net income per share reflects the potential dilution that could
+occur if securities or other contracts to issue shares of the Company’s common stock were exercised or converted into common stock or resulted in the issuance
+of common stock that then shared in the earnings of the Company unless inclusion of such shares would be anti-dilutive. For periods in which the Company
+reports net losses, diluted net loss per common share attributable to the Company’s common stockholders is the same as basic net loss, because potentially
+dilutive common shares are not assumed to have been issued if their effect is anti-dilutive.
+Revenue Recognition: The Company generates revenue primarily through sales of products to its customers, which include natural channel retailers,
+mainstream channel retailers and foodservice partners. The Company sells its products to customers on a purchase-order basis.
+Revenue is recognized when control of the product is transferred to the customer and the related performance obligation is satisfied, which typically
+occurs upon delivery of the product to the customer, for an amount that reflects the net consideration the Company expects to receive in exchange for delivering
+the product. We offer sales incentives through various programs to customers and allow deductions from our customers, which may include credits or discounts
+to customers in the event that products do not conform to customer specifications or expire at a customer’s site. The cost associated with promotions and
+chargebacks is estimated and recorded as a reduction in revenue and is recognized at the time the related revenue is recorded, which normally precedes the
+actual cash expenditure. The recognition of this cost therefore requires management judgement regarding the volume of promotional offers that will be
+redeemed. Differences between estimated cost and actual redemptions are recognized as a change in management estimate in a subsequent period.
+Treasury Stock: The Company records treasury stock activities under the cost method whereby the cost of the acquired stock is recorded as treasury
+stock. The Company’s accounting policy upon the formal retirement of treasury stock is to deduct the par value from the Company’s common stock and to
+reflect any excess of cost over par value as a reduction to additional paid-in capital (to the extent created by previous issuances of the shares).
+Shipping and Distribution: The Company’s shipping and distribution costs include costs incurred with third-party carriers to transport products to
+customers and salaries and overhead costs related to activities to prepare the Company’s products for shipment. Shipping and distribution costs were $24,979,
+$14,904, and $10,001 during the years ended December 26,2021, December 27, 2020 and December 29, 2019, respectively. Freight-in costs are included within
+Cost of Goods Sold and were $7,623, $5,126, and $3,012 during the years ended December 26, 2021, December 27, 2020 and December 29, 2019, respectively.
+Stock-Based Compensation: The Company measures all stock-based awards granted to employees and directors based on the fair value on the date of
+the grant and recognizes compensation expense for those awards, over the requisite service period, which is generally the vesting period of the respective
+award. The fair value of each stock option grant is estimated on the date of grant using the Black-Scholes option-pricing model, which requires inputs based on
+certain subjective assumptions, including the fair market value of the Company’s common stock, expected stock price volatility, the expected term of the
+option, the risk-free interest rate for a period that approximates the expected term of the option, and the Company’s expected dividend yield. The Company
+classifies stock-based compensation expense in its consolidated statements of operations in the same manner in which the award recipient’s payroll costs are
+classified or in which the award recipient’s service payments are classified.
+72
+
+--- PAGE 74 ---
+ 
+Advertising and Promotion Expenses: Advertising and promotion expenses consist primarily of production costs and the costs to communicate the
+advertisements to promote and market the Company’s products.  Production costs such as idea development, artwork, audio and video crews and other up-front
+development costs are expensed the first time the associated advertising campaign is launched or aired.  The costs to communicate the advertisements such as
+airtime and distribution costs are expensed as incurred.  During the years ended December 26, 2021, December 27, 2020, and December 29, 2019, the
+Company incurred advertising and promotion expenses of approximately $11,469, $9,815, and $10,320, respectively.
+ 
+Emerging Growth Company Status: The Company is an “emerging growth company” as defined in the Jumpstart Our Business Startups Act of 2012
+(“JOBS Act”). Under the JOBS Act, emerging growth companies can delay adopting new or revised financial accounting standards until such time as those
+standards apply to private companies. The Company elected to use the extended transition period for complying with the adoption of new or revised accounting
+standards, and, as a result of this election, the Company’s financial statements may not be comparable to companies that comply with public company effective
+dates.
+Recently Adopted Accounting Pronouncements: In March 2020, the FASB issued ASU 2020-04, Reference Rate Reform (Topic 848), Facilitation of
+the Effects of Reference Rate Reform on Financial Reporting (“ASU 2020-04”), which provides optional expedients and exceptions for applying U.S. GAAP to
+contracts, hedging relationships, and other transactions affected by the discontinuation of the London Interbank Offered Rate (“LIBOR”) or by another
+reference rate expected to be discontinued. The amendments are effective for all entities as of March 12, 2020 through December 31, 2022. The Company
+adopted ASU 2020-04 on March 12, 2020 and the adoption of this standard did not have a material impact on the Company’s consolidated financial statements.
+Recently Issued Accounting Pronouncements Not Yet Adopted: In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842) (“ASU 2016-
+02”) and also issued subsequent amendments to the initial guidance, ASU 2017-13, ASU 2018-01, ASU 2018-10, ASU 2018-11, ASU 2018-20, ASU 2019-01,
+ASU 2019-10, ASU 2020-02, and ASU 2020-05 (collectively, “Topic 842”). The guidance in Topic 842 supersedes the leasing guidance in Topic 840, Leases.
+Under the new guidance, lessees are required to recognize lease assets and lease liabilities on the balance sheet for all leases with terms longer than twelve
+months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the consolidated statement of
+operations. An entity may adopt the guidance either (1) retrospectively to each prior reporting period presented in the financial statements with a cumulative-
+effect adjustment recognized at the beginning of the earliest comparative period presented or (2) retrospectively at the beginning of the period of adoption
+through a cumulative-effect adjustment. The Company expects to adopt Topic 842 retrospectively at the beginning of the period of adoption, December 27,
+2021, through a cumulative-effect adjustment, and will not apply the new standard to comparative periods presented. The new standard provides a number of
+practical expedients. Upon adoption, the Company expects to elect all of the practical expedients available. The Company is currently evaluating the impact of
+its pending adoption of Topic 842 on its consolidated financial statements. It is anticipated that the primary impact of the adoption of Topic 842 will be the
+recording of a right-of-use asset and related lease liability of approximately $4.0 million on the Company’s consolidated balance sheet.
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments — Credit Losses (Topic 326), Measurement of Credit Losses on Financial
+Instruments (“ASU 2016-13”) and also issued subsequent amendments to the initial guidance, ASU 2018-19, ASU 2019-04, ASU 2019-05, ASU 2019-10, ASU
+2019-11, ASU 2020-02, and ASU 2020-03 (collectively, “Topic 326”), to introduce a new impairment model for recognizing credit losses on financial
+instruments based on an estimate of current expected credit losses. Topic 326 requires financial assets measured at amortized cost to be presented at the net
+amount expected to be collected. The measurement of expected credit losses is based on relevant information about past events, including historical experience,
+current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amounts. An entity must use judgment in determining
+the relevant information and estimation methods that are appropriate in its circumstances. For non-public companies, Topic 326 is effective for years beginning
+after December 15, 2022, including interim periods within those years. The Company expects to adopt Topic 326 on December 26, 2022. The Company is
+currently evaluating the impact of its pending adoption of Topic 326 on its consolidated financial statements.
+73
+
+--- PAGE 75 ---
+ 
+In December 2019, the FASB issued ASU No. 2019-12, Income Taxes (Topic 740), Simplifying the Accounting for Income Taxes (“ASU 2019-12”),
+which intends to simplify the guidance by removing certain exceptions to the general principles and clarifying or amending existing guidance. ASU 2019-12 is
+effective for years beginning after December 15, 2021, and interim periods within years beginning after December 15, 2022. The Company expects to adopt
+ASU 2019-12 on December 26, 2022. Although the Company is currently evaluating the impact of the adoption of ASU 2019-12, the Company does not expect
+it to have a material impact on its consolidated financial statements.
+3. Fair Value
+The following table presents information about the Company’s financial assets measured at fair value on a recurring basis:
+ 
+  Fair Value Measurements as of December 26, 2021, Using:    Level 1   Level 2   Level 3   Total  
+Assets:                 
+   US Corporate Bonds and US Denominated Foreign Bonds  $ —  $ 64,452  $ —  $ 64,452 
+   Commercial Paper   —   2,999   —   2,999 
+   Money Market   20,101   —   —   20,101 
+   US Treasury   —   1,170   —   1,170 
+Total assets measured at fair value  $ 20,101  $ 68,621  $ —  $ 88,722
+ 
+ 
+  Fair Value Measurements as of December 27, 2020, Using:  
+  Level 1   Level 2   Level 3   Total  
+Assets:                 
+   US Corporate Bonds and US Denominated Foreign Bonds  $ —  $ 58,630  $ —  $ 58,630 
+   Commercial Paper   —   6,697   —   6,697 
+   Money Market   25,469   —   —   25,469 
+   US Treasury   —   3,030   —   3,030 
+Total assets measured at fair value  $ 25,469  $ 68,357  $ —  $ 93,826
+ 
+ 
+The following tables presents information about the Company’s financial liabilities measured at fair value on a recurring basis:
+  Fair Value Measurements as of December 26, 2021, Using:  
+Liabilities:  Level 1   Level 2   Level 3   Total  
+   Contingent consideration, current  $ —  $ —  $ 19  $ 19 
+   Contingent consideration, non-current   —   —   -   - 
+Total liabilities measured at fair value  $ —  $ —  $ 19  $ 19
+ 
+ 
+ 
+  Fair Value Measurements as of December 27, 2020, Using:    Level 1   Level 2   Level 3   Total  
+Liabilities:                 
+   Contingent consideration, current  $ —  $ —  $ 109  $ 109 
+   Contingent consideration, non-current   —   —   18   18 
+Total liabilities measured at fair value  $ —  $ —  $ 127  $ 127
+ 
+ 
+During the years ended December 26, 2021 and December 27, 2020, there were no transfers between fair value measurement levels.
+During the years ended December 26, 2021 and December 27, 2020, the Company recognized unrealized losses and (gains) associated with the fair value
+of contingent consideration of $44 and $(333), respectively.
+ 
+74
+
+--- PAGE 76 ---
+ 
+ 
+The following table presents the unobservable inputs incorporated into the valuation of contingent consideration:
+ 
+Unobservable Input  December 26,2021   December 27,2020  
+Estimated dozens of eggs to be supplied   275,250   1,885,660 
+Royalty rate per dozen eggs  $ 0.07  $ 0.07 
+Estimated future royalty expense  $ 19  $ 132 
+Discount interval (in years)   0.5   1.4
+ 
+ 
+ 
+4. Investment Securities
+The following table summarizes the Company’s investment securities as of December 26, 2021:
+ 
+  Amortized Cost   Unrealized Losses   Fair Value  
+   US Corporate Bonds and US Dollar
+        Denominated Foreign Bonds  $ 64,816  $ (364) $ 64,452 
+   Commercial Paper   2,999   —   2,999 
+   US Treasury   1,177   (7)  1,170 
+Total  $ 68,992  $ (371) $ 68,621
+ 
+ 
+The following table summarizes the Company’s investment securities as of December 27, 2020:
+ 
+  Amortized Cost   Unrealized Losses   Fair Value  
+   US Corporate Bonds and US Dollar
+        Denominated Foreign Bonds  $ 58,671  $ (41) $ 58,630 
+   Commercial Paper   6,697   —   6,697 
+   US Treasury   3,030   —   3,030 
+Total  $ 68,398  $ (41) $ 68,357
+ 
+ 
+Available-for-sale securities
+In October 2020, the Company purchased available-for-sale debt securities of approximately $68,336. During the year ended December 26, 2021 there
+were purchases of $51,688, sales and maturities of $40,874 with realized losses of $1, and call redemptions of $10,752 with realized losses of $54.
+The securities incurred unrealized losses of $330 and related tax benefit of $80 for the year ended December 26, 2021.      
+Actual maturities may differ from contractual maturities because some borrowers have the right to call or prepay obligations with or without call or
+prepayment penalties. Contractual maturities of investment securities as of December 26, 2021 are as follows:
+ 
+  Amortized Cost   Fair Value  
+Due within one year  $ 25,656  $ 25,638 
+Due in 1-5 years   43,336   42,983 
+Total available-for-sale  $ 68,992  $ 68,621
+ 
+ 
+75
+
+--- PAGE 77 ---
+ 
+ 
+5. Revenue Recognition
+The following table summarizes the Company’s net revenue by primary product for the periods presented:
+ 
+  Fiscal Year Ended  
+  December 26,2021   December 27,2020   December 29,2019  
+Net Revenue:             
+Eggs and egg related products  $ 239,967  $ 196,695  $ 128,579 
+Butter and butter related products   20,934   17,585   12,154 
+Net Revenue  $ 260,901  $ 214,280  $ 140,733
+ 
+ 
+Net revenue is primarily generated from the sale of eggs and butter. Historically, the Company’s product offering was comprised of shell eggs, hard-boiled
+eggs, liquid whole eggs and butter.  In August 2021, the Company added spreadable tub butter and egg-based breakfast bars to its product offering.
+ 
+The fiscal year ended December 27, 2020 includes revenue totaling $624 resulting from the reduction of a sales promotion incentive settled in Q2 2020
+that related to a prior year’s gross sales.
+6. Accounts Receivable
+Accounts receivable, net was $26,938 and $20,934 as of December 26, 2021 and December 27, 2020, respectively.
+As of December 26, 2021 and December 27, 2020, the Company recorded an allowance for doubtful accounts of $269 and $196, respectively. Changes in
+the allowance for doubtful accounts were as follows:
+ 
+  Allowance fordoubtful accounts  
+As of December 29, 2019  $ (304)
+Provisions Charged to Operating Results   (217)
+Account Write-off and Recoveries   325 
+As of December 27, 2020  $ (196)
+Provisions Charged to Operating Results   (184)
+Account Write-off and Recoveries   111 
+As of December 26, 2021  $ (269)
+ 
+ 
+7. Inventories
+Inventory consisted of the following as of the periods presented:
+ 
+  December 26,2021   December 27,2020  
+Eggs and egg related products  $ 5,422  $ 6,407 
+Butter and butter related products   2,359   3,347 
+Packaging   2,166   1,997 
+Other   998   1,151 
+  $ 10,945  $ 12,902
+ 
+ 
+ 
+During the years ended December 26, 2021, December 27, 2020, and December 29, 2019, laying-hen costs amortized to cost of goods sold were
+approximately $232, $375, and $484, respectively.  On a periodic basis, the Company compares the amount of inventory on hand with its latest forecasted
+requirement to determine whether charges for excess or obsolete inventory reserves are required. 
+76
+
+--- PAGE 78 ---
+ 
+8. Property, Plant and Equipment
+Property, plant and equipment consisted of the following as of the periods presented:
+ 
+  December 26,2021   December 27,2020  
+Land  $ 525  $ 525 
+Buildings and improvements   14,214   14,297 
+Vehicles   695   551 
+Machinery and equipment   15,523   12,473 
+Leasehold improvements   830   973 
+Furniture and fixtures   503   447 
+Construction in progress   21,164   6,654 
+   53,454   35,920 
+Less: Accumulated depreciation and amortization   (8,846)  (5,802)
+Property, plant and equipment, net  $ 44,608  $ 30,118
+ 
+ 
+During the years ended December 26, 2021, December 27, 2020, and December 29, 2019, depreciation and amortization of property, plant and equipment
+was approximately $3,540, $2,550, and $1,921, respectively.
+As of December 26, 2021 and December 27, 2020, machinery and equipment that was leased under capital leases and included in property, plant and
+equipment, net in the consolidated balance sheets was approximately $876 and $1,193, respectively.
+ 
+9. Accrued Liabilities
+Accrued liabilities consisted of the following as of the periods presented:
+ 
+  December 26,2021   December 27,2020  
+Accrued promotions and expired product credits  $ 3,599  $ 2,724 
+Accrued employee related costs   3,039   3,718 
+Accrued offering costs   —   123 
+Accrued distribution fees and freight   3,875   436 
+Accrued accounting and legal fees   344   238 
+Accrued marketing and commissions   769   739 
+Accrued purchases of inventory   1,197   1,088 
+Property, plant and equipment   1,258   502 
+Other   1,043   277 
+Accrued liabilities  $ 15,124  $ 9,845
+ 
+ 
+ 
+10. Long-Term Debt
+In October 2017, the Company entered into a credit facility agreement with PNC Bank, National Association (the “Credit Facility”) that provided for an
+initial term loan of $4,700 (the “Term Loan”) and a revolving line of credit of up to $10,000 (the “Revolving Line of Credit”). The Credit Facility also
+originally provided for a $1,500 equipment loan (the “Equipment Loan”) for the purpose of funding permitted capital expenditures, subject to certain
+restrictions.  
+Subsequently, the terms of the Credit Facility were modified at various times throughout fiscal 2018-2021 which (i) amended various definitions, (ii)
+waived a technical default in May 2020 which was triggered by exceeding the capital expenditure limit, and (iii) increased borrowing capacity and (iv)
+extended the maturity date. The Ninth Amendment to the Credit Facility in April 2021 eliminated the Term Loan and Equipment Loan. The Revolving Line of
+Credit matures in April 2024.         
+The maximum borrowing capacity under the Revolving Line of Credit is $20,000.  Interest on borrowings under the Revolving Line of Credit, as well as
+loan advances thereunder, accrues at a rate, at the Company’s election at the time of borrowing, equal to (i) LIBOR plus 2.00% or (ii) 1.00% plus the alternate
+base rate. As of December 26, 2021, there were no outstanding amounts under the Revolving Line of Credit.   
+77
+
+--- PAGE 79 ---
+ 
+The Credit Facility is secured by all of the Company’s assets (other than real property and certain other property excluded pursuant to the terms of the
+Credit Facility) and requires the Company to comply with three financial covenants: a fixed charge coverage ratio, a leverage ratio and a minimum tangible net
+worth requirement. The Credit Facility also contains various covenants relating to limitations on indebtedness, acquisitions, mergers, consolidations and the
+sale of properties and liens. As a result of the limitations contained in the Credit Facility, certain of the net assets on the Company’s consolidated balance sheet
+as of December 26, 2021 are restricted in use. Vital Farms’ wholly owned subsidiaries are non-operating and do not hold any assets or liabilities; therefore,
+these subsidiaries have no restricted net assets within the meaning of Rule 4-08(e)(3) or Rule 12-04 of Regulation S-X. The Credit Facility also contains other
+customary covenants, representations and events of default. As of December 26, 2021, the Company was in compliance with all covenants under the Credit
+Facility.
+Debt issuance costs associated with the Credit Facility are reflected as a reduction of the carrying value of long-term debt on the Company’s consolidated
+balance sheets and are being amortized to interest expense over the term of the Credit Facility using the effective interest method. During the years ended
+December 26, 2021, December 27, 2020, and December 29, 2019, the Company recognized interest expense of $52, $488, and $349 respectively, which
+includes amortization of debt issuance costs of $0, $68, and $9, respectively.
+As of December 26, 2021, future principal payments for capital lease payments are $327 for the fiscal year ending December 25, 2022, due to the August
+2022 expiration of the capital lease.
+ 
+Amounts outstanding under the Company’s Revolving Line of Credit as of December 27, 2020 have been presented as current obligations under current
+portion of long-term debt in the Company’s consolidated balance sheets due to the Company’s ability and intent to repay the amounts within the next twelve
+months.
+Paycheck Protection Program Loan: In April 2020, the Company received loan proceeds of approximately $2,593 under the Paycheck Protection
+Program (“PPP”) (the “PPP Loan”). The PPP, established as part of the Coronavirus Aid, Relief and Economic Security Act (“CARES Act”), provides for loans
+to qualified businesses for amounts up to 2.5 times of the average monthly payroll expenses for the qualifying business. The Company elected to not use any of
+the PPP Loan proceeds of $2,593 and repaid the entire balance of the PPP Loan in April 2020.
+11. Redeemable Convertible Preferred Stock
+Upon the closing of the IPO in August 2020, all of the then-outstanding shares of Preferred Stock automatically converted into 8,192,876 shares of
+common stock on a one-for-one basis. Subsequent to the closing of the IPO, there were no shares of Preferred Stock outstanding.
+As of December 26, 2021, the Company’s amended and restated certificate of incorporation authorized the Company to issue 10,000,000 shares, par value
+$0.0001 per share, of preferred stock, in one or more series and with such designation, rights and preferences as may be determined from time to time by the
+Company’s board of directors (collectively, the “Preferred Stock”). As of December 26, 2021, there were no shares of Preferred Stock issued or outstanding.    
+12. Common Stock and Common Stock Warrant
+Common Stock: As of December 26, 2021, Vital Farms’ amended and restated certificate of incorporation authorized the Company to issue 310,000,000
+shares of common stock, par value $0.0001 per share, of which 40,493,969 shares were issued and outstanding.
+In March 2019 and April 2019, the Company issued and sold an aggregate of 2,815,012 shares of common stock at a purchase price of $5.3286 per share,
+for proceeds of $14,097, net of issuance costs of $903.
+In March 2019 and April 2019, the Company executed a tender offer to repurchase 2,852,770 shares of its common stock and the vested equity of certain
+directors, employees and officers for a net purchase price of $5.0087 per shares for net proceeds of $14,289.  
+The voting, dividend and liquidation rights of the holders of the Company’s common stock are subject to and qualified by the rights, powers and
+preferences of the holders of Preferred Stock, if any. Each share of the Company’s common stock is entitled to one vote on all matters submitted to a vote of the
+Company’s stockholders. Holders of the Company’s common stock are entitled to receive dividends as may be declared by the Company’s board of directors, if
+any, subject to the preferential dividend rights of Preferred Stock, if any. No cash dividends had been declared or paid during the periods presented.
+78
+
+--- PAGE 80 ---
+ 
+As of each balance sheet date, the Company had reserved shares of common stock for issuance in connection with the following:
+ 
+  December 26,2021   December 27,2020  
+Options to purchase common stock   4,927,033   5,815,684 
+Restricted stock units   107,867   45,000 
+Shares available for grant under the 2020 Equity
+   Incentive Plan and 2020 Employee Stock Purchase Plan   9,993,187   7,615,143 
+Total   15,028,087   13,475,827
+ 
+ 
+Common Stock Warrant: In June 2015, the Company issued a warrant to the guarantor of a line of credit agreement that was entered into in
+2015.  During 2017 the line of credit matured and was repaid in full. The guarantor was also the Company’s Chief Executive Officer. The warrant provided for
+the purchase of a total of 196,800 shares of Vital Farms common stock at an exercise price of $1.43 per share. The warrant was scheduled to expire on the
+earlier of June 12, 2020 or the completion of the IPO. At the time of issuance, the Company classified the warrant as equity in its consolidated balance sheets.
+On June 9, 2020, the guarantor exercised the warrant to purchase 196,800 shares of Vital Farms’ common stock resulting in net proceeds of approximately
+$282.
+ 
+Treasury Stock: In August 2021, the Company retired an aggregate of 5,494,918 shares of its common stock held in treasury. Upon retirement, the shares
+were redesignated as authorized but unissued shares of the Company’s common stock.
+ 
+13. Stock-Based Compensation
+As of December 26, 2021, 9,993,187 shares were available for future grants of the Company’s common stock pursuant to the Vital Farms, Inc. 2020
+Equity Incentive Plan (“2020 Incentive Plan”) and the 2020 Employee Share Purchase Plan (“2020 ESPP”).
+ 
+2020 Equity Incentive Plan: In July 2020, the Company’s board of directors adopted the Vital Farms, Inc. 2020 Equity Incentive Plan (“2020 Incentive
+Plan”), which was subsequently approved by the Company’s stockholders and became effective on July 30, 2020. Initially, the maximum number of shares of
+the Company’s common stock that may be issued under the 2020 Incentive Plan was 8,595,871 shares. The 2020 Incentive Plan provides that the number of
+shares reserved and available for issuance under the 2020 Incentive Plan will automatically increase each January 1, beginning on January 1, 2021 and ending
+on (and including) January 1, 2030, by an amount equal to 4% of the outstanding number of shares of common stock on the immediately preceding December
+31 or such lesser number of shares as determined by the Company’s board of directors. On January 1, 2022, 1,619,758 shares of common stock were added to
+the available reserve pursuant to this provision.
+ 
+We estimate the fair value of stock options on the date of grant using a Black-Scholes option-pricing valuation model, which uses the expected option
+term, stock price volatility, and the risk-free interest rate. The expected option term assumption reflects the period for which we believe the option will remain
+outstanding. We elected to use the simplified method to determine the expected option term, for all periods presented, which is the average of the option’s
+vesting and contractual term. Our computation of expected volatility is based on the historical volatility of selected comparable publicly traded companies over
+a period equal to the expected term of the option. The risk-free interest rate reflects the U.S. Treasury yield curve for a similar instrument with the same
+expected term in effect at the time of the grant.
+ 
+The following assumptions were utilized to calculate the fair value of stock options granted during the fiscal periods indicated:
+ 
+             
+  December 26,2021   December 27,2020   December 29,2019  
+Expected term (in years)  6.0 - 6.5   5.2 - 6.5   5.4  - 6.5  
+Expected stock price volatility  28.5% - 29.4%   29.1% - 42.9%   39.5% - 47.0%  
+Risk-free interest rate  0.57% - 1.36%   0.34% - 0.49%   1.4% - 2.38%  
+Expected dividend yield  0%   0%   0%  
+Weighted average fair value at grant date  $ 7.31   $ 6.83   $ 2.31
+ 
+ 
+79
+
+--- PAGE 81 ---
+ 
+ 
+The following table summarizes the Company’s stock option activity since December 27, 2020:
+ 
+ 
+ Number ofOptions   
+Weighted-AverageExercisePrice   
+Weighted-AverageRemainingContractualTerm (Years)   
+AggregateIntrinsicValue  
+Outstanding as of December 27, 2020   5,815,684  $ 6.87   6.7  $ 112,762 
+Granted   565,593  $ 24.05         
+Exercised   (1,034,929) $ 2.68      $ 20,343 
+Cancelled   (419,315) $ 12.17         
+Outstanding as of December 26, 2021   4,927,033  $ 9.25   6.5  $ 48,222 
+Options exercisable as of December 26, 2021   2,572,316  $ 4.70   5.1  $ 33,605 
+Options vested and expected to vest as of December 26, 2021   4,918,003  $ 9.26   6.5  $ 48,099
+ 
+ 
+ 
+The following table summarizes the Company’s stock option activity since December 29, 2019:
+ 
+ 
+ Number ofOptions   
+Weighted-AverageExercisePrice   
+Weighted-AverageRemainingContractualTerm (Years)   
+AggregateIntrinsicValue  
+Outstanding as of December 29, 2019   5,413,064  $ 3.73   7.3  $ 60,059 
+Granted   985,519  $ 22.98         
+Exercised   (66,062) $ 2.85      $ 1,022 
+Cancelled   (516,837) $ 3.76         
+Outstanding as of December 27, 2020   5,815,684  $ 6.87   6.7  $ 112,762 
+Options exercisable as of December 27, 2020   2,751,727  $ 2.59   4.7  $ 63,061 
+Options vested and expected to vest as of December 27, 2020   5,815,684  $ 6.87   6.7  $ 112,762
+ 
+ 
+ 
+The fair value of shares vested during the fiscal year ended December 26, 2021 and December 27, 2020 was $2,694 and $3,320, respectively.
+Restricted Stock Units: In August 2020, the Company granted a restricted stock unit (“RSU”) for 7,500 shares of the Company’s common stock to each
+person who was a non-employee director as of the IPO date, for a total of 45,000 RSUs (“IPO Initial Grant”). Each IPO Initial Grant will vest in three equal
+installments on the day before each of the first, second and third Annual Meeting of the Stockholders that occurs following the IPO Date, subject to the Non-
+Employee Director’s Continuous Service (as defined in the 2020 Incentive Plan) on each vesting date. Additionally, the Company granted a fully vested RSU
+for 3,097 shares to an employee in October 2020.
+The following table summarizes the Company’s restricted stock unit activity since December 29, 2019:
+ 
+ Number ofRSUs   
+Weighted-AverageFairPrice  
+Unvested as of December 29, 2019   —  $ — 
+Granted   48,097  $ 37.63 
+Vested   (3,097) $ 37.97 
+Forfeited   —  $ — 
+Unvested as of December 27, 2020   45,000  $ 37.61 
+Granted   80,324  $ 23.71 
+Vested   (15,000) $ 37.61 
+Forfeited   (2,457) $ 25.78 
+Unvested as of December 26, 2021   107,867  $ 27.53
+ 
+80
+
+--- PAGE 82 ---
+ 
+ 
+ 
+ 
+During the years ended December 26, 2021, December 27, 2020, and December 29, 2019, the Company recognized total stock-based compensation
+expense of $4,440, $2,509, and $1,029, respectively. The Company classifies stock-based compensation expense in its consolidated statements of operations in
+the same manner in which the award recipient’s payroll costs are classified or in which the award recipient’s service payments are classified.
+As of December 26, 2021, total unrecognized stock-based compensation expense related to unvested stock options and unreleased restricted stock units
+was $11,006, which is expected to be recognized over a weighted-average period of 2.6 years.
+Employee Stock Purchase Plan: In July 2020, the board of directors adopted the Vital Farms Inc. 2020 Employee Stock Purchase Plan (“2020 ESPP”),
+which was subsequently approved by the Company’s stockholders and became effective on July 30, 2020. The 2020 ESPP authorizes the initial issuance of up
+to 900,000 shares of the Company’s common stock to certain eligible employees or, as designated by the board of directors, employees of a related company.
+The 2020 ESPP provides that the number of shares reserved and available for issuance under the 2020 ESPP will automatically increase each January 1,
+beginning on January 1, 2021 and ending on (and including) January 1, 2030, by an amount equal to the lesser of (i) 1% of the outstanding number of shares of
+common stock on the immediately preceding December 31 and (ii) 900,000, or such lesser number of shares as determined by the Vital Farms board of
+directors. On January 1, 2022, 404,939 shares of common stock were added to the available reserve pursuant to this provision. The Company’s board of
+directors may periodically grant or provide for the grant to eligible employees the ability to purchase common stock under the 2020 ESPP during a specific
+offering period. In November 2021, the Compensation Committee of the Board of Directors approved an initial offering of common stock under the 2020 ESPP
+to eligible employees, which commenced March 1, 2022.
+ 
+14. Income Taxes
+For the years ended December 26, 2021, December 27, 2020, and December 29, 2019 the provision for income taxes consisted of the following:
+  December 26,2021   December 27,2020   December 29,2019  
+Current:             
+    Federal  $ 225  $ 587  $ 867 
+    State   282   412   187 
+Deferred:             
+    Federal   (2,164)   1,677   (88)
+    State   (371)   94   140 
+(Benefit) provision for income taxes  $ (2,028)  $ 2,770  $ 1,106
+ 
+ 
+The Company’s income before income taxes is entirely derived from domestic sources for all periods presented. The reconciliation of the federal statutory
+income tax provision to the Company’s effective income tax provision is as follows:
+ 
+  December 26,2021   December 27,2020   December 29,2019  
+Provision at statutory rate of 21%  $ 74  $ 2,446  $ 929 
+State income taxes   (416)   300   258 
+Stock-based compensation   (2,846)   373   - 
+Non-deductible costs   12   211   604 
+Charitable deduction   (88)   (206)   (629)
+Change in deferred tax asset valuation allowance   774   (138)   23 
+Other, net   462   (216)   (79)
+(Benefit) provision for income taxes  $ (2,028)  $ 2,770  $ 1,106
+ 
+81
+
+--- PAGE 83 ---
+ 
+ 
+Deferred income taxes reflect the net tax effects of loss and credit carryforwards and temporary differences between the carrying amounts of assets and
+liabilities for financial reporting purposes and the amounts used for income tax purposes. The Company’s deferred income tax assets and liabilities at December
+26, 2021 and December 27, 2020 were comprised of the following:
+  December 26,2021   December 27,2020  
+Deferred tax assets:         
+    Accrued expenses  $ 1,383  $ 1,144 
+    Allowances and other reserves   212   80 
+    Inventory   387   368 
+    Net operating loss carryforwards   2,220   27 
+    Charitable contributions   774   322 
+    Stock-based compensation   460   205 
+    Other   90   11 
+           Total deferred tax assets   5,526   2,157 
+Less: Valuation allowance   (774)   - 
+           Net deferred tax assets  $ 4,752  $ 2,157 
+Deferred tax liabilities:         
+    Prepaid expenses  $ 784  $ 906 
+    Property and equipment   3,610   3,497 
+    Intangibles   279   291 
+          Total deferred tax liabilities   4,673   4,694 
+          Net deferred tax assets or liabilities  $ 79  $ 2,537
+ 
+ 
+A valuation allowance is required to be established when it is more likely than not that all or a portion of a deferred tax asset will not be realized.
+Realization of deferred tax assets is dependent upon future earnings, the timing and amount of which are uncertain. A full review of all positive and negative
+evidence needs to be considered, including the Company’s current and past performance, the market environments in which the Company operates, the
+utilization of past tax credits, the length of carry back and carry forward periods and tax planning strategies that might be implemented. Management
+considered the scheduled reversal of deferred tax liabilities and projected future taxable income in making this assessment. The net change in the total valuation
+allowance for the year ended December 26, 2021 was an increase of approximately $774.
+The activity in the Company’s deferred tax asset valuation allowance for the years ended December 26, 2021 and December 27, 2020 was as follows:
+  December 26,2021   December 27,2020  
+Valuation allowance as of beginning of year  $ -  $ 138 
+    Increases recorded to income tax provision   774   — 
+    Decreases recorded as benefit to income tax
+        provision   -   (138)
+Valuation allowance as of end of year  $ 774  $ -
+ 
+ 
+As of December 26, 2021, the Company had unrecognized tax benefits, which represent the aggregate tax effect of the differences between tax return
+positions and the benefits recognized in the Company’s financial statements. At December 26, 2021, all of the unrecognized tax benefits, if recognized, would
+affect the Company’s annual effective tax rate. The unrecognized tax benefits are long-term in nature and we do not anticipate the balance of the unrecognized
+tax benefits to change in the next twelve months.
+The following table reflects changes in gross unrecognized tax benefits:
+  December 26,2021   December 27,2020  
+Gross tax contingencies as of beginning of year  $ 219  $ 272 
+    Increase in gross tax contingencies   -   219 
+   Decrease in gross tax contingencies   -   (272)
+Gross tax contingencies as of end of year  $ 219  $ 219
+ 
+ 
+As of December 26, 2021, the Company had federal net operating loss carryforwards of $9.1 million which can be carried forward indefinitely.  The
+Company also had state net operating loss carryforwards of $3.9 million which begin to expire in 2022.
+82
+
+--- PAGE 84 ---
+ 
+The Company files a U.S. federal income tax return, as well as income tax returns in various states.  Tax years 2018 through 2020 remain open to
+examination by the tax jurisdictions to which the Company is subject, with certain state taxing jurisdictions being open back to 2017.
+15. Net Income Per Share
+Basic and diluted net income per share attributable to the Company’s common stockholders were calculated as follows:
+ 
+  Fiscal Year Ended  
+  December 26,2021   December 27,2020   December 29,2019  
+Numerator:             
+Net income  $ 2,382  $ 8,884  $ 3,312 
+Less: Net (loss) income attributable to noncontrolling interests   (47)  84   927 
+Net income attributable to Vital Farms, Inc. stockholders’ — basic
+   and diluted  $ 2,429  $ 8,800  $ 2,385 
+Denominator:             
+Weighted average common shares outstanding — basic   40,027,278   28,667,264   25,897,223 
+Weighted average effect of potentially dilutive securities:             
+Effect of potentially dilutive stock options   3,290,615   4,142,947   1,826,084 
+Effect of potentially dilutive common stock warrants   —   82,993   154,832 
+Effect of potentially dilutive restricted stock units   3,840   21,449   — 
+Effect of potentially dilutive redeemable convertible preferred stock   —   —   8,192,876 
+Weighted average common shares outstanding — diluted   43,321,733   32,914,653   36,071,015 
+Net income per share attributable to Vital Farms, Inc. stockholders             
+Basic  $ 0.06  $ 0.31  $ 0.09 
+Diluted  $ 0.06  $ 0.27  $ 0.07
+ 
+ 
+For the years ended December 26, 2021 and December 27, 2020, options to purchase 23,744 shares of common stock and 826,883 shares of common
+stock, respectively, were excluded from the computation of diluted net income per share attributable to the Company’s common stockholders because including
+them would have been antidilutive.
+16. Commitments and Contingencies
+Operating Leases: As of December 26, 2021, the Company was leasing approximately 9,100 square feet of office space and parking spaces in Austin,
+Texas. The lease expires in April 2026. The Company has the option to extend the lease agreement for successive periods of up to five years. The monthly lease
+payments, which include base rent charges of $19, are subject to periodic rent increases through April 2026.
+As of December 27, 2020, the Company was leasing warehouse space in Webb City, Missouri for 5,000 rentable pallet spaces. The monthly lease
+payments include base rent charges of $55. In October 2020, the lease was amended to terminate the agreement effective December 31, 2020.
+As of December 26, 2021, the Company was leasing approximately 92,000 square feet of warehouse space in Springfield, Missouri for 10,000 rentable
+pallet spaces under an operating lease expiring in September 2023. The monthly lease payments, which include base rent charges of $79, are subject to periodic
+rent increases through September 2023.  
+The Company recognizes rent expense on a straight-line basis over the respective lease period and has recorded deferred rent for rent expense incurred but
+not yet paid. During the years ended December 26, 2021, December 27, 2020, and December 29, 2019, the Company recognized rent expense, including
+associated common area maintenance charges, of $583, $444, and $358, respectively.
+83
+
+--- PAGE 85 ---
+ 
+As of December 26, 2021, future minimum lease payments under noncancelable operating leases are as follows:
+ 
+2022  $ 1,476 
+2023   1,254 
+2024   471 
+2025   338 
+Thereafter   115 
+Total  $ 3,654
+ 
+ 
+Supplier Contracts: The Company purchases its egg inventories under supply contracts with farms. Purchase commitments contained in these
+arrangements are variable dependent upon the quantity of eggs produced by the farms. Accordingly, there are no estimable future purchase commitments
+associated with these supplier contracts. In addition, substantially all the Company’s supply contracts with farms contain components that meet the definition of
+embedded leases within the scope of Topic 840, Leases. These arrangements convey to the Company the right to control implicitly identified property, plant and
+equipment as it takes substantially all the utility generated by these assets over the term of the arrangements at a variable price. As total purchase commitments
+contained in these arrangements are variable, the amounts attributable to the lease components are contingent rentals; there are no minimum lease payments
+associated with these supply contracts. As the classification and timing of recognition of costs attributable to the eggs and embedded cost of the lease rentals are
+identical, the Company does not allocate the total purchase cost of eggs between the cost of the eggs and the embedded cost of the lease rentals or distinguish
+between them in its accounting records. The Company records the total purchase costs of eggs, which includes costs associated with the eggs and the
+corresponding costs of embedded lease rentals from the same arrangement, into inventory. These costs are expensed to cost of goods sold when the associated
+eggs are sold to customers. During the years ended December 26, 2021, December 27, 2020, and December 29, 2019, the Company recognized total costs
+associated with its supply contracts with farms of $108,707, $84,537, and $54,380, respectively.
+Indemnification Agreements: In the ordinary course of business, the Company may provide indemnification of varying scope and terms to vendors,
+lessors, business partners and other parties with respect to certain matters including, but not limited to, losses arising out of breach of such agreements or from
+intellectual property infringement claims made by third parties. In addition, the Company has entered into indemnification agreements with members of its
+board of directors and its executive officers that will require the Company, among other things, to indemnify them against certain liabilities that may arise by
+reason of their status or service as directors or officers. The maximum potential amount of future payments the Company could be required to make under these
+indemnification agreements is, in many cases, unlimited. As of December 26, 2021, the Company has not incurred any material costs as a result of such
+indemnifications.
+Litigation: The Company is subject to various claims and contingencies which are in the scope of ordinary and routine litigation incidental to its business,
+including those related to regulation, litigation, business transactions, employee-related matters and taxes, among others. When the Company becomes aware of
+a claim or potential claim, the likelihood of any loss or exposure is assessed. If it is probable that a loss will result and the amount of the loss can be reasonably
+estimated, the Company records a liability for the loss. The liability recorded includes probable and estimable legal costs incurred to date and future legal costs
+to the point in the legal matter where the Company believes a conclusion to the matter will be reached. If the loss is not probable or the amount of the loss
+cannot be reasonably estimated, the Company discloses the claim if the likelihood of a potential loss is reasonably possible.
+In January 2019, Ovabrite Inc. (“Ovabrite”) settled claims made pursuant to a lawsuit in which Ovabrite was the defendant and a countersuit in which
+Ovabrite was the plaintiff and recorded a related gain of $1,200, which is included in other income in the consolidated statements of operations.
+17. Related Party Transactions
+Guarantor Warrant: The Company’s executive chairman and former Chief Executive Officer (the “Guarantor”) guaranteed the Company’s obligations
+under a line of credit agreement that was entered into in 2015 and that matured and was repaid in full in 2017. The Company issued a warrant to purchase
+196,800 shares of the Company’s common stock at an exercise price of $1.43 to the Guarantor in exchange for his guaranty. See Note 12, “Common Stock and
+Common Stock Warrant.” The warrant expired on the earlier of June 12, 2020 or the completion of the IPO. In June 2020, the Guarantor exercised the warrant
+to purchase 196,800 shares of the Company’s common stock resulting in net proceeds of approximately $282.
+Ovabrite: Ovabrite is a related party because its founders are stockholders of the Company, with the majority stockholder in Ovabrite also serving as the
+Company’s executive chairman and member of the Company’s board of directors. Since Ovabrite’s incorporation in November 2016, the Company is deemed
+to have had a variable interest in Ovabrite, and Ovabrite is deemed to have been a VIE, of which the Company is the primary beneficiary. Accordingly, the
+Company has consolidated the results of Ovabrite
+84
+
+--- PAGE 86 ---
+ 
+since November 2016. All significant intercompany transactions between the Company and Ovabrite have been eliminated in consolidation. The Ovabrite entity
+is immaterial as of the year ended December 26, 2021.
+Notes Receivable from Related Parties: In February 2019, the Company issued promissory notes in the aggregate amount of $4,000 to its founder and a
+former member of the board of directors that is currently a board observer, both of whom are also stockholders of the Company. The promissory notes bore
+monthly interest at LIBOR plus 2.0% and were to mature on the earlier of August 7, 2022 or the date of closing of a liquidity transaction which is defined as a
+merger, consolidation or sale of the Company’s assets or such time as the notes would be prohibited by the Sarbanes-Oxley Act (“Promissory Note Maturity
+Date”). All unpaid principal and accrued and unpaid interest was due on the Promissory Note Maturity Date. The borrower has the ability to prepay all or any
+portion of the promissory note at any time without premium or penalty. In November 2019, $3,200 of the promissory notes were repaid.
+In August 2020, the remaining $800 of the promissory notes were repaid.  During the years ended December 26, 2021, December 27, 2020, the Company
+recorded interest income of $0 and $97, respectively, in connection with the promissory notes.  
+Manna Tree Partners: In March 2019 and April 2019, the Company issued and sold an aggregate of 2,815,012 shares of common stock at a purchase
+price of $5.3286 per share, for an aggregate purchase price of $15,000, to entities associated with Manna Tree Partners. The co-founder and chief operating
+officer of Manna Tree Partners is a member of the Company’s board of directors.
+Sandpebble Builders Preconstruction, Inc.: The Company utilizes Sandpebble Builders Preconstruction, Inc. (“Sandpebble”) for project management
+and related services associated with the construction and expansion of Egg Central Station. The owner and principal of Sandpebble is the father of an executive
+of the Company. In connection with the services described above, the Company paid Sandpebble $1,037, $842, and $556 in 2021, 2020, and 2019, respectively.
+Amounts paid to Sandpebble are included in property, plant and equipment.
+Whole Foods Market, Inc: A member of the Company’s board of directors was, until February 2022, an executive vice president and senior advisor at
+Whole Foods. The Company serves the majority of its natural channel retail customers through food distributors, such as US Foods Inc. and United Natural
+Foods, Inc., who purchase, store, sell and deliver products to Whole Foods Market, Inc. While the Company cannot precisely determine its specific revenue
+attributable to Whole Foods, it is a significant customer.
+18. 401(K) Savings Plan
+The Company established a defined contribution savings plan in 2017 under Section 401(k) of the Internal Revenue Code of 1986, as amended. This
+plan covers substantially all employees who meet minimum age and service requirements and allows participants to defer a portion of their annual
+compensation on a pre-tax basis. Company contributions to the plan may be made at the discretion of the Company’s board of directors. During the years ended
+December 26, 2021, December 27, 2020 and December 29, 2019, the Company made contributions totaling $651, $401, and $246 respectively, to the plan.
+  
+19. Subsequent Events
+ 
+In January 2022, management of the Company determined that the Company would cease production of its breakfast bars and egg bites products
+effective prior to the end of the first quarter ending March 27, 2022.  The Company expects to incur charges of approximately $2.1 million related to these
+product discontinuations for inventory obsolescence and contract terminations during the quarter ending March 27, 2022.   
+85
+
+--- PAGE 87 ---
+ 
+ 
+ 
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures. 
+We maintain “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended,
+or the Exchange Act, that are designed to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is (1)
+recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms and (2) accumulated and communicated to our
+management, including our principal executive officer and principal financial officer, to allow timely decisions regarding required disclosure. Management
+recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives
+and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure
+controls and procedures as of December 26, 2021. Based upon the evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of
+such date, our disclosure controls and procedures were effective at a reasonable assurance level.
+Management’s Annual Report on Internal Control over Financial Reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as defined in Rules 13a-15(f) and
+15d-15(f) of the Exchange Act. Our management, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer,
+conducted an evaluation of the effectiveness of our internal control over financial reporting as of December 26, 2021 based on the framework in Internal
+Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 Framework). Based on the results of
+its evaluation, management concluded that our internal control over financial reporting was effective as of December 26, 2021.
+Attestation Report of the Registered Public Accounting Firm
+ This Annual Report does not include an attestation report of our registered public accounting firm due to an exemption for “emerging growth
+companies.” 
+Changes in Internal Control over Financial Reporting. 
+There were no changes in our internal control over financial reporting during the quarter ended December 26, 2021 that have materially affected, or are
+reasonably likely to materially affect, our internal control over financial reporting.
+Item 9B. Other Information.
+None.
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+Not Applicable.
+ 
+ 
+86
+
+--- PAGE 88 ---
+ 
+ 
+Part III
+Item 10. Directors, Executive Officers and Corporate Governance.
+The information required by this item is incorporated by reference to the information set forth in the sections titled “Proposal 1 – Election of
+Directors,” “Executive Officers,” and “Information Regarding the Board and Corporate Governance” and “Delinquent Section 16(a) Reports,” if any, in our
+proxy statement for our 2022 annual meeting of stockholders to be filed with the Securities and Exchange Commission, within 120 days after the end of our
+fiscal year ended December 26, 2021, or the 2022 Proxy Statement.
+Item 11. Executive Compensation
+The information required by this item is incorporated by reference to the information set forth in the section titled “Executive Officer and Director
+Compensation” in our 2022 Proxy Statement.
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+The information required by this item is incorporated by reference to the information set forth in the section titled “Security Ownership of Certain
+Beneficial Owners and Management and “Equity Compensation Plan Information” in our 2022 Proxy Statement.
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+The information required by this item is incorporated by reference to the information set forth in the section titled “Transactions with Related
+Persons” and “Information Regarding the Board and Corporate Governance – Board Independence” in our 2022 Proxy Statement.
+Item 14. Principal Accountant Fees and Services
+The information required by this item is incorporated by reference to the information set forth in the sections titled “Independent Registered Public
+Accounting Firm Fees” and “Pre-Approval Policies and Procedures” contained in our 2022 Proxy Statement.
+87
+
+--- PAGE 89 ---
+ 
+Part IV
+Item 15. Exhibit and Financial Statement Schedules.
+(a)(1) Financial Statements.
+Reference is made to the financial statements included in Item 8 of Part II hereof.
+(a)(2) Financial Statement Schedules.
+All schedules have been omitted because they are not required or because the required information is given in the Financial Statements or Notes thereto.
+(a)(3) Exhibits.
+ 
+ExhibitNumber  Description
+  3.1  Amended and Restated Certificate of Incorporation, as currently in effect (incorporated herein by reference to Exhibit 3.1 to the Registrant’s
+Current Report on Form 8-K (File No. 001-39411), filed with the Securities and Exchange Commission (the “SEC”) on August 4, 2020).
+  3.2  Amended and Restated Bylaws, as currently in effect (incorporated herein by reference to Exhibit 3.2 to the Registrant’s Current Report on
+Form 8-K (File No. 001-39411), filed with the SEC on August 4, 2020).
+  4.1  Form of Common Stock Certificate (incorporated herein by reference to Exhibit 4.1 to the Registrant’s Registration Statement on Form S-1/A
+(File No. 333-239772), filed with the SEC on July 24, 2020).
+  4.2  Ninth Amended and Restated Stockholders Agreement, by and among the Registrant and certain of its stockholders, dated July 6, 2020
+(incorporated herein by reference to Exhibit 10.1 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the
+SEC on July 9, 2020).
+  4.3  Description of Registered Securities (incorporated by reference to Exhibit 4.3 to the Registrant’s Annual Report on Form 10-K (File No. 001-
+39411) filed with the SEC on March 24, 2021).
+10.1+  2013 Incentive Plan (incorporated herein by reference to Exhibit 10.2 to the Registrant’s Registration Statement on Form S-1 (File No. 333-
+239772), filed with the SEC on July 9, 2020).
+10.2+  Forms of Grant Notice, Stock Option Agreement and Notice of Exercise under the 2020 Equity Incentive Plan (incorporated herein by reference
+to Exhibit 10.5 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.3+  Forms of Grant Notice, Stock Option Agreement and Stock Purchase Agreement under the 2013 Incentive Plan (incorporated herein by
+reference to Exhibit 10.3 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.4+  2020 Equity Incentive Plan (incorporated herein by reference to Exhibit 4.8 to the Registrant’s Registration on Form S-8 (File No. 333-240258),
+filed with the SEC on July 31, 2020).
+10.5+  Forms of Grant Notice, Stock Option Agreement and Notice of Exercise under the 2020 Equity Incentive Plan (incorporated herein by reference
+to Exhibit 10.5 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.6+  Forms of Employee Restricted Stock Unit Grant Notice and Award Agreement under the 2020 Equity Incentive Plan (incorporated herein by
+reference to Exhibit 10.6 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.7+  Forms of Non-Employee Director Restricted Stock Unit Grant Notice and Award Agreement under the 2020 Equity Incentive Plan (incorporated
+herein by reference to Exhibit 10.7 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9,
+2020).
+10.8+  2020 Employee Stock Purchase Plan (incorporated herein by reference to Exhibit 4.12 to the Registrant’s Registration on Form S-8 (File No.
+333-240258), filed with the SEC on July 31, 2020).
+10.9+  Form of Indemnity Agreement, by and between the Registrant and each director and executive officer (incorporated herein by reference to
+Exhibit 10.9 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.10+  Non-Employee Director Compensation Policy (incorporated herein by reference to Exhibit 10.8 to the Registrant’s Quarterly Report on Form
+10-Q (File No. 001-39411), filed with the SEC on November 10, 2020).
+10.11+  Amended and Restated Employment Agreement between the Registrant and Russell Diez-Canseco, dated as of July 9, 2020 (incorporated herein
+by reference to Exhibit 10.11 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9,
+2020).
+88
+
+--- PAGE 90 ---
+ 
+10.12+  Offer Letter between the Registrant and Joanne Bal, dated March 5, 2021.
+10.13+  Offer Letter between the Registrant and Stephanie Coon, dated as of May 24, 2021.
+10.14+  Amended and Restated Employment Agreement between the Registrant and Jason Dale, dated as of July 9, 2020 (incorporated herein by
+reference to Exhibit 10.12 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.15+  Offer Letter between the Registrant and Jeffrey S. Dawson, dated as of January 4, 2021 (incorporated herein by reference to Exhibit 10.2 to the
+Registrant’s Quarterly Report on Form 10-Q (File No. 001-39411), filed with the SEC on May 11, 2021).
+10.16+  Offer Letter between the Registrant and Kathryn McKeon, dated as of January 10, 2022.
+10.17+  Offer Letter between the Registrant and Bo Meissner, dated as of June 30, 2020 (incorporated by reference to Exhibit 10.13 to the Registrant’s
+Annual Report on Form 10-K (File. No. 001-39411) filed with the SEC on March 24, 2021).
+10.18+  Offer Letter between the Registrant and Peter Pappas, dated as of October 30, 2020 (incorporated by reference to Exhibit 10.15 to the
+Registrant’s Annual Report on Form 10-K (File. No. 001-39411) filed with the SEC on March 24, 2021).
+10.19  Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the Lenders party thereto
+and PNC Bank, National Association (as Lender and as Agent), dated October 4, 2017 (incorporated herein by reference to Exhibit 10.15 to the
+Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.20  First Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated April 13, 2018 (incorporated herein by reference to
+Exhibit 10.16 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.21  Second Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated April 28, 2018 (incorporated herein by reference to
+Exhibit 10.17 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.22  Third Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated February 7, 2019 (incorporated herein by reference
+to Exhibit 10.18 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.23  Fourth Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated February 24, 2020 (incorporated herein by reference
+to Exhibit 10.19 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.24  Fifth Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated May 11, 2020 (incorporated herein by reference to
+Exhibit 10.20 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.25  Amended and Restated Revolving Credit Note executed and delivered by the Registrant and the Borrowers party thereto, dated May 11, 2020
+(incorporated herein by reference to Exhibit 10.21 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the
+SEC on July 9, 2020).
+10.26  Sixth Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated June 18, 2020 (incorporated herein by reference to
+Exhibit 10.22 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.27  Amended and Restated Term Loan Note executed and delivered by the Registrant and the Borrowers party thereto, dated June 18, 2020
+(incorporated herein by reference to Exhibit 10.23 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the
+SEC on July 9, 2020).
+10.28  Seventh Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated July 8, 2020 (incorporated herein by reference to
+Exhibit 10.24 to the Registrant’s Registration Statement on Form S-1 (File No. 333-239772), filed with the SEC on July 9, 2020).
+10.29  Eighth Amendment to Revolving Credit, Term Loan and Security Agreement, by and between the Registrant, the Borrowers party thereto, the
+Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated October 5, 2020 (incorporated herein by reference
+to Exhibit 10.26 to the Registrant’s Annual Report on Form 10-K (File No. 001-39411), filed with the SEC on March 24, 2021).
+89
+
+--- PAGE 91 ---
+ 
+10.30  Ninth Amendment to Revolving Credit, Term Loan and Term Loan and Security Agreement, by and between the Registrant, the Borrowers party
+thereto, the Lenders party thereto and PNC Bank, National Association (as Lender and as Agent), dated April 2, 2021 (incorporated herein by
+reference to Exhibit 10.1 to the Registrant’s Quarterly Report on Form 10-Q (File No. 001-39411), filed with the SEC on August 10, 2021).
+10.31  Second Amended and Restated Revolving Credit Note executed and delivered by the Registrant and the Borrowers party thereto, dated April 2,
+2021 (incorporated herein by reference to Exhibit 10.1 to the Registrant’s Quarterly Report on Form 10-Q (File No. 001-39411), filed with the
+SEC on August 10, 2021).
+21.1  List of Subsidiaries of Company.
+23.1  Consent of KPMG LLP, independent registered public accounting firm.
+31.1  Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted
+Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2  Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted
+Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1*  Certification of Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002.
+   
+101.INS  Inline XBRL Instance Document
+   
+101.SCH  Inline XBRL Taxonomy Extension Schema Document
+   
+101.CAL  Inline XBRL Taxonomy Extension Calculation Linkbase Document
+   
+101.DEF  Inline XBRL Taxonomy Extension Definition Linkbase Document
+   
+101.LAB  Inline XBRL Taxonomy Extension Label Linkbase Document
+   
+101.PRE  Inline XBRL Taxonomy Extension Presentation Linkbase Document
+   
+104  Cover Page Interactive Data File (embedded within the Inline XBRL document)
+ 
++ Indicates a management contract or compensatory plan.
+* Furnished herewith and not deemed to be “filed” for purposes of Section 18 of the Exchange Act, and shall not be deemed to be incorporated by
+reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act (whether made before or after the date of the Form 10-K),
+irrespective of any general incorporation language contained in such filing.
+Item 16. Form 10–K Summary.
+None.
+ 
+ 
+90
+
+--- PAGE 92 ---
+ 
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+ 
+  VITAL FARMS, INC.
+    
+Date: March 10, 2022  By: /s/ Russell Diez-Canseco
+  Name: Russell Diez-Canseco
+  Title: President and Chief Executive Officer
+ 
+POWER OF ATTORNEY
+Each person whose individual signature appears below hereby authorizes and appoints Russell Diez-Canseco and Bo Meissner, and each of them, with full
+power of substitution and resubstitution and full power to act without the other, as his or her true and lawful attorney-in-fact and agent to act in his or her name,
+place and stead and to execute in the name and on behalf of each person, individually and in each capacity stated below, and to file any and all amendments to
+this Annual Report on Form 10-K, and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and
+Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and
+thing, ratifying and confirming all that said attorneys-in-fact and agents or any of them or their or his substitute or substitutes may lawfully do or cause to be
+done by virtue thereof.
+ 
+Pursuant to the requirements of the Securities Act of 1934, this report has been signed below by the following persons, on behalf of the registrant and
+in the capacities and on the dates indicated:
+ 
+Signature  Title  Date
+     
+/s/ Russell Diez-Canseco  President, Chief Executive Officer and Director  March 10, 2022
+Russell Diez-Canseco  (Principal Executive Officer)   
+     
+/s/ Bo Meissner  Chief Financial Officer  March 10, 2022
+Bo Meissner  (Principal Financial Officer)   
+     
+/s/ Jeffery S. Dawson  Chief Accounting Officer  March 10, 2022
+Jeffery S. Dawson  (Principal Accounting Officer)   
+     
+/s/ Matthew O’Hayer  Executive Chairman and Director  March 10, 2022
+Matthew O’Hayer     
+     
+/s/ Kofi Amoo-Gottfried  Director  March 10, 2022
+Kofi Amoo-Gottfried     
+     
+/s/ Brent Drever  Director  March 10, 2022
+Brent Drever     
+     
+/s/ Glenda Flanagan  Director  March 10, 2022
+Glenda Flanagan     
+     
+/s/ Kelly Kennedy  Director  March 10, 2022
+Kelly Kennedy     
+     
+/s/ Karl Khoury  Director  March 10, 2022
+Karl Khoury     
+     
+/s/ Denny Marie Post  Director  March 10, 2022
+Denny Marie Post     
+     
+/s/ Gisel Ruiz  Director  March 10, 2022
+Gisel Ruiz      
+91
+
+--- PAGE 93 ---
+Exhibit 10.12
+ 
+March 5, 2021Joanne Bal
+Via Email
+ 
+Re: Offer of Employment
+ 
+Dear Joanne,
+ 
+It is my great pleasure to extend you an offer of employment with Vital Farms, Inc. (the "Company") beginning on April 30, 2021, or suchearlier date as we may mutually agree (the "Start Date"). Our success has been built on providing the highest quality, ethically produced food,full transparency about our farms and standards, top-shelf service to our customers and care for our crew. We feel your experience, skill set,passion and energy are a fantastic fit. We have a great thing going and want you to help us get to the next level and beyond.
+ 
+Your initial position will be General Counsel, Corporate Secretary and Head of Environmental, Social and Governance reporting to the ChiefExecutive Officer and performing such duties as are normally associated with these positions and such duties as are assigned to you fromtime to time. You initiallywill work remotely from your residence in California. If you relocate your principal residence to Austin during the firsttwo years of your employment with the Company, the Company will reimburse reasonable moving-related expenses. If you relocate yourprincipal residence to Austin at a later date during your employment with the Company, the Company may, in its sole discretion, reimbursereasonable moving-related expenses. All reasonable moving-related expenses must be submitted for reimbursement in accordance with theCompany's expense reimbursement policies. This is a full-time position. As an exempt salaried employee, you will devote substantially all ofyour business time and attention to the business of the Company and will not be eligible for overtime compensation.
+ 
+Your initial base salary will be at the rate of $12,692.31 bi-weekly, which equates to $330,000 on an annualized basis ("Base Salary"),payable in accordance with the Company's standard payroll practices and subject to applicable deductions and withholdings.
+ 
+You will also be eligible to participate in the 401(k) plan maintained by the Company, which currently provides for a bi-weekly employercontribution equal to 3% of your earnings (subject to IRS employer contribution limits), as well as a $40 per month internet reimbursement(while working from home), a$40 per month cell-phone reimbursement, and reimbursement of bar dues and related CLE in accordance with the Company's policies onexpense reimbursement. As a leader in our company, you are eligible for time off under our management time off policy and will not besubject to the standardPTO limits. You will be entrusted to manage your work and time off in accordance with such policy and the business andoperational needs of the Company.
+ 
+
+--- PAGE 94 ---
+ 
+Additionally, you will be eligible to earn a discretionary annual bonus (the "Annual Bonus") at an annual target amount of 60% of your BaseSalary. Whether any Annual Bonus is awarded will be based upon the Company's assessment of your performance and the Company'sattainment of goals as set by the Board of Directors in its sole discretion. Following the close of each fiscal year, the Company willdetermine in its sole discretion whether it will award you an Annual Bonus and the amount of any such Annual Bonus. No amount of the AnnualBonus is guaranteed, and in addition to the other conditions for being awarded such compensation, you must be an employee in goodstanding on the Annual Bonus payment date to be eligible to earn and receive an Annual Bonus. No partial or prorated bonuses will beprovided. The Annual Bonus, if any, will be paid in accordance with the Company's standard payroll practices, including the withholding of anyapplicable deductions and taxes. Notwithstanding the foregoing, for fiscal year 2021, provided you remain employed in good standing throughthe end of the year, you will be eligible to receive an Annual Bonus, in an amount as determined by the Board of Directors based on goals setby the Board of Directors, provided such amount shall be no less than 60% of your Base Salary actually earned by you in 2021 based onyour Start Date.
+ 
+Subject to the approval of the Company's Board of Directors (or authorized committee), for fiscal year 2021, you will be granted an option topurchase shares of the Company's common stock ("Option") with a total grant date value of $750,000, calculated by the Company using theBlack Scholes model based on the closing price of the stock on the Start Date (the ''Total Grant Value"). The exercise price per share will beequal to the closing price per share of the Company's common stock on the date of grant. If granted, the Option will vest in three (3) equalannual installments, measured from your Start Date, and subject to your continued service with the Company through each such vesting date.The Option will be subject to the terms and conditions applicable to options granted under the Company's 2020 Equity Incentive Plan (the"Equity Plan") and applicable award agreement.   Alternatively, the Company may elect to grant you a Restricted Stock Unit ("RSU"), orsome combination of an Option and RSU, totaling the Total Grant Value. You will not be eligible for any additional grants made to similarly-situated executives in fiscal year 2021.
+ 
+Your employment is subject to the Company's personnel policies and procedures as they may be interpreted, adopted, revised or deletedfrom time to time in the Company's sole discretion. You will be eligible to participate on the same basis as similarly-situated employees in theCompany's benefit plans in effect from time to time during your employment. All matters of eligibility for coverage or benefits under anybenefit plan shall be determined in accordance with the provisions of such plan. The Company reserves the right to change, alter, orterminate any benefit plan in its sole discretion. An overview of our current benefit plans will be provided.
+ 
+As set forth above, your employment with the Company will, at all times, be "at will" which means that either you or the Company may terminateyour employment at any time for any reason, with or without advance notice.
+ 
+You will be eligible to receive twelve (12) months of severance, in the form of salary continuation and reimbursements for continuation ofbenefits under COBRA, upon your termination without Cause or your resignation for Good Reason (either, a "Qualifying Termination") inaccordance with the terms, conditions and definitions that will be set forth in the severance plan that the Company is in the process ofestablishing (the "Severance Plan"). Your eligibility for severance will be contingent upon your timely execution of a separation agreement inthe form presented by the Company, containing (among other terms) an effective general release of claims in favor of the Company. In theevent of a Qualifying
+ 
+
+--- PAGE 95 ---
+ 
+Termination prior to the approval of the Severance Plan, the definition of Cause set forth in the Equity Plan shall apply and Good Reasonshall have the meaning set forth below. The payments and benefits provided in this section will be subject to applicable withholdings anddeductions and are intended to be exempt from (and if not exempt from, to comply with) Section 409A of the Internal Revenue Code of 1986,as amended.
+ 
+For purposes of this letter agreement, "Good Reason means the occurrence of any of the following conditions without your consent, after yourprovision of written notice to the Company of the existence of such condition (which notice must be provided within ninety (90) days of yourdiscovery of the existence of the condition and must specify the particular condition in reasonable detail); provided, that the Company hasnot first provided notice to you of its intent to terminate your employment: (i) a material reduction in our duties, responsibilities or authorities;(ii) a material (greater than10%) reduction by the Company of your Base Salary (except in the case of either an across-the-board reductionin salaries or a temporary reduction due to financial exigency); or (iii) the relocation of your principal place of employment by fifty (50) ormore miles from your then-current principal place of employment. Notwithstanding the foregoing, Good Reason shall only exist if theCompany is provided a thirty (30) day period to cure the event or condition giving rise to Good Reason, and it fails to do so within that cureperiod (and, additionally, you must resign for such Good Reason condition by giving notice within thirty (30) days after the period for curingthe violation or condition has ended).
+ 
+This offer is contingent on your satisfying the eligibility requirements for employment in the United States and upon your completion ofbackground screening to the satisfaction of the Company in its sole discretion. As a condition of employment, you will be required to sign andcomply with the EmployeeConfidential Information and Inventions Assignment Agreement attached hereto, which prohibits unauthorized use ordisclosure of the Company's proprietary information, among other obligations.
+ 
+By signing this letter you are representing that you have full authority to accept this position and perform the duties of the position withoutconflict with any other obligations and that you are not involved in any situation that might create, or appear to create, a conflict of interestwith respect toyour loyalty to or duties for the Company. You specifically warrant that you are not subject to an employment agreement orrestrictive covenant preventing full performance of your duties to the Company. You agree not to bring to the Company or use in theperformance of your responsibilities at the Company any materials or documents of a former employer that are not generally available tothe public, unless you have obtained express written authorization from the former employer for their possession and use. You also agreeto honor all obligations to former employers during your employment with the Company.
+ 
+By signing this letter, you acknowledge that the terms described in this letter, together with the Employee Confidential Information andInventions Assignment Agreement, set forth the entire understanding between us and supersedes any prior representations or agreements,whether written or oral; there are no terms, conditions, representations, warranties or covenants other than those contained herein. No termor provision of this letter may be amended, waived, released, discharged or modified except in writing, signed by you and an authorizedofficer of the Company, except that the Company may, in its sole discretion, adjust the rate of pay, salaries, incentive compensation, stockplans, benefits, job titles, locations, duties, responsibilities, and reporting relationships.
+ 
+
+--- PAGE 96 ---
+ 
+ 
+ 
+This is an exciting time for our business and for our industry. We are confident that your talents and abilities will be a fantastic addition to theVital Farms crew! This offer of employment will expire if not accepted on or before March 15, 2021. Please indicate your acceptance of thisoffer by signing below and returning along with the executed Employee Confidential Information and Inventions Assignment Agreement.
+ 
+Sincerely,
+ 
+Vital Farms, Inc. 
+/s/ Russel Diez-Canseco 
+ 
+Accepted and Agreed: 
+/s/ Joanne Bal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 97 ---
+  
+ 
+ 
+Exhibit 10.13
+May 24, 2021 
+Stephanie Coon Via
+Email 
+Re: Oﬀer of Employment 
+Dear Stephanie, 
+It is my great pleasure to extend you an oﬀer of employment with Vital Farms, Inc. (the “Company”) beginning on August 9, 2021, or such
+earlier date as we may mutually agree (the “Start Date”). Our success has been built on providing the highest quality, ethically produced
+food, full transparency about our farms and standards, top-shelf service to our customers and care for our crew. We feel your experience,
+skill set, passion and energy are a fantas c ﬁt. We have a great thing going and want you to help us get to the next level and beyond. 
+Your ini al posi on will be Senior Vice President, Strategy, repor ng into the Chief Execu ve Oﬃcer and performing such du es as are
+normally associated with these posi ons and such du es as are assigned to you from  me to  me. You ini ally will work remotely from
+your residence in Endico , New York un l such  me as mutually agreed to by you and the Company. This is a full- me posi on. As an
+exempt salaried employee, you will devote substan ally all of your business  me and a en on to the business of the Company and will not
+be eligible for over me compensa on. 
+Your ini al base salary will be at the rate of $11,923.07 bi-weekly, which equates to $310,000 on an annualized basis (“Base Salary”),
+payable in accordance with the Company’s standard payroll prac ces and subject to applicable deduc ons and withholdings. 
+If you execute this le er and commence employment in accordance with this le er, you will be advanced a one- me sign-on bonus of
+$50,000, subject to applicable deduc ons and withholdings, which will be earned in full on the twelve (12)-month anniversary of the Start
+Date (the “Sign-On Bonus”). The Sign-On Bonus will be payable in a lump sum payment on the Company’s ﬁrst regular payroll date following
+your Start Date, provided that you remain employed by the Company on such date. If you resign from employment with the Company
+before the twelve (12)-month anniversary of the Start Date, you will be obligated to, and hereby agree to, repay a prorated por on of the
+net, a er-tax amount of the Sign-On Bonus paid out to you on or before the termina on date, based on the number of days you were
+employed by the Company prior to your resigna on. You agree that if you are obligated to repay all or a por on of the Sign-On Bonus, the
+Company may deduct, in accordance with applicable law, any such amount from any payments the Company owes you, including but not
+limited to any regular payroll amount and any expense payments. You further agree to pay to the Company, within thirty (30) days of your
+eﬀec ve termina on date, any remaining unpaid balance of the unearned 
+ 
+
+--- PAGE 98 ---
+  
+ 
+ 
+Sign-On Bonus not covered by such deduc ons. 
+You will also be eligible to par cipate in the 401(k) plan maintained by the Company, which currently provides for a bi-weekly employer
+contribu on equal to 3% of your earnings (subject to IRS employer contribu on limits), as well as a $40 per month internet
+reimbursement (while working from home), a
+$40 per month cell-phone reimbursement, and reimbursement of other reasonable business expenses in accordance with the Company’s
+policies on expense reimbursement. As a leader in our company, you are eligible for  me oﬀ under our management  me oﬀ policy and will
+not be subject to the standard PTO limits. You will be entrusted to manage your work and  me oﬀ in accordance with such policy and the
+business and opera onal needs of the Company. 
+Addi onally, you will be eligible to earn a discre onary annual bonus (the “Annual Bonus”) at an annual target amount of 50% of your Base
+Salary. Whether any Annual Bonus is awarded will be based upon the Company’s assessment of your performance and the Company’s
+a ainment of goals as set by the Board of Directors in its sole discre on. Following the close of each ﬁscal year, the Company will determine
+in its sole discre on whether it will award you an Annual Bonus and the amount of any such Annual Bonus. No amount of the Annual Bonus
+is guaranteed, and in addi on to the other condi ons for being awarded such compensa on, you must be an employee in good standing on
+the Annual Bonus payment date to be eligible to earn and receive an Annual Bonus. No par al or prorated bonuses will be provided. The
+Annual Bonus, if any, will be paid in accordance with the Company’s standard payroll prac ces, including the withholding of any applicable
+deduc ons and taxes. Notwithstanding the foregoing, for ﬁscal year 2021, provided you remain employed in good standing through the end
+of the year, you will be eligible to receive an Annual Bonus, in an amount as determined by the Board of Directors based on goals set by the
+Board of Directors and pro-rated based on the number of days you were employed by the Company in ﬁscal year 2021. 
+Subject to your con nued service with the Company and to the approval of the Company’s Board of Directors (or authorized commi ee),
+for ﬁscal year 2021, you will be granted an op on to purchase shares of the Company’s common stock (the “Op on”) with a value of
+$375,000, calculated by the Company using the Black Scholes model based on the closing price of the stock on the Start Date. The
+exercise price per share will be equal to the closing price per share of the Company’s common stock on the date of grant. Addi onally, you
+will be granted a Restricted Stock Unit (the “RSU”) with a value of
+$125,000, calculated by dividing this amount by the closing price of the stock on the Start Date. If granted, the Op on and RSU will vest in
+three (3) equal annual installments, measured from your Start Date, and subject to your con nued service with the Company through each
+such ves ng date. The Op on and RSU will be subject to the terms and condi ons applicable to such awards granted under the Company’s
+2020 Equity Incen ve Plan (the “Equity Plan”) and the applicable award agreement. [You will not be eligible for any addi onal grants
+made to similarly situated execu ves in ﬁscal year 2021.] 
+In ﬁscal year 2022, subject to your con nued service with the Company and to the approval of the Company’s Board of Directors (or
+authorized commi ee), you will be granted an annual equity award for shares of the Company’s common stock (the “An cipated
+Award”) with a grant date fair value of
+$275,000 (“An cipated Grant Value”), determined under applicable accoun ng guidance. If granted, the An cipated Award will vest in
+three (3) equal annual installments, measured from the date of grant, and subject to your con nued service with the Company through
+each such ves ng date. The An cipated Award will be subject to the terms and condi ons applicable to such awards granted under the
+Equity Plan and applicable award agreement. 
+ 
+
+--- PAGE 99 ---
+  
+ 
+ 
+Your employment is subject to the Company’s personnel policies and procedures as they may be interpreted, adopted, revised or deleted
+from  me to  me in the Company’s sole discre on. You will be eligible to par cipate on the same basis as similarly-situated employees in
+the Company’s beneﬁt plans in eﬀect from  me to  me during your employment. All ma ers of eligibility for coverage or beneﬁts under
+any beneﬁt plan shall be determined in accordance with the provisions of such plan. The Company reserves the right to change, alter, or
+terminate any beneﬁt plan in its sole discre on. An overview of our current beneﬁt plans will be provided. 
+As set forth above, your employment with the Company will, at all  mes, be “at will” which means that either you or the Company may
+terminate your employment at any  me for any reason, with or without advance no ce.
+ 
+This oﬀer is con ngent on your sa sfying the eligibility requirements for employment in the United States and upon your comple on of
+background screening to the sa sfac on of the Company in its sole discre on. In connec on with your employment with the Company, you
+will receive and have access to Company conﬁden al informa on and trade secrets. Accordingly, enclosed with this oﬀer le er is an
+Employee Conﬁden al Informa on, Inven ons, Non-Solicita on and Non-Compe  on Agreement which contains restric ve covenants
+and prohibits unauthorized use or disclosure of the Company’s conﬁden al informa on and trade secrets, among other obliga ons. Please
+review the Employee Conﬁden al Informa on, Inven ons, Non-Solicita on and Non-Compe  on Agreement and only sign it a er
+careful considera on. 
+By signing this le er you are represen ng that you have full authority to accept this posi on and perform the du es of the posi on
+without conﬂict with any other obliga ons and that you are not involved in any situa on that might create, or appear to create, a conﬂict
+of interest with respect to your loyalty to or du es for the Company. You speciﬁcally warrant that you are not subject to an employment
+agreement or restric ve covenant preven ng full performance of your du es to the Company. You agree not to bring to the Company or
+use in the performance of your responsibili es at the Company any materials or documents of a former employer that are not generally
+available to the public, unless you have obtained express wri en authoriza on from the former employer for their possession and use.
+You also agree to honor all obliga ons to former employers during your employment with the Company.
+ 
+By signing this le er, you acknowledge that the terms described in this le er, together with the Employee Conﬁden al Informa on,
+Inven ons, Non-Solicita on and Non-Compe  on Agreement, set forth the en re understanding between us and supersedes any prior
+representa ons or agreements, whether wri en or oral; there are no terms, condi ons, representa ons, warran es or covenants other
+than those contained herein. No term or provision of this le er may be amended, waived, released, discharged or modiﬁed except in
+wri ng, signed by you and an authorized oﬃcer of the Company, except that the Company may, in its sole discre on, adjust the rate of pay,
+salaries, incen ve compensa on, stock plans, beneﬁts, job  tles, loca ons, du es, responsibili es, and repor ng rela onships. 
+This is an exci ng  me for our business and for our industry. We are conﬁdent that your talents and abili es will be a fantas c addi on to the
+Vital Farms crew! This oﬀer of employment will expire if not 
+ 
+
+--- PAGE 100 ---
+  
+ 
+ 
+accepted on or before May 31st, 2021. Please indicate your acceptance of this oﬀer by signing below and returning along with the executed
+Employee Conﬁden al Informa on, Inven ons, Non-Solicita on and Non-Compe  on Agreement.
+ 
+Sincerely,
+ 
+Vital Farms, Inc.
+ 
+ 
+/s/ Russel Diez-Canseco
+Name: Russell Diez-Canseco
+Title: President and Chief Execu ve Oﬃcer ACCEPTED
+AND AGREED TO: 
+/s/ Stephanie Coon
+Stephanie Coon
+ 
+ 
+5/30/2021 Date: 
+ 
+ 
+ 
+
+--- PAGE 101 ---
+Exhibit 10.16
+ 
+ 
+January 10, 2022 
+Kathryn McKeon Via
+Email
+ 
+Re: Your Promo on
+ 
+Dear Kathryn,
+ 
+It is my great pleasure to set forth the terms of your well-deserved promo on at Vital Farms, Inc. (the “Company”) eﬀec ve as of January 27,
+2022 (the “Start Date”). Our success has been built on providing the highest quality, ethically produced food, full transparency about our farms
+and standards, top-shelf service to our customers and care for our crew. Your hard work, crea vity and innova ve mindset have been
+instrumental in helping us to arrive at this point, and we look forward to your con nued collabora on and contribu ons to help us get to the
+next level and beyond.
+ 
+Your new posi on will be Chief Marke ng Oﬃcer, repor ng into the Chief Execu ve Oﬃcer and performing such du es as are normally
+associated with this posi on and such du es as are assigned to you from  me to  me. You will con nue to work remotely from your
+residence in Aus n, Texas except as may be mutually agreed to by you and the Company. This is a full- me posi on. As an exempt salaried
+employee, you will devote substan ally all of your business  me and a en on to the business of the Company and will not be eligible for
+over me compensa on.
+ 
+Your ini al base salary will be at the rate of $11,538.46 bi-weekly, which equates to $300,000 on an annualized basis (“Base Salary”),
+payable in accordance with the Company’s standard payroll prac ces and subject to applicable deduc ons and withholdings. 
+You will also be eligible to con nue to par cipate in the 401(k) plan maintained by the Company, which currently provides for a bi-weekly
+employer contribu on equal to 3% of your earnings (subject to IRS employer contribu on limits), as well as a $40 per month internet
+reimbursement (while working from home), a $40 per month cell-phone reimbursement, and reimbursement of other reasonable business
+expenses in accordance with the Company’s policies on expense reimbursement. As a leader in our company, you will con nue to be eligible
+for  me oﬀ under our management  me oﬀ policy and will not be subject to the standard PTO limits. You will con nue to be entrusted to
+manage your work and  me oﬀ in accordance with such policy and the business and opera onal needs of the Company.
+ 
+Addi onally, you will be eligible to earn a discre onary annual bonus (the “Annual Bonus”) at an annual target amount of 40% of your Base
+Salary. Whether any Annual Bonus is awarded will be based upon the Company’s assessment of your performance and the Company’s
+a ainment of goals as set by the Board of Directors in its sole discre on. Following the close of each ﬁscal year, the Company will
+determine in its sole discre on whether it will award you an Annual Bonus and the amount of any such 
+
+--- PAGE 102 ---
+ 
+Annual Bonus. No amount of the Annual Bonus is guaranteed, and in addi on to the other condi ons for being awarded such compensa on,
+you must be an employee in good standing on the Annual Bonus payment date to be eligible to earn and receive an Annual Bonus. No par al
+or prorated bonuses will be provided. The Annual Bonus, if any, will be paid in accordance with the Company’s standard payroll prac ces,
+including the withholding of any applicable deduc ons and taxes. For the avoidance of doubt, the Annual Bonus described above will be
+payable commencing for ﬁscal year 2022. Provided you remain employed in good standing through the end of the year, you will be eligible
+to receive an Annual Bonus, in an amount as determined by the Board of Directors based on goals set by the Board of Directors.
+ 
+Subject to your con nued service with the Company and to the approval of the Company’s Board of Directors (or authorized commi ee), for
+ﬁscal year 2022, you will be granted an equity award to purchase shares of the Company’s common stock (the “Equity Award”) with a total
+value of $225,000 on the grant date. The Equity Award will consist of an op on to purchase shares of the Company’s common stock (the
+“Op on”) and a Restricted Stock Unit (the “RSU”) in a propor on to be determined by the Company’s Board. We expect that the Equity
+Award will be granted in late March 2022 concurrently with the grant of equity awards to similarly situated execu ves. The exercise price
+per share of the Op on will be equal to the closing price per share of the Company’s common stock on the date of grant, and the number of
+shares subject to the Op on will be calculated using the Black Sholes model based on the closing price of the stock on the grant date. The
+number of shares of common stock subject to the RSU will be calculated based on the closing price of the stock on the grant date. If
+granted, the Op on and RSU will vest in three (3) equal annual installments, measured from the grant date, and subject to your con nued
+service with the Company through each such ves ng date. The Op on and RSU will be subject to the terms and condi ons applicable to
+such awards granted under the Company’s 2020 Equity Incen ve Plan (the “Equity Plan”) and the applicable award agreement. 
+Your con nued employment is subject to the Company’s personnel policies and procedures as they may be interpreted, adopted, revised or
+deleted from  me to  me in the Company’s sole discre on. You will con nue to be eligible to par cipate on the same basis as similarly-
+situated employees in the Company’s beneﬁt plans in eﬀect from  me to  me during your employment. All ma ers of eligibility for coverage
+or beneﬁts under any beneﬁt plan shall be determined in accordance with the provisions of such plan.
+The Company reserves the right to change, alter, or terminate any beneﬁt plan in its sole discre on. An overview of our current beneﬁt
+plans will be provided.
+ 
+Your employment with the Company will, at all  mes, be “at will” which means that either you or the Company may terminate your
+employment at any  me for any reason, with or without advance no ce. 
+By signing this le er, you acknowledge that the terms described in this le er set forth the en re understanding between us and supersedes
+any prior representa ons or agreements, whether wri en or oral; there are no terms, condi ons, representa ons, warran es or covenants
+other than those contained herein. No term or provision of this le er may be amended, waived, released, discharged or modiﬁed except in
+wri ng, signed by you and an authorized oﬃcer of the Company, except that the Company may, in its sole discre on, adjust the rate of pay,
+salaries, incen ve compensa on, stock plans, beneﬁts, job  tles, loca ons, du es, responsibili es, and repor ng rela onships. 
+
+--- PAGE 103 ---
+ 
+Kathryn, I couldn’t be more excited for you and for the Company as you embark on your new role. Please indicate your acceptance
+of the terms of this le er agreement by signing below.
+ 
+Sincerely,
+ 
+Vital Farms, Inc. 
+ 
+/s/ Russel Diez-Canseco
+Name: Russell Diez-Canseco
+Title: President and Chief Execu ve Oﬃcer ACCEPTED
+AND AGREED TO:
+ 
+Kathryn McKeon 
+/s/ Kathryn McKeon
+
+--- PAGE 104 ---
+Exhibit 21.1
+List of Subsidiaries of Company
+ 
+None.
+
+--- PAGE 105 ---
+ 
+EXHIBIT 23.1 
+Consent of Independent Registered Public Accounting Firm
+We consent to the incorporation by reference in the registration statements (No. 333-254643 and No. 333-240258) on Form S-8 of our reportdated March 10, 2022, with respect to the consolidated financial statements and related notes of Vital Farms, Inc. and subsidiaries.
+ 
+ 
+/s/ KPMG LLP
+ 
+ 
+Austin, Texas
+March 10, 2022
+ 
+ 
+
+--- PAGE 106 ---
+Exhibit 31.1
+CERTIFICATION PURSUANT TO
+RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934,
+AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+I, Russel Diez-Canseco, certify that:
+ 
+1. I have reviewed this Annual Report on Form 10-K of Vital Farms, Inc.;
+ 
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report;
+ 
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+ 
+4. The registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-
+15(f)) for the registrant and have:
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared;
+ 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles;
+ 
+ 
+(c) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+ 
+ (d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most
+recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely
+to materially affect, the registrant’s internal control over financial reporting; and
+ 
+5. The registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the
+registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s internal
+control over financial reporting.
+Date: March 10, 2022  By:  /s/ Russell Diez-Canseco
+    Russell Diez-Canseco
+    President and Chief Executive Officer
+ 
+
+--- PAGE 107 ---
+Exhibit 31.2
+CERTIFICATION PURSUANT TO
+RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934,
+AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+I, Bo Meissner, certify that:
+ 
+1. I have reviewed this Annual Report on Form 10-K of Vital Farms, Inc.;
+ 
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report;
+ 
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+ 
+4. The registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-
+15(f)) for the registrant and have:
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared;
+ 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles;
+ 
+ 
+(c) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+ 
+ (d) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the registrant’s most
+recent fiscal quarter (the registrant’s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely
+to materially affect, the registrant’s internal control over financial reporting; and
+ 
+5. The registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the
+registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing the equivalent functions):
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information; and
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s internal
+control over financial reporting.
+Date: March 10, 2022  By:  /s/ Bo Meissner
+    Bo Meissner
+    Chief Financial Officer
+ 
+
+--- PAGE 108 ---
+Exhibit 32.1
+CERTIFICATION PURSUANT TO
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+Pursuant to the requirement set forth in Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”) and Section 1350 of Chapter
+63 of Title 18 of the United States Code (18 U.S.C. §1350), Russell Diez-Canseco, President and Chief Executive Officer of Vital Farms, Inc. (the “Company”),
+and Bo Meissner, Chief Financial Officer of the Company, each hereby certifies that, to the best of his knowledge:
+1. The Company’s Annual Report on Form 10-K for the fiscal year ended December 26, 2021, to which this Certification is attached as Exhibit 32.1
+(the “Annual Report”), fully complies with the requirements of Section 13(a) or Section 15(d) of the Exchange Act; and
+ 
+2. The information contained in the Annual Report fairly presents, in all material respects, the financial condition and results of operations of the
+Company.
+Dated:  March 10, 2022
+IN WITNESS WHEREOF, the undersigned have set their hands hereto as of the 10th day of March, 2022.
+ 
+/s/ Russell Diez-Canseco  /s/ Bo Meissner
+Russell Diez-Canseco  Bo Meissner
+President and Chief Executive Officer
+ 
+ 
+ Chief Financial Officer
+ 
+This certification accompanies the Annual Report on Form 10-K to which it relates, is not deemed filed with the Securities and Exchange Commission and is
+not to be incorporated by reference into any filing of Vital Farms, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as
+amended (whether made before or after the date of the Annual Report on Form 10-K), irrespective of any general incorporation language contained in such
+filing. 
+ 

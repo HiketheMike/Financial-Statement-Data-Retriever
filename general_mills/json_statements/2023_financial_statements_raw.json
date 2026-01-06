@@ -1,70 +1,69 @@
 ```json
 [
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Snacks",
     "year": 2023,
     "value": 4431.5
-  },
-  {
-    "item_number": "",
+  ,
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Cereal",
     "year": 2023,
     "value": 3209.5
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Convenient meals",
     "year": 2023,
     "value": 2961.6
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Pet",
     "year": 2023,
     "value": 2476.0
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Dough",
     "year": 2023,
     "value": 2390.5
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Baking mixes and ingredients",
     "year": 2023,
     "value": 2037.3
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Yogurt",
     "year": 2023,
     "value": 1472.9
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Super-premium ice cream",
     "year": 2023,
     "value": 703.7
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Other",
     "year": 2023,
     "value": 411.2
   },
   {
-    "item_number": "",
+    "item_number": null,
     "statement_type": "Net Sales by Products",
     "item": "Total",
     "year": 2023,
