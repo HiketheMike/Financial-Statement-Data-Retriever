@@ -1,0 +1,676 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net sales",
+    "year": 2023,
+    "value": 3146217
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Cost of sales",
+    "year": 2023,
+    "value": 1949760
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gross profit",
+    "year": 2023,
+    "value": 1196457
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Selling, general and administrative",
+    "year": 2023,
+    "value": 232207
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gain on insurance recoveries",
+    "year": 2023,
+    "value": 3345
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gain on disposal of fixed assets",
+    "year": 2023,
+    "value": 131
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Operating income",
+    "year": 2023,
+    "value": 967726
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest expense",
+    "year": 2023,
+    "value": 583
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest income",
+    "year": 2023,
+    "value": 18553
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Patronage dividends",
+    "year": 2023,
+    "value": 10239
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Equity in income of unconsolidated entities",
+    "year": 2023,
+    "value": 746
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Other, net",
+    "year": 2023,
+    "value": 1869
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Total other income",
+    "year": 2023,
+    "value": 30824
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income before income taxes",
+    "year": 2023,
+    "value": 998550
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income tax expense",
+    "year": 2023,
+    "value": 241818
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income",
+    "year": 2023,
+    "value": 756732
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net loss attributable to noncontrolling interest",
+    "year": 2023,
+    "value": -1292
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income attributable to Cal-Maine Foods, Inc.",
+    "year": 2023,
+    "value": 758024
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc.: Basic",
+    "year": 2023,
+    "value": 15.58
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc.: Diluted",
+    "year": 2023,
+    "value": 15.52
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Basic",
+    "year": 2023,
+    "value": 48648
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Diluted",
+    "year": 2023,
+    "value": 48834
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Cash and cash equivalents",
+    "year": 2023,
+    "value": 292824
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investment securities available-for-sale",
+    "year": 2023,
+    "value": 355090
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade receivables, net",
+    "year": 2023,
+    "value": 110980
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax receivable",
+    "year": 2023,
+    "value": 66966
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other receivables",
+    "year": 2023,
+    "value": 9267
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total receivables, net",
+    "year": 2023,
+    "value": 187213
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Inventories, net",
+    "year": 2023,
+    "value": 284418
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2023,
+    "value": 5380
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current assets",
+    "year": 2023,
+    "value": 1124925
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Property, plant & equipment, net",
+    "year": 2023,
+    "value": 744540
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investments in unconsolidated entities",
+    "year": 2023,
+    "value": 14449
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Goodwill",
+    "year": 2023,
+    "value": 44006
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Intangible assets, net",
+    "year": 2023,
+    "value": 15897
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other long-term assets",
+    "year": 2023,
+    "value": 10708
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total assets",
+    "year": 2023,
+    "value": 1954525
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade accounts payable",
+    "year": 2023,
+    "value": 82590
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Dividends payable",
+    "year": 2023,
+    "value": 37130
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued wages and benefits",
+    "year": 2023,
+    "value": 38733
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax payable",
+    "year": 2023,
+    "value": 8288
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued expenses and other liabilities",
+    "year": 2023,
+    "value": 15990
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current liabilities",
+    "year": 2023,
+    "value": 182731
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other noncurrent liabilities",
+    "year": 2023,
+    "value": 9999
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Deferred income taxes",
+    "year": 2023,
+    "value": 152212
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities",
+    "year": 2023,
+    "value": 344942
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock ($ 0.01 par value)",
+    "year": 2023,
+    "value": 703
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Class A convertible common stock ($ 0.01 par value)",
+    "year": 2023,
+    "value": 48
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Paid-in capital",
+    "year": 2023,
+    "value": 72112
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Retained earnings",
+    "year": 2023,
+    "value": 1571112
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accumulated other comprehensive loss, net of tax",
+    "year": 2023,
+    "value": -2886
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock in treasury, at cost",
+    "year": 2023,
+    "value": -30008
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total Cal-Maine Foods, Inc. stockholders’ equity",
+    "year": 2023,
+    "value": 1611081
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Noncontrolling interest in consolidated equity",
+    "year": 2023,
+    "value": -1498
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total stockholders’ equity",
+    "year": 2023,
+    "value": 1609583
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities and stockholders’ equity",
+    "year": 2023,
+    "value": 1954525
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net income",
+    "year": 2023,
+    "value": 756732
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2023,
+    "value": 72234
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2023,
+    "value": 24467
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Equity in income of affiliates",
+    "year": 2023,
+    "value": -746
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Gain on insurance recoveries",
+    "year": 2023,
+    "value": -3345
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from insurance settlement - business interruption",
+    "year": 2023,
+    "value": 3345
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Gain on disposal of property, plant and equipment",
+    "year": 2023,
+    "value": -131
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Stock compensation expense, net of amounts paid",
+    "year": 2023,
+    "value": 4205
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Unrealized gain loss on investments",
+    "year": 2023,
+    "value": 17
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Gain loss on sales of investments",
+    "year": 2023,
+    "value": 60
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of equity securities (cash flow adjustment)",
+    "year": 2023,
+    "value": -85
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of equity securities (cash flow adjustment)",
+    "year": 2023,
+    "value": 1739
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Amortization (accretion) of investments",
+    "year": 2023,
+    "value": -4380
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Impairment of investment in affiliate",
+    "year": 2023,
+    "value": 2000
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Gain on change in fair value of investment in affiliates",
+    "year": 2023,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Other (operating activities adjustment)",
+    "year": 2023,
+    "value": 35
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in receivables and other assets",
+    "year": 2023,
+    "value": 30816
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in inventories",
+    "year": 2023,
+    "value": -21102
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in accounts payable, accrued expenses and other liabilities",
+    "year": 2023,
+    "value": -2851
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2023,
+    "value": 863010
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of investments",
+    "year": 2023,
+    "value": -530781
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of investments",
+    "year": 2023,
+    "value": 291832
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Acquisition of business, net of cash acquired",
+    "year": 2023,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Investment in unconsolidated entities",
+    "year": 2023,
+    "value": -1673
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Distributions from unconsolidated entities",
+    "year": 2023,
+    "value": 1500
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of property, plant and equipment",
+    "year": 2023,
+    "value": -136569
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from insurance settlement - property, plant and equipment",
+    "year": 2023,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from disposal of property, plant and equipment",
+    "year": 2023,
+    "value": 580
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in investing activities",
+    "year": 2023,
+    "value": -375111
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on finance lease",
+    "year": 2023,
+    "value": -224
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchase of common stock by treasury",
+    "year": 2023,
+    "value": -1643
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Payments of dividends",
+    "year": 2023,
+    "value": -252292
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Contributions (financing activities)",
+    "year": 2023,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in financing activities",
+    "year": 2023,
+    "value": -254159
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in cash and cash equivalents",
+    "year": 2023,
+    "value": 233740
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at beginning of year",
+    "year": 2023,
+    "value": 59084
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at end of year",
+    "year": 2023,
+    "value": 292824
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash paid for operating leases",
+    "year": 2023,
+    "value": 648
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Income taxes paid",
+    "year": 2023,
+    "value": 258247
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Interest paid",
+    "year": 2023,
+    "value": 561
+  }
+]
+```

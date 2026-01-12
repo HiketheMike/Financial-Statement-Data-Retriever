@@ -1,0 +1,599 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net sales",
+    "year": 2025,
+    "value": 4261885
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Cost of sales",
+    "year": 2025,
+    "value": 2411000
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gross profit",
+    "year": 2025,
+    "value": 1850885
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Selling, general and administrative",
+    "year": 2025,
+    "value": 314449
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Loss on involuntary conversions",
+    "year": 2025,
+    "value": 156
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gain on disposal of fixed assets",
+    "year": 2025,
+    "value": 259
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Operating income",
+    "year": 2025,
+    "value": 1536539
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest expense",
+    "year": 2025,
+    "value": -612
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest income",
+    "year": 2025,
+    "value": 48671
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Patronage dividends",
+    "year": 2025,
+    "value": 11197
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Equity in income of unconsolidated entities",
+    "year": 2025,
+    "value": 6221
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Other, net",
+    "year": 2025,
+    "value": 1126
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Total other income",
+    "year": 2025,
+    "value": 66603
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income before income taxes",
+    "year": 2025,
+    "value": 1603142
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income tax expense",
+    "year": 2025,
+    "value": 384910
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income",
+    "year": 2025,
+    "value": 1218232
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net loss attributable to noncontrolling interest",
+    "year": 2025,
+    "value": -1816
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income attributable to Cal-Maine Foods, Inc.",
+    "year": 2025,
+    "value": 1220048
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc. Basic",
+    "year": 2025,
+    "value": 25.04
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc. Diluted",
+    "year": 2025,
+    "value": 24.95
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding Basic",
+    "year": 2025,
+    "value": 48719
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding Diluted",
+    "year": 2025,
+    "value": 48891
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Cash and cash equivalents",
+    "year": 2025,
+    "value": 499392
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investment securities available-for-sale",
+    "year": 2025,
+    "value": 892708
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade receivables, net",
+    "year": 2025,
+    "value": 244079
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax receivable",
+    "year": 2025,
+    "value": 13057
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other receivables",
+    "year": 2025,
+    "value": 15225
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total receivables, net",
+    "year": 2025,
+    "value": 272361
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Inventories, net",
+    "year": 2025,
+    "value": 295670
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2025,
+    "value": 7979
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current assets",
+    "year": 2025,
+    "value": 1968110
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Property, plant & equipment, net",
+    "year": 2025,
+    "value": 1026684
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investments in unconsolidated entities",
+    "year": 2025,
+    "value": 11095
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Goodwill",
+    "year": 2025,
+    "value": 46776
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Intangible assets, net",
+    "year": 2025,
+    "value": 15157
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other assets",
+    "year": 2025,
+    "value": 16797
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total assets",
+    "year": 2025,
+    "value": 3084619
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade accounts payable",
+    "year": 2025,
+    "value": 101033
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Dividends payable",
+    "year": 2025,
+    "value": 114163
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued wages and benefits",
+    "year": 2025,
+    "value": 60263
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax payable",
+    "year": 2025,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued expenses and other current liabilities",
+    "year": 2025,
+    "value": 32912
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current liabilities",
+    "year": 2025,
+    "value": 308371
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other liabilities",
+    "year": 2025,
+    "value": 55582
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Deferred income taxes",
+    "year": 2025,
+    "value": 154651
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities",
+    "year": 2025,
+    "value": 518604
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock amount",
+    "year": 2025,
+    "value": 751
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Class A convertible common stock amount",
+    "year": 2025,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Paid-in capital",
+    "year": 2025,
+    "value": 80845
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Retained earnings",
+    "year": 2025,
+    "value": 2565928
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accumulated other comprehensive loss, net of tax",
+    "year": 2025,
+    "value": -1007
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock in treasury, at cost",
+    "year": 2025,
+    "value": -85893
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total Cal-Maine Foods, Inc. stockholders’ equity",
+    "year": 2025,
+    "value": 2560624
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Noncontrolling interest in consolidated equity",
+    "year": 2025,
+    "value": 5391
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total stockholders’ equity",
+    "year": 2025,
+    "value": 2566015
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities and stockholders’ equity",
+    "year": 2025,
+    "value": 3084619
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net income",
+    "year": 2025,
+    "value": 1218232
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2025,
+    "value": 94021
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2025,
+    "value": 11570
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Stock compensation expense, net of amounts paid",
+    "year": 2025,
+    "value": 4527
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Loss on change in fair value contingent consideration",
+    "year": 2025,
+    "value": 15000
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Other operating activities, net",
+    "year": 2025,
+    "value": -15426
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in trade receivables",
+    "year": 2025,
+    "value": -104997
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in inventories",
+    "year": 2025,
+    "value": -12224
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Decrease in income taxes payable/receivable",
+    "year": 2025,
+    "value": -45946
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in accounts payable and current accrued expenses",
+    "year": 2025,
+    "value": 65311
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Decrease in other operating assets and liabilities",
+    "year": 2025,
+    "value": -5334
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2025,
+    "value": 1224734
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of investments",
+    "year": 2025,
+    "value": -1213593
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of investments",
+    "year": 2025,
+    "value": 907640
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Acquisition of businesses, net of cash acquired",
+    "year": 2025,
+    "value": -116193
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Investment in unconsolidated entities",
+    "year": 2025,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Distributions from unconsolidated entities",
+    "year": 2025,
+    "value": 4050
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of property, plant and equipment",
+    "year": 2025,
+    "value": -161255
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from disposal of property, plant and equipment",
+    "year": 2025,
+    "value": 3882
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in investing activities",
+    "year": 2025,
+    "value": -575469
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on long-term debt",
+    "year": 2025,
+    "value": -2481
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on finance lease",
+    "year": 2025,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchase of common stock by treasury",
+    "year": 2025,
+    "value": -53953
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Payments of dividends",
+    "year": 2025,
+    "value": -330290
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in financing activities",
+    "year": 2025,
+    "value": -386724
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in cash and cash equivalents",
+    "year": 2025,
+    "value": 262541
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash, cash equivalents and restricted cash at beginning of year",
+    "year": 2025,
+    "value": 237878
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash, cash equivalents and restricted cash at end of year",
+    "year": 2025,
+    "value": 500419
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Income taxes paid",
+    "year": 2025,
+    "value": 426172
+  }
+]
+```

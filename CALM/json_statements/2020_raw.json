@@ -1,0 +1,690 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Cash and cash equivalents",
+    "year": 2020,
+    "value": 78130
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investment securities available-for-sale",
+    "year": 2020,
+    "value": 154163
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Receivables: Trade receivables, net",
+    "year": 2020,
+    "value": 84976
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Receivables: Income tax receivable",
+    "year": 2020,
+    "value": 9884
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Receivables: Other",
+    "year": 2020,
+    "value": 3515
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total receivables",
+    "year": 2020,
+    "value": 98375
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Inventories",
+    "year": 2020,
+    "value": 187216
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2020,
+    "value": 4367
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current assets",
+    "year": 2020,
+    "value": 522251
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Property, plant & equipment, net",
+    "year": 2020,
+    "value": 557375
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Finance lease right-of-use asset, net",
+    "year": 2020,
+    "value": 678
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Operating lease right-of-use asset, net",
+    "year": 2020,
+    "value": 2531
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investments in unconsolidated entities",
+    "year": 2020,
+    "value": 60982
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Goodwill",
+    "year": 2020,
+    "value": 35525
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Intangible assets, net",
+    "year": 2020,
+    "value": 22816
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other long-term assets",
+    "year": 2020,
+    "value": 4536
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total assets",
+    "year": 2020,
+    "value": 1206694
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade accounts payable",
+    "year": 2020,
+    "value": 55904
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued wages and benefits",
+    "year": 2020,
+    "value": 23277
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued expenses and other liabilities",
+    "year": 2020,
+    "value": 13001
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Current maturities of long-term debt",
+    "year": 2020,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Current portion of finance lease obligation",
+    "year": 2020,
+    "value": 205
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Current portion of operating lease obligation",
+    "year": 2020,
+    "value": 796
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current liabilities",
+    "year": 2020,
+    "value": 93183
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Long-term finance lease obligation",
+    "year": 2020,
+    "value": 652
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Long-term operating lease obligation",
+    "year": 2020,
+    "value": 1735
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other noncurrent liabilities",
+    "year": 2020,
+    "value": 8681
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Deferred income taxes",
+    "year": 2020,
+    "value": 92768
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities",
+    "year": 2020,
+    "value": 197019
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock, $0.01 par value",
+    "year": 2020,
+    "value": 703
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Class A convertible common stock, $0.01 par value",
+    "year": 2020,
+    "value": 48
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Paid-in capital",
+    "year": 2020,
+    "value": 60372
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Retained earnings",
+    "year": 2020,
+    "value": 975147
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accumulated other comprehensive income, net of tax",
+    "year": 2020,
+    "value": 79
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock in treasury, at cost",
+    "year": 2020,
+    "value": -26674
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total Cal-Maine Foods, Inc. stockholders' equity",
+    "year": 2020,
+    "value": 1009675
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Noncontrolling interest in consolidated entities",
+    "year": 2020,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total stockholders’ equity",
+    "year": 2020,
+    "value": 1009675
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities and stockholders' equity",
+    "year": 2020,
+    "value": 1206694
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net sales",
+    "year": 2020,
+    "value": 1351609
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Cost of sales",
+    "year": 2020,
+    "value": 1172021
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gross profit",
+    "year": 2020,
+    "value": 179588
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Selling, general and administrative",
+    "year": 2020,
+    "value": 176237
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Legal settlement expense",
+    "year": 2020,
+    "value": 2000
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Loss on disposal of fixed assets",
+    "year": 2020,
+    "value": 82
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Operating income",
+    "year": 2020,
+    "value": 1269
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest expense",
+    "year": 2020,
+    "value": -498
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest income",
+    "year": 2020,
+    "value": 4962
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Patronage dividends",
+    "year": 2020,
+    "value": 10096
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Equity in income of unconsolidated entities",
+    "year": 2020,
+    "value": 534
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Other, net",
+    "year": 2020,
+    "value": 3696
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Total other income",
+    "year": 2020,
+    "value": 18790
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income before income taxes",
+    "year": 2020,
+    "value": 20059
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income tax expense (benefit)",
+    "year": 2020,
+    "value": 1731
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income",
+    "year": 2020,
+    "value": 18328
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Less: Net income (loss) attributable to noncontrolling interest",
+    "year": 2020,
+    "value": -63
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income attributable to Cal-Maine Foods, Inc.",
+    "year": 2020,
+    "value": 18391
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc. Basic",
+    "year": 2020,
+    "value": 0.38
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc. Diluted",
+    "year": 2020,
+    "value": 0.38
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Basic",
+    "year": 2020,
+    "value": 48467
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Diluted",
+    "year": 2020,
+    "value": 48584
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net income",
+    "year": 2020,
+    "value": 18328
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2020,
+    "value": 58103
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2020,
+    "value": 10281
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Equity in income of affiliates",
+    "year": 2020,
+    "value": -534
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Loss on disposal of property, plant and equipment",
+    "year": 2020,
+    "value": 82
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Impairment loss on fixed assets",
+    "year": 2020,
+    "value": 2919
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Stock compensation expense, net of amounts paid",
+    "year": 2020,
+    "value": 3617
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Unrealized losses on investments",
+    "year": 2020,
+    "value": 744
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Gains on sales of investments",
+    "year": 2020,
+    "value": -611
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of equity securities",
+    "year": 2020,
+    "value": -275
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of equity securities",
+    "year": 2020,
+    "value": 1212
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Amortization of investments",
+    "year": 2020,
+    "value": 316
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Other (adjustments to reconcile net income)",
+    "year": 2020,
+    "value": -248
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "(Increase) decrease in receivables and other assets",
+    "year": 2020,
+    "value": -28300
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in inventories",
+    "year": 2020,
+    "value": -9704
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "(Increase) decrease in accounts payable, accrued expenses and other liabilities",
+    "year": 2020,
+    "value": 17679
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2020,
+    "value": 73609
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of investments",
+    "year": 2020,
+    "value": -107234
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of investments",
+    "year": 2020,
+    "value": 204277
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Acquisition of businesses, net of cash acquired",
+    "year": 2020,
+    "value": -44650
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Investment in unconsolidated entities",
+    "year": 2020,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Distributions from unconsolidated entities",
+    "year": 2020,
+    "value": 7114
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of property, plant and equipment",
+    "year": 2020,
+    "value": -124178
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from disposal of property, plant and equipment",
+    "year": 2020,
+    "value": 3306
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in investing activities",
+    "year": 2020,
+    "value": -61365
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on long-term debt",
+    "year": 2020,
+    "value": -1500
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on finance lease",
+    "year": 2020,
+    "value": -196
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Contributions from (distributions to) to noncontrolling interest partners",
+    "year": 2020,
+    "value": -755
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchase of common stock by treasury",
+    "year": 2020,
+    "value": -910
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Payments of dividends",
+    "year": 2020,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in financing activities",
+    "year": 2020,
+    "value": -3361
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in cash and cash equivalents",
+    "year": 2020,
+    "value": 8883
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at beginning of year",
+    "year": 2020,
+    "value": 69247
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at end of year",
+    "year": 2020,
+    "value": 78130
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Supplemental information: Cash paid for operating leases",
+    "year": 2020,
+    "value": 871
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Supplemental information: Income taxes paid (refunds received)",
+    "year": 2020,
+    "value": -8443
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Supplemental information: Interest paid (net of amount capitalized)",
+    "year": 2020,
+    "value": 498
+  }
+]
+```

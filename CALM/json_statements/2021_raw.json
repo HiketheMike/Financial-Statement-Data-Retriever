@@ -1,0 +1,669 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net sales",
+    "year": 2021,
+    "value": 1348987
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Cost of sales",
+    "year": 2021,
+    "value": 1188326
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gross profit",
+    "year": 2021,
+    "value": 160661
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Selling, general and administrative",
+    "year": 2021,
+    "value": 183943
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Loss on disposal of fixed assets",
+    "year": 2021,
+    "value": 2982
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Operating income (loss)",
+    "year": 2021,
+    "value": -26264
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest expense",
+    "year": 2021,
+    "value": -213
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest income",
+    "year": 2021,
+    "value": 2828
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Patronage dividends",
+    "year": 2021,
+    "value": 9004
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Equity in income of unconsolidated entities",
+    "year": 2021,
+    "value": 622
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Other, net",
+    "year": 2021,
+    "value": 4074
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Total other income",
+    "year": 2021,
+    "value": 16315
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income (loss) before income taxes",
+    "year": 2021,
+    "value": -9949
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income tax expense (benefit)",
+    "year": 2021,
+    "value": -12009
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income",
+    "year": 2021,
+    "value": 2060
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income (loss) attributable to noncontrolling interest",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income attributable to Cal-Maine Foods, Inc.",
+    "year": 2021,
+    "value": 2060
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc.: Basic",
+    "year": 2021,
+    "value": 0.04
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc.: Diluted",
+    "year": 2021,
+    "value": 0.04
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Basic",
+    "year": 2021,
+    "value": 48522
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Diluted",
+    "year": 2021,
+    "value": 48656
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Cash and cash equivalents",
+    "year": 2021,
+    "value": 57352
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investment securities available-for-sale",
+    "year": 2021,
+    "value": 112158
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade receivables, net",
+    "year": 2021,
+    "value": 79066
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax receivable",
+    "year": 2021,
+    "value": 42516
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other receivables",
+    "year": 2021,
+    "value": 5057
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total receivables, net",
+    "year": 2021,
+    "value": 126639
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Inventories, net",
+    "year": 2021,
+    "value": 218375
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2021,
+    "value": 5407
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current assets",
+    "year": 2021,
+    "value": 519931
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Property, plant & equipment, net",
+    "year": 2021,
+    "value": 589417
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Finance lease right-of-use asset, net",
+    "year": 2021,
+    "value": 525
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Operating lease right-of-use asset, net",
+    "year": 2021,
+    "value": 1724
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investments in unconsolidated entities",
+    "year": 2021,
+    "value": 54941
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Goodwill",
+    "year": 2021,
+    "value": 35525
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Intangible assets, net",
+    "year": 2021,
+    "value": 20341
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other long-term assets",
+    "year": 2021,
+    "value": 6770
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total assets",
+    "year": 2021,
+    "value": 1229174
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade accounts payable",
+    "year": 2021,
+    "value": 52784
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued wages and benefits",
+    "year": 2021,
+    "value": 23812
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued expenses and other liabilities",
+    "year": 2021,
+    "value": 12595
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Current portion of finance lease obligation",
+    "year": 2021,
+    "value": 215
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Current portion of operating lease obligation",
+    "year": 2021,
+    "value": 691
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current liabilities",
+    "year": 2021,
+    "value": 90097
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Long-term finance lease obligation",
+    "year": 2021,
+    "value": 438
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Long-term operating lease obligation",
+    "year": 2021,
+    "value": 1034
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other noncurrent liabilities",
+    "year": 2021,
+    "value": 10416
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Deferred income taxes",
+    "year": 2021,
+    "value": 114408
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities",
+    "year": 2021,
+    "value": 216393
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock – authorized 120,000 shares, issued 70,261 shares",
+    "year": 2021,
+    "value": 703
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Class A convertible common stock – authorized and issued 4,800 shares",
+    "year": 2021,
+    "value": 48
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Paid-in capital",
+    "year": 2021,
+    "value": 64044
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Retained earnings",
+    "year": 2021,
+    "value": 975977
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accumulated other comprehensive income (loss), net of tax",
+    "year": 2021,
+    "value": -558
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock in treasury, at cost",
+    "year": 2021,
+    "value": -27433
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total stockholders’ equity",
+    "year": 2021,
+    "value": 1012781
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities and stockholders’ equity",
+    "year": 2021,
+    "value": 1229174
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net income",
+    "year": 2021,
+    "value": 2060
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2021,
+    "value": 59477
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2021,
+    "value": 22351
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Equity in income of affiliates",
+    "year": 2021,
+    "value": -622
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Loss on disposal of property, plant and equipment",
+    "year": 2021,
+    "value": 2982
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Impairment loss on fixed assets",
+    "year": 2021,
+    "value": 196
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Stock compensation expense, net of amounts paid",
+    "year": 2021,
+    "value": 3778
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Unrealized losses on investments",
+    "year": 2021,
+    "value": 1810
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Gains on sales of investments",
+    "year": 2021,
+    "value": -22
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of equity securities",
+    "year": 2021,
+    "value": -334
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of equity securities",
+    "year": 2021,
+    "value": 55
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Amortization of investments",
+    "year": 2021,
+    "value": 890
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Other (cash flow adjustments)",
+    "year": 2021,
+    "value": -427
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "(Increase) decrease in receivables and other assets",
+    "year": 2021,
+    "value": -33487
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in inventories",
+    "year": 2021,
+    "value": -31159
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "(Increase) decrease in accounts payable, accrued expenses and other liabilities",
+    "year": 2021,
+    "value": -1412
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2021,
+    "value": 26136
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of investments",
+    "year": 2021,
+    "value": -88283
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of investments",
+    "year": 2021,
+    "value": 129108
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Acquisition of businesses, net of cash acquired",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Investment in unconsolidated entities",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Distributions from unconsolidated entities",
+    "year": 2021,
+    "value": 6663
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of property, plant and equipment",
+    "year": 2021,
+    "value": -95069
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from disposal of property, plant and equipment",
+    "year": 2021,
+    "value": 3390
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in investing activities",
+    "year": 2021,
+    "value": -44191
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on long-term debt",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on finance lease",
+    "year": 2021,
+    "value": -205
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Distributions to noncontrolling interest partners",
+    "year": 2021,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchase of common stock by treasury",
+    "year": 2021,
+    "value": -871
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Payments of dividends",
+    "year": 2021,
+    "value": -1652
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Contributions",
+    "year": 2021,
+    "value": 5
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in financing activities",
+    "year": 2021,
+    "value": -2723
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in cash and cash equivalents",
+    "year": 2021,
+    "value": -20778
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at beginning of year",
+    "year": 2021,
+    "value": 78130
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at end of year",
+    "year": 2021,
+    "value": 57352
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash paid for operating leases",
+    "year": 2021,
+    "value": 929
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Income taxes paid (refunds received)",
+    "year": 2021,
+    "value": -1618
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Interest paid",
+    "year": 2021,
+    "value": 508
+  }
+]
+```

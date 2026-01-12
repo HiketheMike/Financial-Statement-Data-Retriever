@@ -1,0 +1,606 @@
+```json
+[
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net sales",
+    "year": 2024,
+    "value": 2326443
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Cost of sales",
+    "year": 2024,
+    "value": 1784872
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gross profit",
+    "year": 2024,
+    "value": 541571
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Selling, general and administrative",
+    "year": 2024,
+    "value": 252625
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Gain on involuntary conversions",
+    "year": 2024,
+    "value": 23532
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "(Gain) loss on disposal of fixed assets",
+    "year": 2024,
+    "value": 26
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Operating income",
+    "year": 2024,
+    "value": 312452
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest expense",
+    "year": 2024,
+    "value": -549
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Interest income",
+    "year": 2024,
+    "value": 32275
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Patronage dividends",
+    "year": 2024,
+    "value": 11331
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Equity in income of unconsolidated entities",
+    "year": 2024,
+    "value": 1420
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Other, net",
+    "year": 2024,
+    "value": 3042
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Total other income",
+    "year": 2024,
+    "value": 47519
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income before income taxes",
+    "year": 2024,
+    "value": 359971
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Income tax expense",
+    "year": 2024,
+    "value": 83689
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income",
+    "year": 2024,
+    "value": 276282
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net loss attributable to noncontrolling interest",
+    "year": 2024,
+    "value": -1606
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income attributable to Cal-Maine Foods, Inc.",
+    "year": 2024,
+    "value": 277888
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc. Basic",
+    "year": 2024,
+    "value": 5.7
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Net income per share attributable to Cal-Maine Foods, Inc. Diluted",
+    "year": 2024,
+    "value": 5.69
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Basic",
+    "year": 2024,
+    "value": 48717
+  },
+  {
+    "item_number": "",
+    "statement_type": "Income Statement",
+    "item": "Weighted average shares outstanding: Diluted",
+    "year": 2024,
+    "value": 48873
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Cash and cash equivalents",
+    "year": 2024,
+    "value": 237878
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investment securities available-for-sale",
+    "year": 2024,
+    "value": 574499
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade receivables, net",
+    "year": 2024,
+    "value": 138550
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax receivable",
+    "year": 2024,
+    "value": 10459
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other receivables",
+    "year": 2024,
+    "value": 13433
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total receivables, net",
+    "year": 2024,
+    "value": 162442
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Inventories, net",
+    "year": 2024,
+    "value": 261782
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Prepaid expenses and other current assets",
+    "year": 2024,
+    "value": 5238
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current assets",
+    "year": 2024,
+    "value": 1241839
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Property, plant & equipment, net",
+    "year": 2024,
+    "value": 857234
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Investments in unconsolidated entities",
+    "year": 2024,
+    "value": 11195
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Goodwill",
+    "year": 2024,
+    "value": 45776
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Intangible assets, net",
+    "year": 2024,
+    "value": 15996
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other long-term assets",
+    "year": 2024,
+    "value": 12721
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total assets",
+    "year": 2024,
+    "value": 2184761
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Trade accounts payable",
+    "year": 2024,
+    "value": 75862
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Dividends payable",
+    "year": 2024,
+    "value": 37760
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued wages and benefits",
+    "year": 2024,
+    "value": 32971
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Income tax payable",
+    "year": 2024,
+    "value": 43348
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accrued expenses and other liabilities",
+    "year": 2024,
+    "value": 37802
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total current liabilities",
+    "year": 2024,
+    "value": 227743
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Other noncurrent liabilities",
+    "year": 2024,
+    "value": 17109
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Deferred income taxes",
+    "year": 2024,
+    "value": 142866
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities",
+    "year": 2024,
+    "value": 387718
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock",
+    "year": 2024,
+    "value": 703
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Class A convertible common stock",
+    "year": 2024,
+    "value": 48
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Paid-in capital",
+    "year": 2024,
+    "value": 76371
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Retained earnings",
+    "year": 2024,
+    "value": 1756395
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Accumulated other comprehensive loss, net of tax",
+    "year": 2024,
+    "value": -1773
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Common stock in treasury, at cost",
+    "year": 2024,
+    "value": -31597
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total Cal-Maine Foods, Inc. stockholders’ equity",
+    "year": 2024,
+    "value": 1800147
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Noncontrolling interest in consolidated equity",
+    "year": 2024,
+    "value": -3104
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total stockholders’ equity",
+    "year": 2024,
+    "value": 1797043
+  },
+  {
+    "item_number": "",
+    "statement_type": "Balance Sheet",
+    "item": "Total liabilities and stockholders’ equity",
+    "year": 2024,
+    "value": 2184761
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net income",
+    "year": 2024,
+    "value": 276282
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Depreciation and amortization",
+    "year": 2024,
+    "value": 80241
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Deferred income taxes",
+    "year": 2024,
+    "value": -9672
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Stock compensation expense, net of amounts paid",
+    "year": 2024,
+    "value": 4358
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Loss on change in fair value contingent consideration",
+    "year": 2024,
+    "value": 5500
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Other operating activities, net",
+    "year": 2024,
+    "value": -6908
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in trade receivables",
+    "year": 2024,
+    "value": -27570
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in inventories",
+    "year": 2024,
+    "value": 28800
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in income taxes payable/receivable",
+    "year": 2024,
+    "value": 91567
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase in accounts payable and current accrued expenses",
+    "year": 2024,
+    "value": 9353
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Decrease in other operating assets and liabilities",
+    "year": 2024,
+    "value": -553
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash provided by operating activities",
+    "year": 2024,
+    "value": 451398
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of investments",
+    "year": 2024,
+    "value": -573565
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Sales of investments",
+    "year": 2024,
+    "value": 358932
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Acquisition of business, net of cash acquired",
+    "year": 2024,
+    "value": -53746
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Investment in unconsolidated entities",
+    "year": 2024,
+    "value": -363
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Distributions from unconsolidated entities",
+    "year": 2024,
+    "value": 3000
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchases of property, plant and equipment",
+    "year": 2024,
+    "value": -147116
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from insurance settlement - property, plant and equipment",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net proceeds from disposal of property, plant and equipment",
+    "year": 2024,
+    "value": 272
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in investing activities",
+    "year": 2024,
+    "value": -412586
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Principal payments on finance lease",
+    "year": 2024,
+    "value": -214
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Purchase of common stock by treasury",
+    "year": 2024,
+    "value": -1688
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Payments of dividends",
+    "year": 2024,
+    "value": -91856
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Contributions",
+    "year": 2024,
+    "value": 0
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Net cash used in financing activities",
+    "year": 2024,
+    "value": -93758
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Increase (decrease) in cash and cash equivalents",
+    "year": 2024,
+    "value": -54946
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at beginning of year",
+    "year": 2024,
+    "value": 292824
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Cash and cash equivalents at end of year",
+    "year": 2024,
+    "value": 237878
+  },
+  {
+    "item_number": "",
+    "statement_type": "Statement of Cash Flows",
+    "item": "Income taxes paid",
+    "year": 2024,
+    "value": 35101
+  }
+]
+```
